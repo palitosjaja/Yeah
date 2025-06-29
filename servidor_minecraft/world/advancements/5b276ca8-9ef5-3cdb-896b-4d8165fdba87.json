@@ -6181,81 +6181,27 @@
     },
     "done": true
   },
-  "incendium:technical/sentrys_wrath": {
+  "minecraft:recipes/misc/yellow_dye_from_dandelion": {
     "criteria": {
-      "log_spam_fixer": "2025-06-29 05:26:48 +0000"
+      "has_dandelion": "2025-06-29 04:48:05 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/on_block": {
+  "morevillagers:recipes/gardening_table": {
     "criteria": {
-      "log_spam_fixer": "2025-06-29 05:26:48 +0000"
+      "has_flower": "2025-06-29 04:48:05 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/feed_ghastling": {
+  "biomeswevegone:recipes/misc/orange_dye_from_bwg_tag": {
     "criteria": {
-      "log_spam_fixer": "2025-06-29 05:26:48 +0000"
+      "TagKey[minecraft:item / biomeswevegone:dye/makes_orange_dye]": "2025-06-29 04:48:08 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/multiplex_crossbow": {
+  "minecraft:recipes/transportation/carrot_on_a_stick": {
     "criteria": {
-      "log_spam_fixer": "2025-06-29 05:26:48 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_player_hurt": {
-    "criteria": {
-      "log_spam_fixer": "2025-06-29 05:26:48 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_kill": {
-    "criteria": {
-      "log_spam_fixer": "2025-06-29 05:26:48 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_inventory_change": {
-    "criteria": {
-      "log_spam_fixer": "2025-06-29 05:26:48 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/holy_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2025-06-29 05:26:48 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/inventory/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2025-06-29 05:26:48 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/give_ghastling": {
-    "criteria": {
-      "log_spam_fixer": "2025-06-29 05:26:48 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/inventory/sentrys_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2025-06-29 05:26:48 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2025-06-29 05:26:48 +0000"
-    },
-    "done": false
-  },
-  "biomesoplenty:recipes/redstone/tnt_from_bop_sand": {
-    "criteria": {
-      "has_gunpowder": "2025-06-29 05:19:50 +0000"
+      "has_carrot": "2025-06-29 05:00:54 +0000"
     },
     "done": true
   },
@@ -6277,18 +6223,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/firework_rocket_simple": {
-    "criteria": {
-      "has_gunpowder": "2025-06-29 05:19:50 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/baked_potato_from_campfire_cooking": {
-    "criteria": {
-      "has_potato": "2025-06-29 05:07:24 +0000"
-    },
-    "done": true
-  },
   "valhelsia_furniture:recipes/decorations/magenta_upholstered_birch_stool": {
     "criteria": {
       "has_birch_slab": "2025-06-29 05:03:57 +0000"
@@ -6298,18 +6232,6 @@
   "valhelsia_furniture:recipes/decorations/white_upholstered_birch_stool": {
     "criteria": {
       "has_birch_slab": "2025-06-29 05:03:57 +0000"
-    },
-    "done": true
-  },
-  "spartanweaponry:recipes/explosive_charge": {
-    "criteria": {
-      "has_gunpowder": "2025-06-29 05:19:50 +0000"
-    },
-    "done": true
-  },
-  "alexsmobs:alexsmobs/grizzly_bear": {
-    "criteria": {
-      "killed_by": "2025-06-29 05:23:06 +0000"
     },
     "done": true
   },
@@ -6343,12 +6265,6 @@
     },
     "done": true
   },
-  "galosphere:recipes/combat/silver_bomb": {
-    "criteria": {
-      "has_gunpowder": "2025-06-29 05:19:50 +0000"
-    },
-    "done": true
-  },
   "valhelsia_furniture:recipes/decorations/green_upholstered_birch_stool": {
     "criteria": {
       "has_birch_slab": "2025-06-29 05:03:57 +0000"
@@ -6358,18 +6274,6 @@
   "valhelsia_furniture:recipes/decorations/light_gray_upholstered_birch_stool": {
     "criteria": {
       "has_birch_slab": "2025-06-29 05:03:57 +0000"
-    },
-    "done": true
-  },
-  "dungeonnowloading:recipes/combat/explosive_barrel": {
-    "criteria": {
-      "has_gunpowder": "2025-06-29 05:19:50 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/transportation/carrot_on_a_stick": {
-    "criteria": {
-      "has_carrot": "2025-06-29 05:00:54 +0000"
     },
     "done": true
   },
@@ -6391,18 +6295,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/yellow_dye_from_dandelion": {
-    "criteria": {
-      "has_dandelion": "2025-06-29 04:48:05 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/baked_potato_from_smoking": {
-    "criteria": {
-      "has_potato": "2025-06-29 05:07:24 +0000"
-    },
-    "done": true
-  },
   "valhelsia_furniture:recipes/decorations/yellow_upholstered_birch_stool": {
     "criteria": {
       "has_birch_slab": "2025-06-29 05:03:57 +0000"
@@ -6412,18 +6304,6 @@
   "twilightforest:recipes/decorations/wood/birch_banister": {
     "criteria": {
       "has_item": "2025-06-29 05:03:57 +0000"
-    },
-    "done": true
-  },
-  "regions_unexplored:recipes/building_blocks/ash": {
-    "criteria": {
-      "has_gunpowder": "2025-06-29 05:19:50 +0000"
-    },
-    "done": true
-  },
-  "morevillagers:recipes/gardening_table": {
-    "criteria": {
-      "has_flower": "2025-06-29 04:48:05 +0000"
     },
     "done": true
   },
@@ -6445,21 +6325,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/food/baked_potato": {
-    "criteria": {
-      "has_potato": "2025-06-29 05:07:24 +0000"
-    },
-    "done": true
-  },
   "valhelsia_furniture:recipes/decorations/birch_desk_drawer": {
     "criteria": {
       "has_birch_slab": "2025-06-29 05:03:57 +0000"
-    },
-    "done": true
-  },
-  "biomeswevegone:recipes/misc/orange_dye_from_bwg_tag": {
-    "criteria": {
-      "TagKey[minecraft:item / biomeswevegone:dye/makes_orange_dye]": "2025-06-29 04:48:08 +0000"
     },
     "done": true
   },
@@ -6469,9 +6337,69 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/baked_potato_from_campfire_cooking": {
+    "criteria": {
+      "has_potato": "2025-06-29 05:07:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato_from_smoking": {
+    "criteria": {
+      "has_potato": "2025-06-29 05:07:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato": {
+    "criteria": {
+      "has_potato": "2025-06-29 05:07:24 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/redstone/tnt_from_bop_sand": {
+    "criteria": {
+      "has_gunpowder": "2025-06-29 05:19:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/firework_rocket_simple": {
+    "criteria": {
+      "has_gunpowder": "2025-06-29 05:19:50 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/explosive_charge": {
+    "criteria": {
+      "has_gunpowder": "2025-06-29 05:19:50 +0000"
+    },
+    "done": true
+  },
+  "galosphere:recipes/combat/silver_bomb": {
+    "criteria": {
+      "has_gunpowder": "2025-06-29 05:19:50 +0000"
+    },
+    "done": true
+  },
+  "dungeonnowloading:recipes/combat/explosive_barrel": {
+    "criteria": {
+      "has_gunpowder": "2025-06-29 05:19:50 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/ash": {
+    "criteria": {
+      "has_gunpowder": "2025-06-29 05:19:50 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/tnt": {
     "criteria": {
       "has_gunpowder": "2025-06-29 05:19:50 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/grizzly_bear": {
+    "criteria": {
+      "killed_by": "2025-06-29 05:23:06 +0000"
     },
     "done": true
   },

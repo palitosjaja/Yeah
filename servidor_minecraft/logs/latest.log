@@ -13378,3 +13378,10 @@ com.google.gson.JsonSyntaxException: Expected itemGroup.minecells.minecells to b
 [29Jun2025 18:11:43.757] [Server thread/INFO] [Enigmatic Legacy/INFO]: Granting starter gear to weecbx
 [29Jun2025 18:11:44.370] [Netty Epoll Server IO #4/INFO] [owo/]: Receiving client config
 [29Jun2025 18:11:44.838] [Server thread/INFO] [Enigmatic Legacy/INFO]: Blue Skies detected: true
+[29Jun2025 18:15:12.042] [Server thread/INFO] [com.brass_amber.ba_bt.BABTMain/]: Setting obelisk data
+[29Jun2025 18:15:27.226] [Server thread/INFO] [mixin/]: Mixing MixinPiglinTasks from enigmaticlegacy.mixins.json into net.minecraft.world.entity.monster.piglin.PiglinAi
+[29Jun2025 18:15:27.226] [Server thread/INFO] [mixin/]: Renaming synthetic method lambda$onPiglinBarter$0(Ljava/util/List;Lnet/minecraft/world/item/ItemStack;)V to md611208$lambda$onPiglinBarter$0$2 in enigmaticlegacy.mixins.json:MixinPiglinTasks from mod (unknown)
+[29Jun2025 18:20:12.005] [Server thread/INFO] [com.brass_amber.ba_bt.BABTMain/]: Setting obelisk data
+[29Jun2025 18:21:12.057] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: weecbx has made the advancement [Not Today, Thank You]
+[29Jun2025 18:21:25.461] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [weecbx: Set own game mode to Creative Mode]
+[29Jun2025 18:21:40.315] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [weecbx: Set own game mode to Survival Mode]
