@@ -13385,3 +13385,24 @@ com.google.gson.JsonSyntaxException: Expected itemGroup.minecells.minecells to b
 [29Jun2025 18:21:12.057] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: weecbx has made the advancement [Not Today, Thank You]
 [29Jun2025 18:21:25.461] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [weecbx: Set own game mode to Creative Mode]
 [29Jun2025 18:21:40.315] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [weecbx: Set own game mode to Survival Mode]
+[29Jun2025 18:23:50.537] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [weecbx: Set own game mode to Creative Mode]
+[29Jun2025 18:23:54.319] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: weecbx has made the advancement [Life turned out to be a comedy]
+[29Jun2025 18:24:12.875] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [weecbx: Set own game mode to Survival Mode]
+[29Jun2025 18:24:19.182] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [weecbx: Set own game mode to Creative Mode]
+[29Jun2025 18:24:29.525] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [weecbx: Set own game mode to Survival Mode]
+[29Jun2025 18:24:53.423] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [weecbx: Set own game mode to Creative Mode]
+[29Jun2025 18:25:08.620] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [weecbx: Set own game mode to Survival Mode]
+[29Jun2025 18:25:11.999] [Server thread/INFO] [com.brass_amber.ba_bt.BABTMain/]: Setting obelisk data
+[29Jun2025 18:25:22.264] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [weecbx: Set own game mode to Creative Mode]
+[29Jun2025 18:26:17.070] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [weecbx: Set own game mode to Survival Mode]
+[29Jun2025 18:26:47.317] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: weecbx has made the advancement [Dark Metallurgy]
+[29Jun2025 18:28:10.303] [Worker-Main-23/INFO] [com.brass_amber.ba_bt.BABTMain/]: Spawned Monolith at BlockPos{x=760, y=156, z=297}
+[29Jun2025 18:28:24.964] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [weecbx: Set own game mode to Creative Mode]
+[29Jun2025 18:30:07.515] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [weecbx: Set own game mode to Spectator Mode]
+[29Jun2025 18:30:12.009] [Server thread/INFO] [com.brass_amber.ba_bt.BABTMain/]: Setting obelisk data
+[29Jun2025 18:30:13.617] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [weecbx: Set own game mode to Creative Mode]
+[29Jun2025 18:30:55.409] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [weecbx: Set own game mode to Survival Mode]
+[29Jun2025 18:31:01.518] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [weecbx: Set own game mode to Creative Mode]
+[29Jun2025 18:31:06.904] [Server thread/INFO] [com.brass_amber.ba_bt.BABTMain/]: Setting obelisk data
+[29Jun2025 18:31:53.261] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: weecbx lost connection: Disconnected
+[29Jun2025 18:31:53.261] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: weecbx left the game
