@@ -14295,3 +14295,17 @@ com.google.gson.JsonSyntaxException: Expected itemGroup.minecells.minecells to b
 [29Jun2025 23:34:40.522] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: weecbx has made the advancement [Mind your step]
 [29Jun2025 23:34:53.574] [Worker-Main-4/INFO] [com.brass_amber.ba_bt.BABTMain/]: land_tower Tower at BlockPos{x=-360, y=65, z=-248} [-24, -15]
 [29Jun2025 23:34:53.576] [Worker-Main-4/INFO] [com.brass_amber.ba_bt.worldGen.structures.TowerPieces/]: Tower name: land_tower Variant: normal
+[29Jun2025 23:42:27.624] [Worker-Main-4/INFO] [com.brass_amber.ba_bt.BABTMain/]: Spawned Monolith at BlockPos{x=-359, y=158, z=-247}
+[29Jun2025 23:42:35.810] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [weecbx: Set the time to 1000]
+[29Jun2025 23:42:46.522] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [weecbx: Set own game mode to Spectator Mode]
+[29Jun2025 23:42:47.307] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: weecbx has made the advancement [advancements.minecells.root]
+[29Jun2025 23:42:49.657] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [weecbx: Set own game mode to Survival Mode]
+[29Jun2025 23:44:30.528] [Worker-Main-3/INFO] [com.brass_amber.ba_bt.BABTMain/]: land_tower Tower at BlockPos{x=56, y=77, z=-664} [2, -43]
+[29Jun2025 23:44:30.528] [Worker-Main-3/INFO] [com.brass_amber.ba_bt.worldGen.structures.TowerPieces/]: Tower name: land_tower Variant: normal
+[29Jun2025 23:45:24.381] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: weecbx has made the advancement [Dungeon Now Loading]
+[29Jun2025 23:46:03.557] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: weecbx has made the advancement [Stone Age]
+[29Jun2025 23:46:14.050] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: weecbx has made the advancement [Getting an Upgrade]
+[29Jun2025 23:47:30.417] [Worker-Main-4/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[29Jun2025 23:47:30.418] [Worker-Main-4/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[29Jun2025 23:47:59.506] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [weecbx: Set own game mode to Creative Mode]
+[29Jun2025 23:48:10.166] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [weecbx: Set own game mode to Survival Mode]
