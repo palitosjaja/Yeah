@@ -12766,3 +12766,14 @@ com.google.gson.JsonSyntaxException: Expected itemGroup.minecells.minecells to b
 [01Jul2025 23:35:35.626] [Server thread/INFO] [com.brass_amber.ba_bt.BABTMain/]: Spawners Destroyed: 5
 [01Jul2025 23:35:40.627] [Server thread/INFO] [com.brass_amber.ba_bt.BABTMain/]: Spawners Destroyed: 6
 [01Jul2025 23:35:58.201] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: weecbx has made the advancement [The Key to an Ancient Power...]
+[01Jul2025 23:37:11.213] [Server thread/INFO] [com.brass_amber.ba_bt.BABTMain/]: Setting obelisk data
+[01Jul2025 23:38:08.628] [Server thread/INFO] [com.brass_amber.ba_bt.BABTMain/]: Spawners Destroyed: 7
+[01Jul2025 23:39:16.626] [Server thread/INFO] [com.brass_amber.ba_bt.BABTMain/]: Spawners Destroyed: 8
+[01Jul2025 23:39:54.628] [Server thread/INFO] [com.brass_amber.ba_bt.BABTMain/]: Spawners Destroyed: 9
+[01Jul2025 23:42:00.045] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: weecbx has made the advancement [Ol' Betsy]
+[01Jul2025 23:42:11.201] [Server thread/INFO] [com.brass_amber.ba_bt.BABTMain/]: Setting obelisk data
+[01Jul2025 23:43:16.625] [Server thread/INFO] [com.brass_amber.ba_bt.BABTMain/]: Spawners Destroyed: 10
+[01Jul2025 23:44:09.289] [Server thread/ERROR] [sophisticatedbackpacks/]: Error getting backpack wrapper - Unable to find backpack at slot index 2 in "main" inventory handler
+[01Jul2025 23:44:12.741] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: weecbx has made the advancement [Diamonds!]
+[01Jul2025 23:46:24.793] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: weecbx has made the advancement [Take Aim]
+[01Jul2025 23:47:11.204] [Server thread/INFO] [com.brass_amber.ba_bt.BABTMain/]: Setting obelisk data
