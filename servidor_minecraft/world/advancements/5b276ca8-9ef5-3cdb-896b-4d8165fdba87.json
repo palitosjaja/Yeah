@@ -2305,6 +2305,8 @@
     "criteria": {
       "shrubland": "2025-06-29 23:44:16 +0000",
       "autumnal_maple_forest": "2025-06-29 23:40:27 +0000",
+      "ochard": "2025-07-01 23:05:46 +0000",
+      "cold_river": "2025-07-01 23:04:55 +0000",
       "pumpkin_fields": "2025-06-29 23:34:40 +0000"
     },
     "done": false
@@ -2313,6 +2315,8 @@
     "criteria": {
       "shrubland": "2025-06-29 23:44:16 +0000",
       "autumnal_maple_forest": "2025-06-29 23:40:27 +0000",
+      "ochard": "2025-07-01 23:05:46 +0000",
+      "cold_river": "2025-07-01 23:04:55 +0000",
       "pumpkin_fields": "2025-06-29 23:34:40 +0000"
     },
     "done": false
@@ -2349,6 +2353,8 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:river": "2025-07-01 23:05:51 +0000",
+      "minecraft:flower_forest": "2025-07-01 23:07:45 +0000",
       "minecraft:plains": "2025-06-29 23:42:36 +0000",
       "autumnity:autumnity:pumpkin_fields": "2025-06-29 23:39:58 +0000"
     },
@@ -2950,6 +2956,7 @@
   },
   "biomesoplenty:biomesoplenty/all_biomes": {
     "criteria": {
+      "pasture": "2025-07-01 23:07:40 +0000",
       "prairie": "2025-06-29 23:44:08 +0000"
     },
     "done": false
@@ -3794,9 +3801,93 @@
     },
     "done": true
   },
+  "iceandfire:recipes/building_blocks/dragonforge_ice_brick": {
+    "criteria": {
+      "has_item": "2025-07-01 23:11:56 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/dragonforge_fire_brick": {
+    "criteria": {
+      "has_item": "2025-07-01 23:11:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_stone_bricks_from_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_stone_bricks": "2025-07-01 23:11:56 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/dragonforge_lightning_brick": {
+    "criteria": {
+      "has_item": "2025-07-01 23:11:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_slab_from_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_stone_bricks": "2025-07-01 23:11:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_stairs": {
+    "criteria": {
+      "has_stone_bricks": "2025-07-01 23:11:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_slab": {
+    "criteria": {
+      "has_stone_bricks": "2025-07-01 23:11:56 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/root": {
     "criteria": {
       "killed_by_something": "2025-07-01 22:59:18 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:biomeswevegone/adventure/root": {
+    "criteria": {
+      "biomeswevegone:prairie": "2025-07-01 23:11:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/stone_brick_wall": {
+    "criteria": {
+      "has_stone_bricks": "2025-07-01 23:11:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cracked_stone_bricks": {
+    "criteria": {
+      "has_stone_bricks": "2025-07-01 23:11:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_stairs_from_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_stone_bricks": "2025-07-01 23:11:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_stone_bricks": {
+    "criteria": {
+      "has_tag": "2025-07-01 23:11:56 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:biomeswevegone/adventure/oh_the_biomes_weve_gone": {
+    "criteria": {
+      "biomeswevegone:prairie": "2025-07-01 23:11:53 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/decorations/stone_brick_wall_from_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_stone_bricks": "2025-07-01 23:11:56 +0000"
     },
     "done": true
   },

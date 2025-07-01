@@ -12739,3 +12739,18 @@ com.google.gson.JsonSyntaxException: Expected itemGroup.minecells.minecells to b
 [01Jul2025 23:06:26.037] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [weecbx: Set own game mode to Survival Mode]
 [01Jul2025 23:06:27.773] [Server thread/INFO] [Enigmatic Legacy/INFO]: Player weecbx picking up: PermanentItemEntity['Extradimensional Vessel'/2438, l='ServerLevel[world]', x=-80.32, y=64.50, z=-544.86]
 [01Jul2025 23:06:27.773] [Server thread/WARN] [Enigmatic Legacy/WARNING]: [WARN] Removing Permanent Item Entity: PermanentItemEntity['Extradimensional Vessel'/2438, l='ServerLevel[world]', x=-80.32, y=64.50, z=-544.86]
+[01Jul2025 23:07:11.214] [Server thread/INFO] [com.brass_amber.ba_bt.BABTMain/]: Setting obelisk data
+[01Jul2025 23:09:10.656] [Worker-Main-7/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=284, y=57, z=-845}
+[01Jul2025 23:10:51.593] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/3709, l='ServerLevel[world]', x=173.83, y=76.20, z=-816.13]
+[01Jul2025 23:10:51.593] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/3712, l='ServerLevel[world]', x=176.05, y=75.41, z=-816.20]
+[01Jul2025 23:12:03.867] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [weecbx: Set own game mode to Spectator Mode]
+[01Jul2025 23:12:08.187] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [weecbx: Set own game mode to Survival Mode]
+[01Jul2025 23:12:11.205] [Server thread/INFO] [com.brass_amber.ba_bt.BABTMain/]: Setting obelisk data
+[01Jul2025 23:12:30.400] [Server thread/INFO] [mixin/]: Mixing MixinPiglinTasks from enigmaticlegacy.mixins.json into net.minecraft.world.entity.monster.piglin.PiglinAi
+[01Jul2025 23:12:30.400] [Server thread/INFO] [mixin/]: Renaming synthetic method lambda$onPiglinBarter$0(Ljava/util/List;Lnet/minecraft/world/item/ItemStack;)V to md97bc3c$lambda$onPiglinBarter$0$2 in enigmaticlegacy.mixins.json:MixinPiglinTasks from mod (unknown)
+[01Jul2025 23:12:48.988] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: weecbx has made the advancement [Ice Bucket Challenge]
+[01Jul2025 23:13:37.809] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: weecbx has made the advancement [Monster Hunter]
+[01Jul2025 23:13:57.631] [Server thread/INFO] [com.brass_amber.ba_bt.BABTMain/]: Spawners Destroyed: 1
+[01Jul2025 23:14:02.626] [Server thread/INFO] [com.brass_amber.ba_bt.BABTMain/]: Spawners Destroyed: 2
+[01Jul2025 23:15:02.371] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: weecbx has made the advancement [Acquire Hardware]
+[01Jul2025 23:15:12.643] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: weecbx has made the advancement [Isn't It Iron Pick]
