@@ -12368,3 +12368,374 @@ com.google.gson.JsonSyntaxException: Unknown item 'simplyswords:mythicmetals_com
 [01Jul2025 22:56:25.724] [main/INFO] [com.teamabnormals.blueprint.core.Blueprint/]: Skipped modifier named 'savage_and_ravage:adventure/voluntary_exile' as its conditions were not met
 [01Jul2025 22:56:25.726] [main/INFO] [com.teamabnormals.blueprint.core.Blueprint/]: Advancement Modification Manager has loaded 41 modifier groups
 [01Jul2025 22:56:26.074] [main/ERROR] [net.minecraft.server.ServerAdvancementManager/]: Parsing error loading custom advancement outer_end:end/find_catacombs: Expected item to be an item, was unknown string 'outer_end:chiseled_violite'
+[01Jul2025 22:56:26.151] [main/ERROR] [net.minecraft.advancements.AdvancementList/]: Couldn't load advancement terramity:ocarina_advancement: Task Advancement{parentId=terramity:prismatic_jewel_advancement, display=net.minecraft.advancements.DisplayInfo@61a95140, rewards=AdvancementRewards{experience=60, loot=[], recipes=[], function=net.minecraft.commands.CommandFunction$CacheableFunction@7146dfcc}, criteria={ocarina_advancement_0=net.minecraft.advancements.Criterion@1dabe26f}, requirements=[[ocarina_advancement_0]], sends_telemetry_event=false}
+[01Jul2025 22:56:26.151] [main/ERROR] [net.minecraft.advancements.AdvancementList/]: Couldn't load advancement terramity:fairy_advancement: Task Advancement{parentId=terramity:deleted_mod_element, display=net.minecraft.advancements.DisplayInfo@63e00c4f, rewards=AdvancementRewards{experience=0, loot=[], recipes=[], function=net.minecraft.commands.CommandFunction$CacheableFunction@7146dfcc}, criteria={fairy_advancement_0=net.minecraft.advancements.Criterion@37b9ee12}, requirements=[[fairy_advancement_0]], sends_telemetry_event=false}
+[01Jul2025 22:56:26.151] [main/ERROR] [net.minecraft.advancements.AdvancementList/]: Couldn't load advancement terramity:frenzied_flame_advancement: Task Advancement{parentId=terramity:prismatic_jewel_advancement, display=net.minecraft.advancements.DisplayInfo@547b2b5c, rewards=AdvancementRewards{experience=100, loot=[], recipes=[], function=net.minecraft.commands.CommandFunction$CacheableFunction@7146dfcc}, criteria={frenzied_flame_advancement_0=net.minecraft.advancements.Criterion@2c4a96bf}, requirements=[[frenzied_flame_advancement_0]], sends_telemetry_event=false}
+[01Jul2025 22:56:26.151] [main/ERROR] [net.minecraft.advancements.AdvancementList/]: Couldn't load advancement terramity:prismatic_jewel_advancement: Task Advancement{parentId=terramity:fairy_advancement, display=net.minecraft.advancements.DisplayInfo@2028942f, rewards=AdvancementRewards{experience=0, loot=[], recipes=[], function=net.minecraft.commands.CommandFunction$CacheableFunction@7146dfcc}, criteria={prismatic_jewel_advancement_0=net.minecraft.advancements.Criterion@582f11fb}, requirements=[[prismatic_jewel_advancement_0]], sends_telemetry_event=false}
+[01Jul2025 22:56:26.151] [main/ERROR] [net.minecraft.advancements.AdvancementList/]: Couldn't load advancement terramity:angel_feather_advancement: Task Advancement{parentId=terramity:prismatic_jewel_advancement, display=net.minecraft.advancements.DisplayInfo@601e0270, rewards=AdvancementRewards{experience=20, loot=[], recipes=[], function=net.minecraft.commands.CommandFunction$CacheableFunction@7146dfcc}, criteria={angel_feather_advancement_0=net.minecraft.advancements.Criterion@409e7741}, requirements=[[angel_feather_advancement_0]], sends_telemetry_event=false}
+[01Jul2025 22:56:26.151] [main/ERROR] [net.minecraft.advancements.AdvancementList/]: Couldn't load advancement terramity:microcosm_advancement: Task Advancement{parentId=terramity:prismatic_jewel_advancement, display=net.minecraft.advancements.DisplayInfo@4d7f4cf3, rewards=AdvancementRewards{experience=20, loot=[], recipes=[], function=net.minecraft.commands.CommandFunction$CacheableFunction@7146dfcc}, criteria={microcosm_advancement_0=net.minecraft.advancements.Criterion@7e681e62}, requirements=[[microcosm_advancement_0]], sends_telemetry_event=false}
+[01Jul2025 22:56:26.151] [main/ERROR] [net.minecraft.advancements.AdvancementList/]: Couldn't load advancement terramity:opaline_moonstone_advancement: Task Advancement{parentId=terramity:prismatic_jewel_advancement, display=net.minecraft.advancements.DisplayInfo@78cc13fc, rewards=AdvancementRewards{experience=20, loot=[], recipes=[], function=net.minecraft.commands.CommandFunction$CacheableFunction@7146dfcc}, criteria={opaline_moonstone_advancement_0=net.minecraft.advancements.Criterion@46699989}, requirements=[[opaline_moonstone_advancement_0]], sends_telemetry_event=false}
+[01Jul2025 22:56:26.151] [main/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 12123 advancements
+[01Jul2025 22:56:26.168] [main/INFO] [placebo/]: Registered 0 additional recipes.
+[01Jul2025 22:56:26.201] [main/INFO] [top.theillusivec4.curios.Curios/]: Loaded 24 curio slots
+[01Jul2025 22:56:26.218] [main/INFO] [top.theillusivec4.curios.Curios/]: Loaded 12 curio entities
+[01Jul2025 22:56:26.219] [main/INFO] [com.aqutheseal.celestisynth.api.misc.CodecJsonDataManager/]: Beginning loading of data for data loader: tiered_item_stats
+[01Jul2025 22:56:26.219] [main/INFO] [com.aqutheseal.celestisynth.api.misc.CodecJsonDataManager/]: Data loader for tiered_item_stats loaded 0 jsons
+[01Jul2025 22:56:26.226] [main/WARN] [net.minecraftforge.common.loot.LootModifierManager/]: Could not decode GlobalLootModifier with json id bygonenether:soul_stone_from_block - error: Unknown registry key in ResourceKey[minecraft:root / forge:global_loot_modifier_serializers]: bygonenether:replace_item
+[01Jul2025 22:56:26.226] [main/WARN] [net.minecraftforge.common.loot.LootModifierManager/]: Could not decode GlobalLootModifier with json id bygonenether:soul_stone_in_catacombs - error: Unknown registry key in ResourceKey[minecraft:root / forge:global_loot_modifier_serializers]: bygonenether:replace_item
+[01Jul2025 22:56:26.237] [main/INFO] [slimeknights.mantle.fluid.transfer.FluidContainerTransferManager/]: Loaded 24 dynamic modifiers in 0.88508 ms
+[01Jul2025 22:56:26.237] [main/INFO] [ModdingLegacy/blue_skies/SkiesDataManager/]: Loaded 8 tool_handle_types
+[01Jul2025 22:56:26.237] [main/INFO] [ModdingLegacy/blue_skies/SkiesDataManager/]: Loaded 37 snowcap_oven_freezing_recipes
+[01Jul2025 22:56:26.238] [main/INFO] [ModdingLegacy/blue_skies/SkiesDataManager/]: Loaded 7 horizonite_forge_fuels
+[01Jul2025 22:56:26.238] [main/INFO] [ModdingLegacy/blue_skies/SkiesDataManager/]: Loaded 12 snowcap_mushroom_freezing
+[01Jul2025 22:56:26.254] [main/INFO] [ModdingLegacy/blue_skies/SkiesDataManager/]: Loaded 70 alchemy_recipes
+[01Jul2025 22:56:26.258] [main/INFO] [ModdingLegacy/blue_skies/SkiesDataManager/]: Loaded 81 journal/entries
+[01Jul2025 22:56:26.258] [main/INFO] [ModdingLegacy/blue_skies/SkiesDataManager/]: Loaded 3 journal/sections
+[01Jul2025 22:56:26.258] [main/INFO] [ModdingLegacy/blue_skies/SkiesDataManager/]: Loaded 7 journal/requirements
+[01Jul2025 22:56:26.313] [main/INFO] [twilightforest/]: Loaded 9 Stalactite configs!
+[01Jul2025 22:56:26.314] [main/INFO] [Dungeon Crawl/]: Loading data...
+[01Jul2025 22:56:26.661] [main/INFO] [Dungeon Crawl/]: Done.
+[01Jul2025 22:56:26.668] [main/INFO] [com.teamabnormals.blueprint.core.Blueprint/]: Chunk Generator Modification Manager has loaded 4 modifier groups
+[01Jul2025 22:56:26.738] [main/INFO] [slimeknights.tconstruct.library.modifiers.ModifierManager/]: Loaded 131 dynamic modifiers and 0 modifier redirects in 68.775894 ms
+[01Jul2025 22:56:26.746] [main/INFO] [slimeknights.tconstruct.library.modifiers.ModifierManager/]: Loaded 39 modifier tags for 138 modifiers in 7.785746 ms
+[01Jul2025 22:56:26.746] [main/INFO] [slimeknights.tconstruct.library.modifiers.ModifierManager/]: Loaded 50 enchantment to modifier mappings in 0.473523 ms
+[01Jul2025 22:56:26.749] [main/INFO] [tconstruct/]: Loaded 50 spilling fluids in 2.237772 ms
+[01Jul2025 22:56:26.750] [main/INFO] [placebo/]: Registered 0 gear_sets.
+[01Jul2025 22:56:26.756] [main/INFO] [slimeknights.tconstruct.library.materials.definition.MaterialManager/]: Loaded 53 materials in 4.513155 ms
+[01Jul2025 22:56:26.759] [main/INFO] [slimeknights.tconstruct.library.materials.definition.MaterialManager/]: Loaded 1 material tags for 19 materials in 2.958486 ms
+[01Jul2025 22:56:26.768] [main/INFO] [slimeknights.tconstruct.library.materials.stats.MaterialStatsManager/]: 347 stats loaded for 59 materials in 9.653839 ms
+[01Jul2025 22:56:26.777] [main/INFO] [slimeknights.tconstruct.library.materials.traits.MaterialTraitsManager/]: 184 traits loaded for 59 materials in 8.985644 ms
+[01Jul2025 22:56:26.792] [main/INFO] [slimeknights.tconstruct.library.tools.definition.ToolDefinitionLoader/]: Loaded 38 tool definitions in 14.536173 ms
+[01Jul2025 22:56:26.796] [main/INFO] [slimeknights.tconstruct.library.tools.layout.StationSlotLayoutLoader/]: Loaded 19 station slot layouts in 3.960604 ms
+[01Jul2025 22:56:26.797] [main/INFO] [se.mickelus.mutil.data.DataStore/]: Loaded   1 tiers
+[01Jul2025 22:56:26.798] [main/INFO] [se.mickelus.mutil.data.DataStore/]: Loaded   8 tweaks
+[01Jul2025 22:56:26.801] [main/INFO] [se.mickelus.mutil.data.MergingDataStore/]: Loaded  86 materials
+[01Jul2025 22:56:26.813] [main/INFO] [se.mickelus.mutil.data.DataStore/]: Loaded 139 improvements
+[01Jul2025 22:56:26.897] [main/INFO] [se.mickelus.mutil.data.MergingDataStore/]: Loaded  78 modules
+[01Jul2025 22:56:27.021] [main/INFO] [se.mickelus.mutil.data.DataStore/]: Loaded   1 enchantments
+[01Jul2025 22:56:27.022] [main/INFO] [se.mickelus.mutil.data.DataStore/]: Loaded  22 synergies
+[01Jul2025 22:56:27.025] [main/INFO] [se.mickelus.mutil.data.DataStore/]: Loaded  10 replacements
+[01Jul2025 22:56:27.036] [main/INFO] [se.mickelus.mutil.data.MergingDataStore/]: Loaded 342 schematics
+[01Jul2025 22:56:27.097] [main/INFO] [se.mickelus.mutil.data.MergingDataStore/]: Loaded  18 crafting_effects
+[01Jul2025 22:56:27.102] [main/INFO] [se.mickelus.mutil.data.DataStore/]: Loaded  35 repairs
+[01Jul2025 22:56:27.106] [main/INFO] [se.mickelus.mutil.data.DataStore/]: Loaded   2 actions
+[01Jul2025 22:56:27.107] [main/INFO] [se.mickelus.mutil.data.DataStore/]: Loaded   0 destabilization
+[01Jul2025 22:56:27.107] [main/INFO] [se.mickelus.mutil.data.DataStore/]: Loaded   0 unlocks
+[01Jul2025 22:56:27.108] [main/INFO] [se.mickelus.mutil.data.DataStore/]: Loaded   0 archetypes
+[01Jul2025 22:56:27.108] [main/INFO] [se.mickelus.mutil.data.DataStore/]: Loaded   0 item_effects
+[01Jul2025 22:56:27.115] [main/INFO] [com.github.mim1q.minecells.MineCells/]: Reloading Spawner Rune data...
+[01Jul2025 22:56:27.181] [main/WARN] [net.minecraftforge.registries.NamespacedWrapper/]: Not all defined tags for registry ResourceKey[minecraft:root / minecraft:block] are present in data pack: netherexp:sounds/polished_blackstone
+[01Jul2025 22:56:27.223] [main/WARN] [net.minecraft.core.MappedRegistry/]: Not all defined tags for registry ResourceKey[minecraft:root / minecraft:worldgen/structure] are present in data pack: minecraft:structure/land_tower_avoid_structures
+[01Jul2025 22:56:27.270] [main/WARN] [net.minecraft.core.MappedRegistry/]: Not all defined tags for registry ResourceKey[minecraft:root / minecraft:worldgen/biome] are present in data pack: minecraft:has_structure/modded_biomes/bop_land, minecraft:has_structure/modded_biomes/bop_land_overgrown, minecraft:has_structure/modded_biomes/bop_land_sandy, minecraft:has_structure/modded_biomes/byg_land, minecraft:has_structure/modded_biomes/byg_land_overgrown, minecraft:has_structure/modded_biomes/byg_land_sandy, minecraft:has_structure/modded_biomes/terralith_land, minecraft:has_structure/modded_biomes/terralith_land_overgrown, minecraft:has_structure/modded_biomes/terralith_land_sandy, minecraft:has_structure/overgrown_land_tower_biomes, minecraft:has_structure/sandy_land_tower_biomes, minecraft:is_plains, totw_modded:has_structure/ratlantis_tower
+[01Jul2025 22:56:37.556] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting minecraft server version 1.20.1
+[01Jul2025 22:56:37.556] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Loading properties
+[01Jul2025 22:56:37.556] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Default game type: SURVIVAL
+[01Jul2025 22:56:37.557] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
+[01Jul2025 22:56:37.754] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting Minecraft server on *:25565
+[01Jul2025 22:56:37.789] [Server thread/INFO] [net.minecraft.server.network.ServerConnectionListener/]: Using epoll channel type
+[01Jul2025 22:56:37.886] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[01Jul2025 22:56:37.887] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: The server will make no attempt to authenticate usernames. Beware.
+[01Jul2025 22:56:37.887] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[01Jul2025 22:56:37.887] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: To change this, set "online-mode" to "true" in the server.properties file.
+[01Jul2025 22:56:37.914] [Thread-5/INFO] [de.cadentem.cave_dweller.CaveDweller/]: Server configuration has been reloaded
+[01Jul2025 22:56:37.966] [Server thread/INFO] [journeymap/]: Loading JourneyMap Forge Configs
+[01Jul2025 22:56:37.968] [Thread-5/INFO] [journeymap/]: Loading JourneyMap Forge Configs
+[01Jul2025 22:56:39.300] [Server thread/ERROR] [com.teamabnormals.blueprint.core.Blueprint/]: Failed to lazy deserialize conditions: [{"type":"forge:and","values":[{"type":"atmospheric:config","value":"grimwood_ancient_cities"},{"type":"forge:mod_loaded","modid":"woodworks"},{"type":"woodworks:config","value":"wooden_chests"},{"type":"woodworks:config","value":"wooden_chests_in_villages"}]}]
+com.google.gson.JsonSyntaxException: Unknown condition type: woodworks:config
+	at net.minecraftforge.common.crafting.CraftingHelper.getCondition(CraftingHelper.java:231) ~[forge-1.20.1-47.3.34-universal.jar%23374!/:?]
+	at net.minecraftforge.common.crafting.conditions.AndCondition$Serializer.read(AndCondition.java:84) ~[forge-1.20.1-47.3.34-universal.jar%23374!/:?]
+	at net.minecraftforge.common.crafting.conditions.AndCondition$Serializer.read(AndCondition.java:63) ~[forge-1.20.1-47.3.34-universal.jar%23374!/:?]
+	at net.minecraftforge.common.crafting.CraftingHelper.getCondition(CraftingHelper.java:232) ~[forge-1.20.1-47.3.34-universal.jar%23374!/:?]
+	at com.teamabnormals.blueprint.common.codec.BlueprintExtraCodecs.lambda$static$2(BlueprintExtraCodecs.java:41) ~[blueprint-1.20.1-7.1.0.jar%23258!/:7.1.0]
+	at com.teamabnormals.blueprint.core.util.DataUtil$1.apply(DataUtil.java:514) ~[blueprint-1.20.1-7.1.0.jar%23258!/:7.1.0]
+	at com.teamabnormals.blueprint.core.registry.BlueprintHolderSets$ConditionalHolderSet.createSet(BlueprintHolderSets.java:90) ~[blueprint-1.20.1-7.1.0.jar%23258!/:7.1.0]
+	at net.minecraftforge.registries.holdersets.CompositeHolderSet.getSet(CompositeHolderSet.java:65) ~[forge-1.20.1-47.3.34-universal.jar%23374!/:?]
+	at net.minecraftforge.registries.holdersets.CompositeHolderSet.getList(CompositeHolderSet.java:80) ~[forge-1.20.1-47.3.34-universal.jar%23374!/:?]
+	at net.minecraftforge.registries.holdersets.CompositeHolderSet.m_203614_(CompositeHolderSet.java:109) ~[forge-1.20.1-47.3.34-universal.jar%23374!/:?]
+	at com.teamabnormals.blueprint.common.world.modification.structure.StructureRepalleterManager.onServerStarted(StructureRepalleterManager.java:49) ~[blueprint-1.20.1-7.1.0.jar%23258!/:7.1.0]
+	at com.teamabnormals.blueprint.common.world.modification.structure.__StructureRepalleterManager_onServerStarted_ServerAboutToStartEvent.invoke(.dynamic) ~[blueprint-1.20.1-7.1.0.jar%23258!/:7.1.0]
+	at net.minecraftforge.eventbus.ASMEventHandler.invoke(ASMEventHandler.java:73) ~[eventbus-6.0.5.jar%2352!/:?]
+	at net.minecraftforge.eventbus.EventBus.post(EventBus.java:315) ~[eventbus-6.0.5.jar%2352!/:?]
+	at net.minecraftforge.eventbus.EventBus.post(EventBus.java:296) ~[eventbus-6.0.5.jar%2352!/:?]
+	at net.minecraftforge.server.ServerLifecycleHooks.handleServerAboutToStart(ServerLifecycleHooks.java:98) ~[forge-1.20.1-47.3.34-universal.jar%23374!/:?]
+	at net.minecraft.server.dedicated.DedicatedServer.m_7038_(DedicatedServer.java:162) ~[server-1.20.1-20230612.114412-srg.jar%23369!/:?]
+	at net.minecraft.server.MinecraftServer.m_130011_(MinecraftServer.java:634) ~[server-1.20.1-20230612.114412-srg.jar%23369!/:?]
+	at net.minecraft.server.MinecraftServer.m_206580_(MinecraftServer.java:251) ~[server-1.20.1-20230612.114412-srg.jar%23369!/:?]
+	at java.lang.Thread.run(Thread.java:840) ~[?:?]
+[01Jul2025 22:56:39.301] [Server thread/ERROR] [com.teamabnormals.blueprint.core.Blueprint/]: Failed to lazy deserialize conditions: [{"type":"forge:and","values":[{"type":"forge:mod_loaded","modid":"woodworks"},{"type":"woodworks:config","value":"wooden_chests"},{"type":"woodworks:config","value":"wooden_chests_in_villages"}]}]
+com.google.gson.JsonSyntaxException: Unknown condition type: woodworks:config
+	at net.minecraftforge.common.crafting.CraftingHelper.getCondition(CraftingHelper.java:231) ~[forge-1.20.1-47.3.34-universal.jar%23374!/:?]
+	at net.minecraftforge.common.crafting.conditions.AndCondition$Serializer.read(AndCondition.java:84) ~[forge-1.20.1-47.3.34-universal.jar%23374!/:?]
+	at net.minecraftforge.common.crafting.conditions.AndCondition$Serializer.read(AndCondition.java:63) ~[forge-1.20.1-47.3.34-universal.jar%23374!/:?]
+	at net.minecraftforge.common.crafting.CraftingHelper.getCondition(CraftingHelper.java:232) ~[forge-1.20.1-47.3.34-universal.jar%23374!/:?]
+	at com.teamabnormals.blueprint.common.codec.BlueprintExtraCodecs.lambda$static$2(BlueprintExtraCodecs.java:41) ~[blueprint-1.20.1-7.1.0.jar%23258!/:7.1.0]
+	at com.teamabnormals.blueprint.core.util.DataUtil$1.apply(DataUtil.java:514) ~[blueprint-1.20.1-7.1.0.jar%23258!/:7.1.0]
+	at com.teamabnormals.blueprint.core.registry.BlueprintHolderSets$ConditionalHolderSet.createSet(BlueprintHolderSets.java:90) ~[blueprint-1.20.1-7.1.0.jar%23258!/:7.1.0]
+	at net.minecraftforge.registries.holdersets.CompositeHolderSet.getSet(CompositeHolderSet.java:65) ~[forge-1.20.1-47.3.34-universal.jar%23374!/:?]
+	at net.minecraftforge.registries.holdersets.CompositeHolderSet.getList(CompositeHolderSet.java:80) ~[forge-1.20.1-47.3.34-universal.jar%23374!/:?]
+	at net.minecraftforge.registries.holdersets.CompositeHolderSet.m_203614_(CompositeHolderSet.java:109) ~[forge-1.20.1-47.3.34-universal.jar%23374!/:?]
+	at com.teamabnormals.blueprint.common.world.modification.structure.StructureRepalleterManager.onServerStarted(StructureRepalleterManager.java:49) ~[blueprint-1.20.1-7.1.0.jar%23258!/:7.1.0]
+	at com.teamabnormals.blueprint.common.world.modification.structure.__StructureRepalleterManager_onServerStarted_ServerAboutToStartEvent.invoke(.dynamic) ~[blueprint-1.20.1-7.1.0.jar%23258!/:7.1.0]
+	at net.minecraftforge.eventbus.ASMEventHandler.invoke(ASMEventHandler.java:73) ~[eventbus-6.0.5.jar%2352!/:?]
+	at net.minecraftforge.eventbus.EventBus.post(EventBus.java:315) ~[eventbus-6.0.5.jar%2352!/:?]
+	at net.minecraftforge.eventbus.EventBus.post(EventBus.java:296) ~[eventbus-6.0.5.jar%2352!/:?]
+	at net.minecraftforge.server.ServerLifecycleHooks.handleServerAboutToStart(ServerLifecycleHooks.java:98) ~[forge-1.20.1-47.3.34-universal.jar%23374!/:?]
+	at net.minecraft.server.dedicated.DedicatedServer.m_7038_(DedicatedServer.java:162) ~[server-1.20.1-20230612.114412-srg.jar%23369!/:?]
+	at net.minecraft.server.MinecraftServer.m_130011_(MinecraftServer.java:634) ~[server-1.20.1-20230612.114412-srg.jar%23369!/:?]
+	at net.minecraft.server.MinecraftServer.m_206580_(MinecraftServer.java:251) ~[server-1.20.1-20230612.114412-srg.jar%23369!/:?]
+	at java.lang.Thread.run(Thread.java:840) ~[?:?]
+[01Jul2025 22:56:39.301] [Server thread/ERROR] [com.teamabnormals.blueprint.core.Blueprint/]: Failed to lazy deserialize conditions: [{"type":"forge:and","values":[{"type":"forge:mod_loaded","modid":"woodworks"},{"type":"woodworks:config","value":"wooden_ladders"},{"type":"woodworks:config","value":"wooden_ladders_in_villages"}]}]
+com.google.gson.JsonSyntaxException: Unknown condition type: woodworks:config
+	at net.minecraftforge.common.crafting.CraftingHelper.getCondition(CraftingHelper.java:231) ~[forge-1.20.1-47.3.34-universal.jar%23374!/:?]
+	at net.minecraftforge.common.crafting.conditions.AndCondition$Serializer.read(AndCondition.java:84) ~[forge-1.20.1-47.3.34-universal.jar%23374!/:?]
+	at net.minecraftforge.common.crafting.conditions.AndCondition$Serializer.read(AndCondition.java:63) ~[forge-1.20.1-47.3.34-universal.jar%23374!/:?]
+	at net.minecraftforge.common.crafting.CraftingHelper.getCondition(CraftingHelper.java:232) ~[forge-1.20.1-47.3.34-universal.jar%23374!/:?]
+	at com.teamabnormals.blueprint.common.codec.BlueprintExtraCodecs.lambda$static$2(BlueprintExtraCodecs.java:41) ~[blueprint-1.20.1-7.1.0.jar%23258!/:7.1.0]
+	at com.teamabnormals.blueprint.core.util.DataUtil$1.apply(DataUtil.java:514) ~[blueprint-1.20.1-7.1.0.jar%23258!/:7.1.0]
+	at com.teamabnormals.blueprint.core.registry.BlueprintHolderSets$ConditionalHolderSet.createSet(BlueprintHolderSets.java:90) ~[blueprint-1.20.1-7.1.0.jar%23258!/:7.1.0]
+	at net.minecraftforge.registries.holdersets.CompositeHolderSet.getSet(CompositeHolderSet.java:65) ~[forge-1.20.1-47.3.34-universal.jar%23374!/:?]
+	at net.minecraftforge.registries.holdersets.CompositeHolderSet.getList(CompositeHolderSet.java:80) ~[forge-1.20.1-47.3.34-universal.jar%23374!/:?]
+	at net.minecraftforge.registries.holdersets.CompositeHolderSet.m_203614_(CompositeHolderSet.java:109) ~[forge-1.20.1-47.3.34-universal.jar%23374!/:?]
+	at com.teamabnormals.blueprint.common.world.modification.structure.StructureRepalleterManager.onServerStarted(StructureRepalleterManager.java:49) ~[blueprint-1.20.1-7.1.0.jar%23258!/:7.1.0]
+	at com.teamabnormals.blueprint.common.world.modification.structure.__StructureRepalleterManager_onServerStarted_ServerAboutToStartEvent.invoke(.dynamic) ~[blueprint-1.20.1-7.1.0.jar%23258!/:7.1.0]
+	at net.minecraftforge.eventbus.ASMEventHandler.invoke(ASMEventHandler.java:73) ~[eventbus-6.0.5.jar%2352!/:?]
+	at net.minecraftforge.eventbus.EventBus.post(EventBus.java:315) ~[eventbus-6.0.5.jar%2352!/:?]
+	at net.minecraftforge.eventbus.EventBus.post(EventBus.java:296) ~[eventbus-6.0.5.jar%2352!/:?]
+	at net.minecraftforge.server.ServerLifecycleHooks.handleServerAboutToStart(ServerLifecycleHooks.java:98) ~[forge-1.20.1-47.3.34-universal.jar%23374!/:?]
+	at net.minecraft.server.dedicated.DedicatedServer.m_7038_(DedicatedServer.java:162) ~[server-1.20.1-20230612.114412-srg.jar%23369!/:?]
+	at net.minecraft.server.MinecraftServer.m_130011_(MinecraftServer.java:634) ~[server-1.20.1-20230612.114412-srg.jar%23369!/:?]
+	at net.minecraft.server.MinecraftServer.m_206580_(MinecraftServer.java:251) ~[server-1.20.1-20230612.114412-srg.jar%23369!/:?]
+	at java.lang.Thread.run(Thread.java:840) ~[?:?]
+[01Jul2025 22:56:39.302] [Server thread/ERROR] [com.teamabnormals.blueprint.core.Blueprint/]: Failed to lazy deserialize conditions: [{"type":"forge:and","values":[{"type":"atmospheric:config","value":"yucca_desert_villages"},{"type":"forge:mod_loaded","modid":"woodworks"},{"type":"woodworks:config","value":"wooden_ladders"},{"type":"woodworks:config","value":"wooden_ladders_in_villages"}]}]
+com.google.gson.JsonSyntaxException: Unknown condition type: woodworks:config
+	at net.minecraftforge.common.crafting.CraftingHelper.getCondition(CraftingHelper.java:231) ~[forge-1.20.1-47.3.34-universal.jar%23374!/:?]
+	at net.minecraftforge.common.crafting.conditions.AndCondition$Serializer.read(AndCondition.java:84) ~[forge-1.20.1-47.3.34-universal.jar%23374!/:?]
+	at net.minecraftforge.common.crafting.conditions.AndCondition$Serializer.read(AndCondition.java:63) ~[forge-1.20.1-47.3.34-universal.jar%23374!/:?]
+	at net.minecraftforge.common.crafting.CraftingHelper.getCondition(CraftingHelper.java:232) ~[forge-1.20.1-47.3.34-universal.jar%23374!/:?]
+	at com.teamabnormals.blueprint.common.codec.BlueprintExtraCodecs.lambda$static$2(BlueprintExtraCodecs.java:41) ~[blueprint-1.20.1-7.1.0.jar%23258!/:7.1.0]
+	at com.teamabnormals.blueprint.core.util.DataUtil$1.apply(DataUtil.java:514) ~[blueprint-1.20.1-7.1.0.jar%23258!/:7.1.0]
+	at com.teamabnormals.blueprint.core.registry.BlueprintHolderSets$ConditionalHolderSet.createSet(BlueprintHolderSets.java:90) ~[blueprint-1.20.1-7.1.0.jar%23258!/:7.1.0]
+	at net.minecraftforge.registries.holdersets.CompositeHolderSet.getSet(CompositeHolderSet.java:65) ~[forge-1.20.1-47.3.34-universal.jar%23374!/:?]
+	at net.minecraftforge.registries.holdersets.CompositeHolderSet.getList(CompositeHolderSet.java:80) ~[forge-1.20.1-47.3.34-universal.jar%23374!/:?]
+	at net.minecraftforge.registries.holdersets.CompositeHolderSet.m_203614_(CompositeHolderSet.java:109) ~[forge-1.20.1-47.3.34-universal.jar%23374!/:?]
+	at com.teamabnormals.blueprint.common.world.modification.structure.StructureRepalleterManager.onServerStarted(StructureRepalleterManager.java:49) ~[blueprint-1.20.1-7.1.0.jar%23258!/:7.1.0]
+	at com.teamabnormals.blueprint.common.world.modification.structure.__StructureRepalleterManager_onServerStarted_ServerAboutToStartEvent.invoke(.dynamic) ~[blueprint-1.20.1-7.1.0.jar%23258!/:7.1.0]
+	at net.minecraftforge.eventbus.ASMEventHandler.invoke(ASMEventHandler.java:73) ~[eventbus-6.0.5.jar%2352!/:?]
+	at net.minecraftforge.eventbus.EventBus.post(EventBus.java:315) ~[eventbus-6.0.5.jar%2352!/:?]
+	at net.minecraftforge.eventbus.EventBus.post(EventBus.java:296) ~[eventbus-6.0.5.jar%2352!/:?]
+	at net.minecraftforge.server.ServerLifecycleHooks.handleServerAboutToStart(ServerLifecycleHooks.java:98) ~[forge-1.20.1-47.3.34-universal.jar%23374!/:?]
+	at net.minecraft.server.dedicated.DedicatedServer.m_7038_(DedicatedServer.java:162) ~[server-1.20.1-20230612.114412-srg.jar%23369!/:?]
+	at net.minecraft.server.MinecraftServer.m_130011_(MinecraftServer.java:634) ~[server-1.20.1-20230612.114412-srg.jar%23369!/:?]
+	at net.minecraft.server.MinecraftServer.m_206580_(MinecraftServer.java:251) ~[server-1.20.1-20230612.114412-srg.jar%23369!/:?]
+	at java.lang.Thread.run(Thread.java:840) ~[?:?]
+[01Jul2025 22:56:39.302] [Server thread/ERROR] [com.teamabnormals.blueprint.core.Blueprint/]: Failed to lazy deserialize conditions: [{"type":"forge:and","values":[{"type":"atmospheric:config","value":"yucca_desert_villages"},{"type":"forge:mod_loaded","modid":"woodworks"},{"type":"woodworks:config","value":"wooden_chests"},{"type":"woodworks:config","value":"wooden_chests_in_villages"}]}]
+com.google.gson.JsonSyntaxException: Unknown condition type: woodworks:config
+	at net.minecraftforge.common.crafting.CraftingHelper.getCondition(CraftingHelper.java:231) ~[forge-1.20.1-47.3.34-universal.jar%23374!/:?]
+	at net.minecraftforge.common.crafting.conditions.AndCondition$Serializer.read(AndCondition.java:84) ~[forge-1.20.1-47.3.34-universal.jar%23374!/:?]
+	at net.minecraftforge.common.crafting.conditions.AndCondition$Serializer.read(AndCondition.java:63) ~[forge-1.20.1-47.3.34-universal.jar%23374!/:?]
+	at net.minecraftforge.common.crafting.CraftingHelper.getCondition(CraftingHelper.java:232) ~[forge-1.20.1-47.3.34-universal.jar%23374!/:?]
+	at com.teamabnormals.blueprint.common.codec.BlueprintExtraCodecs.lambda$static$2(BlueprintExtraCodecs.java:41) ~[blueprint-1.20.1-7.1.0.jar%23258!/:7.1.0]
+	at com.teamabnormals.blueprint.core.util.DataUtil$1.apply(DataUtil.java:514) ~[blueprint-1.20.1-7.1.0.jar%23258!/:7.1.0]
+	at com.teamabnormals.blueprint.core.registry.BlueprintHolderSets$ConditionalHolderSet.createSet(BlueprintHolderSets.java:90) ~[blueprint-1.20.1-7.1.0.jar%23258!/:7.1.0]
+	at net.minecraftforge.registries.holdersets.CompositeHolderSet.getSet(CompositeHolderSet.java:65) ~[forge-1.20.1-47.3.34-universal.jar%23374!/:?]
+	at net.minecraftforge.registries.holdersets.CompositeHolderSet.getList(CompositeHolderSet.java:80) ~[forge-1.20.1-47.3.34-universal.jar%23374!/:?]
+	at net.minecraftforge.registries.holdersets.CompositeHolderSet.m_203614_(CompositeHolderSet.java:109) ~[forge-1.20.1-47.3.34-universal.jar%23374!/:?]
+	at com.teamabnormals.blueprint.common.world.modification.structure.StructureRepalleterManager.onServerStarted(StructureRepalleterManager.java:49) ~[blueprint-1.20.1-7.1.0.jar%23258!/:7.1.0]
+	at com.teamabnormals.blueprint.common.world.modification.structure.__StructureRepalleterManager_onServerStarted_ServerAboutToStartEvent.invoke(.dynamic) ~[blueprint-1.20.1-7.1.0.jar%23258!/:7.1.0]
+	at net.minecraftforge.eventbus.ASMEventHandler.invoke(ASMEventHandler.java:73) ~[eventbus-6.0.5.jar%2352!/:?]
+	at net.minecraftforge.eventbus.EventBus.post(EventBus.java:315) ~[eventbus-6.0.5.jar%2352!/:?]
+	at net.minecraftforge.eventbus.EventBus.post(EventBus.java:296) ~[eventbus-6.0.5.jar%2352!/:?]
+	at net.minecraftforge.server.ServerLifecycleHooks.handleServerAboutToStart(ServerLifecycleHooks.java:98) ~[forge-1.20.1-47.3.34-universal.jar%23374!/:?]
+	at net.minecraft.server.dedicated.DedicatedServer.m_7038_(DedicatedServer.java:162) ~[server-1.20.1-20230612.114412-srg.jar%23369!/:?]
+	at net.minecraft.server.MinecraftServer.m_130011_(MinecraftServer.java:634) ~[server-1.20.1-20230612.114412-srg.jar%23369!/:?]
+	at net.minecraft.server.MinecraftServer.m_206580_(MinecraftServer.java:251) ~[server-1.20.1-20230612.114412-srg.jar%23369!/:?]
+	at java.lang.Thread.run(Thread.java:840) ~[?:?]
+[01Jul2025 22:56:39.303] [Server thread/ERROR] [com.teamabnormals.blueprint.core.Blueprint/]: Failed to lazy deserialize conditions: [{"type":"forge:and","values":[{"type":"atmospheric:config","value":"yucca_desert_villages"},{"type":"forge:mod_loaded","modid":"woodworks"},{"type":"woodworks:config","value":"wooden_bookshelves"},{"type":"woodworks:config","value":"wooden_bookshelves_in_villages"}]}]
+com.google.gson.JsonSyntaxException: Unknown condition type: woodworks:config
+	at net.minecraftforge.common.crafting.CraftingHelper.getCondition(CraftingHelper.java:231) ~[forge-1.20.1-47.3.34-universal.jar%23374!/:?]
+	at net.minecraftforge.common.crafting.conditions.AndCondition$Serializer.read(AndCondition.java:84) ~[forge-1.20.1-47.3.34-universal.jar%23374!/:?]
+	at net.minecraftforge.common.crafting.conditions.AndCondition$Serializer.read(AndCondition.java:63) ~[forge-1.20.1-47.3.34-universal.jar%23374!/:?]
+	at net.minecraftforge.common.crafting.CraftingHelper.getCondition(CraftingHelper.java:232) ~[forge-1.20.1-47.3.34-universal.jar%23374!/:?]
+	at com.teamabnormals.blueprint.common.codec.BlueprintExtraCodecs.lambda$static$2(BlueprintExtraCodecs.java:41) ~[blueprint-1.20.1-7.1.0.jar%23258!/:7.1.0]
+	at com.teamabnormals.blueprint.core.util.DataUtil$1.apply(DataUtil.java:514) ~[blueprint-1.20.1-7.1.0.jar%23258!/:7.1.0]
+	at com.teamabnormals.blueprint.core.registry.BlueprintHolderSets$ConditionalHolderSet.createSet(BlueprintHolderSets.java:90) ~[blueprint-1.20.1-7.1.0.jar%23258!/:7.1.0]
+	at net.minecraftforge.registries.holdersets.CompositeHolderSet.getSet(CompositeHolderSet.java:65) ~[forge-1.20.1-47.3.34-universal.jar%23374!/:?]
+	at net.minecraftforge.registries.holdersets.CompositeHolderSet.getList(CompositeHolderSet.java:80) ~[forge-1.20.1-47.3.34-universal.jar%23374!/:?]
+	at net.minecraftforge.registries.holdersets.CompositeHolderSet.m_203614_(CompositeHolderSet.java:109) ~[forge-1.20.1-47.3.34-universal.jar%23374!/:?]
+	at com.teamabnormals.blueprint.common.world.modification.structure.StructureRepalleterManager.onServerStarted(StructureRepalleterManager.java:49) ~[blueprint-1.20.1-7.1.0.jar%23258!/:7.1.0]
+	at com.teamabnormals.blueprint.common.world.modification.structure.__StructureRepalleterManager_onServerStarted_ServerAboutToStartEvent.invoke(.dynamic) ~[blueprint-1.20.1-7.1.0.jar%23258!/:7.1.0]
+	at net.minecraftforge.eventbus.ASMEventHandler.invoke(ASMEventHandler.java:73) ~[eventbus-6.0.5.jar%2352!/:?]
+	at net.minecraftforge.eventbus.EventBus.post(EventBus.java:315) ~[eventbus-6.0.5.jar%2352!/:?]
+	at net.minecraftforge.eventbus.EventBus.post(EventBus.java:296) ~[eventbus-6.0.5.jar%2352!/:?]
+	at net.minecraftforge.server.ServerLifecycleHooks.handleServerAboutToStart(ServerLifecycleHooks.java:98) ~[forge-1.20.1-47.3.34-universal.jar%23374!/:?]
+	at net.minecraft.server.dedicated.DedicatedServer.m_7038_(DedicatedServer.java:162) ~[server-1.20.1-20230612.114412-srg.jar%23369!/:?]
+	at net.minecraft.server.MinecraftServer.m_130011_(MinecraftServer.java:634) ~[server-1.20.1-20230612.114412-srg.jar%23369!/:?]
+	at net.minecraft.server.MinecraftServer.m_206580_(MinecraftServer.java:251) ~[server-1.20.1-20230612.114412-srg.jar%23369!/:?]
+	at java.lang.Thread.run(Thread.java:840) ~[?:?]
+[01Jul2025 22:56:39.303] [Server thread/ERROR] [com.teamabnormals.blueprint.core.Blueprint/]: Failed to lazy deserialize conditions: [{"type":"forge:and","values":[{"type":"forge:mod_loaded","modid":"woodworks"},{"type":"woodworks:config","value":"wooden_bookshelves"},{"type":"woodworks:config","value":"wooden_bookshelves_in_villages"}]}]
+com.google.gson.JsonSyntaxException: Unknown condition type: woodworks:config
+	at net.minecraftforge.common.crafting.CraftingHelper.getCondition(CraftingHelper.java:231) ~[forge-1.20.1-47.3.34-universal.jar%23374!/:?]
+	at net.minecraftforge.common.crafting.conditions.AndCondition$Serializer.read(AndCondition.java:84) ~[forge-1.20.1-47.3.34-universal.jar%23374!/:?]
+	at net.minecraftforge.common.crafting.conditions.AndCondition$Serializer.read(AndCondition.java:63) ~[forge-1.20.1-47.3.34-universal.jar%23374!/:?]
+	at net.minecraftforge.common.crafting.CraftingHelper.getCondition(CraftingHelper.java:232) ~[forge-1.20.1-47.3.34-universal.jar%23374!/:?]
+	at com.teamabnormals.blueprint.common.codec.BlueprintExtraCodecs.lambda$static$2(BlueprintExtraCodecs.java:41) ~[blueprint-1.20.1-7.1.0.jar%23258!/:7.1.0]
+	at com.teamabnormals.blueprint.core.util.DataUtil$1.apply(DataUtil.java:514) ~[blueprint-1.20.1-7.1.0.jar%23258!/:7.1.0]
+	at com.teamabnormals.blueprint.core.registry.BlueprintHolderSets$ConditionalHolderSet.createSet(BlueprintHolderSets.java:90) ~[blueprint-1.20.1-7.1.0.jar%23258!/:7.1.0]
+	at net.minecraftforge.registries.holdersets.CompositeHolderSet.getSet(CompositeHolderSet.java:65) ~[forge-1.20.1-47.3.34-universal.jar%23374!/:?]
+	at net.minecraftforge.registries.holdersets.CompositeHolderSet.getList(CompositeHolderSet.java:80) ~[forge-1.20.1-47.3.34-universal.jar%23374!/:?]
+	at net.minecraftforge.registries.holdersets.CompositeHolderSet.m_203614_(CompositeHolderSet.java:109) ~[forge-1.20.1-47.3.34-universal.jar%23374!/:?]
+	at com.teamabnormals.blueprint.common.world.modification.structure.StructureRepalleterManager.onServerStarted(StructureRepalleterManager.java:49) ~[blueprint-1.20.1-7.1.0.jar%23258!/:7.1.0]
+	at com.teamabnormals.blueprint.common.world.modification.structure.__StructureRepalleterManager_onServerStarted_ServerAboutToStartEvent.invoke(.dynamic) ~[blueprint-1.20.1-7.1.0.jar%23258!/:7.1.0]
+	at net.minecraftforge.eventbus.ASMEventHandler.invoke(ASMEventHandler.java:73) ~[eventbus-6.0.5.jar%2352!/:?]
+	at net.minecraftforge.eventbus.EventBus.post(EventBus.java:315) ~[eventbus-6.0.5.jar%2352!/:?]
+	at net.minecraftforge.eventbus.EventBus.post(EventBus.java:296) ~[eventbus-6.0.5.jar%2352!/:?]
+	at net.minecraftforge.server.ServerLifecycleHooks.handleServerAboutToStart(ServerLifecycleHooks.java:98) ~[forge-1.20.1-47.3.34-universal.jar%23374!/:?]
+	at net.minecraft.server.dedicated.DedicatedServer.m_7038_(DedicatedServer.java:162) ~[server-1.20.1-20230612.114412-srg.jar%23369!/:?]
+	at net.minecraft.server.MinecraftServer.m_130011_(MinecraftServer.java:634) ~[server-1.20.1-20230612.114412-srg.jar%23369!/:?]
+	at net.minecraft.server.MinecraftServer.m_206580_(MinecraftServer.java:251) ~[server-1.20.1-20230612.114412-srg.jar%23369!/:?]
+	at java.lang.Thread.run(Thread.java:840) ~[?:?]
+[01Jul2025 22:56:39.304] [Server thread/ERROR] [com.teamabnormals.blueprint.core.Blueprint/]: Failed to lazy deserialize conditions: [{"type":"forge:and","values":[{"type":"atmospheric:config","value":"grimwood_ancient_cities"},{"type":"forge:mod_loaded","modid":"woodworks"},{"type":"woodworks:config","value":"wooden_ladders"},{"type":"woodworks:config","value":"wooden_ladders_in_villages"}]}]
+com.google.gson.JsonSyntaxException: Unknown condition type: woodworks:config
+	at net.minecraftforge.common.crafting.CraftingHelper.getCondition(CraftingHelper.java:231) ~[forge-1.20.1-47.3.34-universal.jar%23374!/:?]
+	at net.minecraftforge.common.crafting.conditions.AndCondition$Serializer.read(AndCondition.java:84) ~[forge-1.20.1-47.3.34-universal.jar%23374!/:?]
+	at net.minecraftforge.common.crafting.conditions.AndCondition$Serializer.read(AndCondition.java:63) ~[forge-1.20.1-47.3.34-universal.jar%23374!/:?]
+	at net.minecraftforge.common.crafting.CraftingHelper.getCondition(CraftingHelper.java:232) ~[forge-1.20.1-47.3.34-universal.jar%23374!/:?]
+	at com.teamabnormals.blueprint.common.codec.BlueprintExtraCodecs.lambda$static$2(BlueprintExtraCodecs.java:41) ~[blueprint-1.20.1-7.1.0.jar%23258!/:7.1.0]
+	at com.teamabnormals.blueprint.core.util.DataUtil$1.apply(DataUtil.java:514) ~[blueprint-1.20.1-7.1.0.jar%23258!/:7.1.0]
+	at com.teamabnormals.blueprint.core.registry.BlueprintHolderSets$ConditionalHolderSet.createSet(BlueprintHolderSets.java:90) ~[blueprint-1.20.1-7.1.0.jar%23258!/:7.1.0]
+	at net.minecraftforge.registries.holdersets.CompositeHolderSet.getSet(CompositeHolderSet.java:65) ~[forge-1.20.1-47.3.34-universal.jar%23374!/:?]
+	at net.minecraftforge.registries.holdersets.CompositeHolderSet.getList(CompositeHolderSet.java:80) ~[forge-1.20.1-47.3.34-universal.jar%23374!/:?]
+	at net.minecraftforge.registries.holdersets.CompositeHolderSet.m_203614_(CompositeHolderSet.java:109) ~[forge-1.20.1-47.3.34-universal.jar%23374!/:?]
+	at com.teamabnormals.blueprint.common.world.modification.structure.StructureRepalleterManager.onServerStarted(StructureRepalleterManager.java:49) ~[blueprint-1.20.1-7.1.0.jar%23258!/:7.1.0]
+	at com.teamabnormals.blueprint.common.world.modification.structure.__StructureRepalleterManager_onServerStarted_ServerAboutToStartEvent.invoke(.dynamic) ~[blueprint-1.20.1-7.1.0.jar%23258!/:7.1.0]
+	at net.minecraftforge.eventbus.ASMEventHandler.invoke(ASMEventHandler.java:73) ~[eventbus-6.0.5.jar%2352!/:?]
+	at net.minecraftforge.eventbus.EventBus.post(EventBus.java:315) ~[eventbus-6.0.5.jar%2352!/:?]
+	at net.minecraftforge.eventbus.EventBus.post(EventBus.java:296) ~[eventbus-6.0.5.jar%2352!/:?]
+	at net.minecraftforge.server.ServerLifecycleHooks.handleServerAboutToStart(ServerLifecycleHooks.java:98) ~[forge-1.20.1-47.3.34-universal.jar%23374!/:?]
+	at net.minecraft.server.dedicated.DedicatedServer.m_7038_(DedicatedServer.java:162) ~[server-1.20.1-20230612.114412-srg.jar%23369!/:?]
+	at net.minecraft.server.MinecraftServer.m_130011_(MinecraftServer.java:634) ~[server-1.20.1-20230612.114412-srg.jar%23369!/:?]
+	at net.minecraft.server.MinecraftServer.m_206580_(MinecraftServer.java:251) ~[server-1.20.1-20230612.114412-srg.jar%23369!/:?]
+	at java.lang.Thread.run(Thread.java:840) ~[?:?]
+[01Jul2025 22:56:39.305] [Server thread/INFO] [com.brass_amber.ba_bt.BABTMain/]: Server: net.minecraft.server.dedicated.DedicatedServer@5f29936d
+[01Jul2025 22:56:39.344] [Server thread/INFO] [terrablender/]: Initialized TerraBlender biomes for level stem minecraft:the_nether
+[01Jul2025 22:56:40.183] [Server thread/INFO] [terrablender/]: Initialized TerraBlender biomes for level stem minecraft:overworld
+[01Jul2025 22:56:40.189] [Server thread/INFO] [net.jadenxgamer.elysium_api.Elysium/]: ElysiumBiomeSource successfully initialized for minecraft:the_nether
+[01Jul2025 22:56:40.189] [Server thread/INFO] [net.jadenxgamer.elysium_api.Elysium/]: ElysiumBiomeSource successfully initialized for minecraft:overworld
+[01Jul2025 22:56:40.192] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Preparing level "world"
+[01Jul2025 22:56:40.211] [Server thread/INFO] [mixin/]: Mixing MixinPhantomSpawner from enigmaticlegacy.mixins.json into net.minecraft.world.level.levelgen.PhantomSpawner
+[01Jul2025 22:57:01.351] [Server thread/INFO] [net.regions_unexplored.RegionsUnexploredMod/]: Loading dimension "minecraft:the_nether" with biome source: "blueprint:modded".
+[01Jul2025 22:57:01.352] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
+[01Jul2025 22:57:06.314] [Worker-Main-8/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[01Jul2025 22:57:06.355] [Worker-Main-8/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[01Jul2025 22:57:06.387] [Worker-Main-6/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[01Jul2025 22:57:06.413] [Worker-Main-7/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[01Jul2025 22:57:06.426] [Worker-Main-6/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[01Jul2025 22:57:06.451] [Worker-Main-6/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[01Jul2025 22:57:06.465] [Worker-Main-7/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[01Jul2025 22:57:06.475] [Worker-Main-7/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[01Jul2025 22:57:06.503] [Worker-Main-8/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[01Jul2025 22:57:06.518] [Worker-Main-6/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[01Jul2025 22:57:06.524] [Worker-Main-8/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[01Jul2025 22:57:06.930] [Worker-Main-8/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[01Jul2025 22:57:07.353] [Worker-Main-6/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 9%
+[01Jul2025 22:57:07.853] [Worker-Main-7/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 84%
+[01Jul2025 22:57:07.983] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Time elapsed: 6630 ms
+[01Jul2025 22:57:07.983] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (30.081s)! For help, type "help"
+[01Jul2025 22:57:08.073] [Server thread/WARN] [net.minecraftforge.server.LanguageHook/]: Skipped language file: mythicmetals:lang/en_us.json
+com.google.gson.JsonSyntaxException: Expected tooltip.mythril_drill.upgrade_tip to be a string, was an array ([{"t..."}])
+	at net.minecraft.util.GsonHelper.m_13805_(GsonHelper.java:119) ~[server-1.20.1-20230612.114412-srg.jar%23369!/:?]
+	at net.minecraftforge.server.LanguageHook.lambda$loadLocaleData$2(LanguageHook.java:64) ~[forge-1.20.1-47.3.34-universal.jar%23374!/:?]
+	at java.lang.Iterable.forEach(Iterable.java:75) ~[?:?]
+	at net.minecraftforge.server.LanguageHook.loadLocaleData(LanguageHook.java:63) ~[forge-1.20.1-47.3.34-universal.jar%23374!/:?]
+	at net.minecraftforge.server.LanguageHook.lambda$loadLocaleData$1(LanguageHook.java:52) ~[forge-1.20.1-47.3.34-universal.jar%23374!/:?]
+	at java.lang.Iterable.forEach(Iterable.java:75) ~[?:?]
+	at net.minecraftforge.server.LanguageHook.loadLocaleData(LanguageHook.java:50) ~[forge-1.20.1-47.3.34-universal.jar%23374!/:?]
+	at net.minecraftforge.server.LanguageHook.lambda$loadLanguage$3(LanguageHook.java:80) ~[forge-1.20.1-47.3.34-universal.jar%23374!/:?]
+	at java.util.HashMap$KeySet.forEach(HashMap.java:1008) ~[?:?]
+	at net.minecraftforge.server.LanguageHook.loadLanguage(LanguageHook.java:77) ~[forge-1.20.1-47.3.34-universal.jar%23374!/:?]
+	at net.minecraftforge.server.LanguageHook.loadLanguagesOnServer(LanguageHook.java:102) ~[forge-1.20.1-47.3.34-universal.jar%23374!/:?]
+	at net.minecraftforge.server.ServerLifecycleHooks.lambda$handleServerStarting$1(ServerLifecycleHooks.java:104) ~[forge-1.20.1-47.3.34-universal.jar%23374!/:?]
+	at net.minecraftforge.fml.DistExecutor.unsafeRunWhenOn(DistExecutor.java:111) ~[fmlcore-1.20.1-47.3.34.jar%23370!/:?]
+	at net.minecraftforge.fml.DistExecutor.runWhenOn(DistExecutor.java:95) ~[fmlcore-1.20.1-47.3.34.jar%23370!/:?]
+	at net.minecraftforge.server.ServerLifecycleHooks.handleServerStarting(ServerLifecycleHooks.java:103) ~[forge-1.20.1-47.3.34-universal.jar%23374!/:?]
+	at net.minecraft.server.dedicated.DedicatedServer.m_7038_(DedicatedServer.java:201) ~[server-1.20.1-20230612.114412-srg.jar%23369!/:?]
+	at net.minecraft.server.MinecraftServer.m_130011_(MinecraftServer.java:634) ~[server-1.20.1-20230612.114412-srg.jar%23369!/:?]
+	at net.minecraft.server.MinecraftServer.m_206580_(MinecraftServer.java:251) ~[server-1.20.1-20230612.114412-srg.jar%23369!/:?]
+	at java.lang.Thread.run(Thread.java:840) ~[?:?]
+[01Jul2025 22:57:08.137] [Server thread/WARN] [net.minecraftforge.server.LanguageHook/]: Skipped language file: owo:lang/en_us.json
+com.google.gson.JsonSyntaxException: Expected text.owo.itemGroup.tab_template to be a string, was an array ([{"i..."}])
+	at net.minecraft.util.GsonHelper.m_13805_(GsonHelper.java:119) ~[server-1.20.1-20230612.114412-srg.jar%23369!/:?]
+	at net.minecraftforge.server.LanguageHook.lambda$loadLocaleData$2(LanguageHook.java:64) ~[forge-1.20.1-47.3.34-universal.jar%23374!/:?]
+	at java.lang.Iterable.forEach(Iterable.java:75) ~[?:?]
+	at net.minecraftforge.server.LanguageHook.loadLocaleData(LanguageHook.java:63) ~[forge-1.20.1-47.3.34-universal.jar%23374!/:?]
+	at net.minecraftforge.server.LanguageHook.lambda$loadLocaleData$1(LanguageHook.java:52) ~[forge-1.20.1-47.3.34-universal.jar%23374!/:?]
+	at java.lang.Iterable.forEach(Iterable.java:75) ~[?:?]
+	at net.minecraftforge.server.LanguageHook.loadLocaleData(LanguageHook.java:50) ~[forge-1.20.1-47.3.34-universal.jar%23374!/:?]
+	at net.minecraftforge.server.LanguageHook.lambda$loadLanguage$3(LanguageHook.java:80) ~[forge-1.20.1-47.3.34-universal.jar%23374!/:?]
+	at java.util.HashMap$KeySet.forEach(HashMap.java:1008) ~[?:?]
+	at net.minecraftforge.server.LanguageHook.loadLanguage(LanguageHook.java:77) ~[forge-1.20.1-47.3.34-universal.jar%23374!/:?]
+	at net.minecraftforge.server.LanguageHook.loadLanguagesOnServer(LanguageHook.java:102) ~[forge-1.20.1-47.3.34-universal.jar%23374!/:?]
+	at net.minecraftforge.server.ServerLifecycleHooks.lambda$handleServerStarting$1(ServerLifecycleHooks.java:104) ~[forge-1.20.1-47.3.34-universal.jar%23374!/:?]
+	at net.minecraftforge.fml.DistExecutor.unsafeRunWhenOn(DistExecutor.java:111) ~[fmlcore-1.20.1-47.3.34.jar%23370!/:?]
+	at net.minecraftforge.fml.DistExecutor.runWhenOn(DistExecutor.java:95) ~[fmlcore-1.20.1-47.3.34.jar%23370!/:?]
+	at net.minecraftforge.server.ServerLifecycleHooks.handleServerStarting(ServerLifecycleHooks.java:103) ~[forge-1.20.1-47.3.34-universal.jar%23374!/:?]
+	at net.minecraft.server.dedicated.DedicatedServer.m_7038_(DedicatedServer.java:201) ~[server-1.20.1-20230612.114412-srg.jar%23369!/:?]
+	at net.minecraft.server.MinecraftServer.m_130011_(MinecraftServer.java:634) ~[server-1.20.1-20230612.114412-srg.jar%23369!/:?]
+	at net.minecraft.server.MinecraftServer.m_206580_(MinecraftServer.java:251) ~[server-1.20.1-20230612.114412-srg.jar%23369!/:?]
+	at java.lang.Thread.run(Thread.java:840) ~[?:?]
+[01Jul2025 22:57:08.169] [Server thread/WARN] [net.minecraftforge.server.LanguageHook/]: Skipped language file: minecells:lang/en_us.json
+com.google.gson.JsonSyntaxException: Expected itemGroup.minecells.minecells to be a string, was an array ([{"t..."}])
+	at net.minecraft.util.GsonHelper.m_13805_(GsonHelper.java:119) ~[server-1.20.1-20230612.114412-srg.jar%23369!/:?]
+	at net.minecraftforge.server.LanguageHook.lambda$loadLocaleData$2(LanguageHook.java:64) ~[forge-1.20.1-47.3.34-universal.jar%23374!/:?]
+	at java.lang.Iterable.forEach(Iterable.java:75) ~[?:?]
+	at net.minecraftforge.server.LanguageHook.loadLocaleData(LanguageHook.java:63) ~[forge-1.20.1-47.3.34-universal.jar%23374!/:?]
+	at net.minecraftforge.server.LanguageHook.lambda$loadLocaleData$1(LanguageHook.java:52) ~[forge-1.20.1-47.3.34-universal.jar%23374!/:?]
+	at java.lang.Iterable.forEach(Iterable.java:75) ~[?:?]
+	at net.minecraftforge.server.LanguageHook.loadLocaleData(LanguageHook.java:50) ~[forge-1.20.1-47.3.34-universal.jar%23374!/:?]
+	at net.minecraftforge.server.LanguageHook.lambda$loadLanguage$3(LanguageHook.java:80) ~[forge-1.20.1-47.3.34-universal.jar%23374!/:?]
+	at java.util.HashMap$KeySet.forEach(HashMap.java:1008) ~[?:?]
+	at net.minecraftforge.server.LanguageHook.loadLanguage(LanguageHook.java:77) ~[forge-1.20.1-47.3.34-universal.jar%23374!/:?]
+	at net.minecraftforge.server.LanguageHook.loadLanguagesOnServer(LanguageHook.java:102) ~[forge-1.20.1-47.3.34-universal.jar%23374!/:?]
+	at net.minecraftforge.server.ServerLifecycleHooks.lambda$handleServerStarting$1(ServerLifecycleHooks.java:104) ~[forge-1.20.1-47.3.34-universal.jar%23374!/:?]
+	at net.minecraftforge.fml.DistExecutor.unsafeRunWhenOn(DistExecutor.java:111) ~[fmlcore-1.20.1-47.3.34.jar%23370!/:?]
+	at net.minecraftforge.fml.DistExecutor.runWhenOn(DistExecutor.java:95) ~[fmlcore-1.20.1-47.3.34.jar%23370!/:?]
+	at net.minecraftforge.server.ServerLifecycleHooks.handleServerStarting(ServerLifecycleHooks.java:103) ~[forge-1.20.1-47.3.34-universal.jar%23374!/:?]
+	at net.minecraft.server.dedicated.DedicatedServer.m_7038_(DedicatedServer.java:201) ~[server-1.20.1-20230612.114412-srg.jar%23369!/:?]
+	at net.minecraft.server.MinecraftServer.m_130011_(MinecraftServer.java:634) ~[server-1.20.1-20230612.114412-srg.jar%23369!/:?]
+	at net.minecraft.server.MinecraftServer.m_206580_(MinecraftServer.java:251) ~[server-1.20.1-20230612.114412-srg.jar%23369!/:?]
+	at java.lang.Thread.run(Thread.java:840) ~[?:?]
+[01Jul2025 22:57:08.226] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
+[01Jul2025 22:57:08.288] [Server thread/INFO] [com.brass_amber.ba_bt.BABTMain/]: HELLO from server starting
+[01Jul2025 22:57:08.525] [Server thread/INFO] [net.bettercombat.logic.WeaponRegistry/]: Encoded Weapon Attribute registry size (with package overhead): 548614 bytes (in 55 string chunks with the size of 10000)
+[01Jul2025 22:57:08.528] [Server thread/INFO] [com.github.alexthe666.iceandfire.IceAndFire/]: {iceandfire:fire_dragon_roost=true, iceandfire:fire_lily=true, iceandfire:spawn_dragon_skeleton_fire=true, iceandfire:lightning_dragon_roost=true, iceandfire:spawn_dragon_skeleton_lightning=true, iceandfire:ice_dragon_roost=true, iceandfire:ice_dragon_cave=true, iceandfire:lightning_dragon_cave=true, iceandfire:cyclops_cave=true, iceandfire:spawn_wandering_cyclops=true, iceandfire:spawn_sea_serpent=true, iceandfire:frost_lily=true, iceandfire:hydra_cave=true, iceandfire:lightning_lily=true, iceandfire:pixie_village=true, iceandfire:myrmex_hive_jungle=true, iceandfire:myrmex_hive_desert=true, iceandfire:silver_ore=true, iceandfire:siren_island=true, iceandfire:spawn_dragon_skeleton_ice=true, iceandfire:spawn_stymphalian_bird=true, iceandfire:fire_dragon_cave=true, iceandfire:sapphire_ore=true, iceandfire:spawn_hippocampus=true, iceandfire:spawn_death_worm=true}
+[01Jul2025 22:57:08.528] [Server thread/INFO] [com.github.alexthe666.iceandfire.IceAndFire/]: {TROLL_S=true, HIPPOGRYPH=true, AMPHITHERE=true, COCKATRICE=true, TROLL_M=true, DREAD_LICH=true, TROLL_F=true}
+[01Jul2025 22:57:08.768] [Server thread/INFO] [patchouli/]: Sending reload packet to clients
+[01Jul2025 22:57:09.255] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] hola
+[01Jul2025 22:57:26.828] [Server thread/INFO] [owo/]: [Handshake] Sending channel query
+[01Jul2025 22:57:27.065] [Netty Epoll Server IO #2/INFO] [owo/]: [Handshake] Receiving client channels
+[01Jul2025 22:57:27.067] [Netty Epoll Server IO #2/INFO] [owo/]: [Handshake] Handshake completed successfully
+[01Jul2025 22:57:27.260] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: weecbx[/127.176.3.170:57457] logged in with entity id 74 at (-80.31799789881124, 63.0, -544.8626198472252)
+[01Jul2025 22:57:27.276] [Server thread/INFO] [owo/]: Sending server config values to client
+[01Jul2025 22:57:27.285] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to weecbx
+[01Jul2025 22:57:27.287] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to weecbx
+[01Jul2025 22:57:27.289] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to weecbx
+[01Jul2025 22:57:27.289] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to weecbx
+[01Jul2025 22:57:27.292] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to weecbx
+[01Jul2025 22:57:27.296] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to weecbx
+[01Jul2025 22:57:27.297] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to weecbx
+[01Jul2025 22:57:27.479] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: weecbx joined the game
+[01Jul2025 22:57:27.657] [Server thread/INFO] [se.mickelus.tetra.data.DataManager/]: Sending data to client: weecbx
+[01Jul2025 22:57:27.734] [Server thread/INFO] [Enigmatic Legacy/INFO]: Synchronizing omniconfig files to weecbx...
+[01Jul2025 22:57:27.735] [Server thread/INFO] [Enigmatic Legacy/INFO]: Sending data for enigmaticlegacy-common.omniconf
+[01Jul2025 22:57:27.737] [Server thread/INFO] [Enigmatic Legacy/INFO]: Granting starter gear to weecbx
+[01Jul2025 22:57:28.195] [Netty Epoll Server IO #2/INFO] [owo/]: Receiving client config
+[01Jul2025 22:57:29.595] [Server thread/INFO] [Enigmatic Legacy/INFO]: Blue Skies detected: true
+[01Jul2025 22:57:29.644] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2474ms or 49 ticks behind
+[01Jul2025 22:59:18.592] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: weecbx was slain by Decaying Zombie
+[01Jul2025 22:59:18.601] [Server thread/INFO] [Enigmatic Legacy/INFO]: Summoned Extradimensional Storage Crystal for weecbx at X: -80.31799789881124, Y: 63.0, Z: -544.8626198472252
+[01Jul2025 22:59:19.813] [Server thread/INFO] [com.brass_amber.ba_bt.BABTMain/]: Setting obelisk data
+[01Jul2025 23:05:10.344] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [weecbx: Set own game mode to Creative Mode]
+[01Jul2025 23:06:20.168] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: weecbx moved too quickly! -0.7589904650232029,-10.270054212545276,-4.085715878865017
+[01Jul2025 23:06:26.037] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [weecbx: Set own game mode to Survival Mode]
+[01Jul2025 23:06:27.773] [Server thread/INFO] [Enigmatic Legacy/INFO]: Player weecbx picking up: PermanentItemEntity['Extradimensional Vessel'/2438, l='ServerLevel[world]', x=-80.32, y=64.50, z=-544.86]
+[01Jul2025 23:06:27.773] [Server thread/WARN] [Enigmatic Legacy/WARNING]: [WARN] Removing Permanent Item Entity: PermanentItemEntity['Extradimensional Vessel'/2438, l='ServerLevel[world]', x=-80.32, y=64.50, z=-544.86]
