@@ -12789,3 +12789,18 @@ com.google.gson.JsonSyntaxException: Expected itemGroup.minecells.minecells to b
 [02Jul2025 04:27:18.388] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [weecbx: Set own game mode to Survival Mode]
 [02Jul2025 04:28:38.794] [Server thread/INFO] [com.brass_amber.ba_bt.BABTMain/]: Setting obelisk data
 [02Jul2025 04:33:38.788] [Server thread/INFO] [com.brass_amber.ba_bt.BABTMain/]: Setting obelisk data
+[02Jul2025 04:38:38.785] [Server thread/INFO] [com.brass_amber.ba_bt.BABTMain/]: Setting obelisk data
+[02Jul2025 04:38:43.683] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: weecbx has made the advancement [Enchanter]
+[02Jul2025 04:39:46.921] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [weecbx: Set 55 experience levels on weecbx]
+[02Jul2025 04:40:10.523] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [weecbx: Set own game mode to Creative Mode]
+[02Jul2025 04:40:16.920] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [weecbx: Set own game mode to Survival Mode]
+[02Jul2025 04:41:32.102] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/14387, l='ServerLevel[world]', x=-764.50, y=72.00, z=-1988.50]
+[02Jul2025 04:41:35.200] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/14404, l='ServerLevel[world]', x=-764.50, y=72.00, z=-1989.50]
+[02Jul2025 04:41:58.171] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: weecbx has made the advancement [The Beginning of An Adventure]
+[02Jul2025 04:41:58.171] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: weecbx has made the advancement [Patience Is The Road To Wisdom]
+[02Jul2025 04:42:24.699] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/14545, l='ServerLevel[world]', x=-820.50, y=71.00, z=-1946.50]
+[02Jul2025 04:42:46.883] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [weecbx: Set own game mode to Creative Mode]
+[02Jul2025 04:42:52.715] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [weecbx: Set own game mode to Survival Mode]
+[02Jul2025 04:43:26.249] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/14824, l='ServerLevel[world]', x=-764.50, y=72.00, z=-1987.50]
+[02Jul2025 04:43:38.415] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [weecbx: Set 100 experience levels on weecbx]
+[02Jul2025 04:43:38.798] [Server thread/INFO] [com.brass_amber.ba_bt.BABTMain/]: Setting obelisk data
