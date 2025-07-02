@@ -12740,3 +12740,52 @@ com.google.gson.JsonSyntaxException: Expected itemGroup.minecells.minecells to b
 [02Jul2025 04:02:46.853] [Server thread/INFO] [com.brass_amber.ba_bt.BABTMain/]: Spawners Destroyed: 3
 [02Jul2025 04:03:35.912] [Server thread/INFO] [com.brass_amber.ba_bt.BABTMain/]: Setting obelisk data
 [02Jul2025 04:04:25.852] [Server thread/INFO] [com.brass_amber.ba_bt.BABTMain/]: Spawners Destroyed: 4
+[02Jul2025 04:05:44.852] [Server thread/INFO] [com.brass_amber.ba_bt.BABTMain/]: Spawners Destroyed: 5
+[02Jul2025 04:08:04.376] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [weecbx: Set own game mode to Spectator Mode]
+[02Jul2025 04:08:15.112] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [weecbx: Set own game mode to Survival Mode]
+[02Jul2025 04:08:19.854] [Server thread/INFO] [com.brass_amber.ba_bt.BABTMain/]: Spawners Destroyed: 6
+[02Jul2025 04:08:35.845] [Server thread/INFO] [com.brass_amber.ba_bt.BABTMain/]: Setting obelisk data
+[02Jul2025 04:09:32.852] [Server thread/INFO] [com.brass_amber.ba_bt.BABTMain/]: Spawners Destroyed: 7
+[02Jul2025 04:09:37.854] [Server thread/INFO] [com.brass_amber.ba_bt.BABTMain/]: Spawners Destroyed: 8
+[02Jul2025 04:11:28.662] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [weecbx: Set own game mode to Spectator Mode]
+[02Jul2025 04:11:39.707] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [weecbx: Set own game mode to Survival Mode]
+[02Jul2025 04:11:43.411] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [weecbx: Set own game mode to Spectator Mode]
+[02Jul2025 04:12:50.392] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [weecbx: Set own game mode to Survival Mode]
+[02Jul2025 04:12:52.854] [Server thread/INFO] [com.brass_amber.ba_bt.BABTMain/]: Spawners Destroyed: 9
+[02Jul2025 04:13:35.836] [Server thread/INFO] [com.brass_amber.ba_bt.BABTMain/]: Setting obelisk data
+[02Jul2025 04:15:29.852] [Server thread/INFO] [com.brass_amber.ba_bt.BABTMain/]: Spawners Destroyed: 10
+[02Jul2025 04:17:45.831] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [weecbx: Set own game mode to Spectator Mode]
+[02Jul2025 04:18:01.257] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [weecbx: Set own game mode to Survival Mode]
+[02Jul2025 04:18:04.852] [Server thread/INFO] [com.brass_amber.ba_bt.BABTMain/]: Spawners Destroyed: 11
+[02Jul2025 04:18:08.851] [Server thread/INFO] [com.brass_amber.ba_bt.BABTMain/]: Spawners Destroyed: 12
+[02Jul2025 04:18:35.839] [Server thread/INFO] [com.brass_amber.ba_bt.BABTMain/]: Setting obelisk data
+[02Jul2025 04:19:26.778] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [weecbx: Set own game mode to Spectator Mode]
+[02Jul2025 04:19:36.176] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [weecbx: Set own game mode to Survival Mode]
+[02Jul2025 04:19:44.852] [Server thread/INFO] [com.brass_amber.ba_bt.BABTMain/]: Spawners Destroyed: 13
+[02Jul2025 04:19:51.852] [Server thread/INFO] [com.brass_amber.ba_bt.BABTMain/]: Spawners Destroyed: 14
+[02Jul2025 04:20:39.645] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: weecbx has completed the challenge [Serious Dedication]
+[02Jul2025 04:21:56.995] [Server thread/WARN] [sophisticatedcore/]: Too much loot to add to container. Overflow is voided.
+[02Jul2025 04:21:57.031] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2985ms or 59 ticks behind
+[02Jul2025 04:23:06.430] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [weecbx: Set own game mode to Spectator Mode]
+[02Jul2025 04:23:13.972] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [weecbx: Set own game mode to Survival Mode]
+[02Jul2025 04:23:18.805] [Server thread/INFO] [com.brass_amber.ba_bt.BABTMain/]: Spawners Destroyed: 15
+[02Jul2025 04:23:38.784] [Server thread/INFO] [com.brass_amber.ba_bt.BABTMain/]: Setting obelisk data
+[02Jul2025 04:24:43.660] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [weecbx: Set own game mode to Adventure Mode]
+[02Jul2025 04:24:45.475] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [weecbx: Set own game mode to Spectator Mode]
+[02Jul2025 04:24:52.959] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [weecbx: Set own game mode to Adventure Mode]
+[02Jul2025 04:24:55.869] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [weecbx: Set own game mode to Survival Mode]
+[02Jul2025 04:24:57.806] [Server thread/INFO] [com.brass_amber.ba_bt.BABTMain/]: Spawners Destroyed: 16
+[02Jul2025 04:24:58.163] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [weecbx: Set own game mode to Spectator Mode]
+[02Jul2025 04:25:21.513] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [weecbx: Set own game mode to Survival Mode]
+[02Jul2025 04:25:22.210] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [weecbx: Set own game mode to Creative Mode]
+[02Jul2025 04:25:23.483] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [weecbx: Set own game mode to Survival Mode]
+[02Jul2025 04:25:24.804] [Server thread/INFO] [com.brass_amber.ba_bt.BABTMain/]: Spawners Destroyed: 17
+[02Jul2025 04:25:29.803] [Server thread/INFO] [com.brass_amber.ba_bt.BABTMain/]: Spawners Destroyed: 18
+[02Jul2025 04:25:34.227] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [weecbx: Set own game mode to Spectator Mode]
+[02Jul2025 04:25:38.273] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [weecbx: Set own game mode to Survival Mode]
+[02Jul2025 04:25:39.805] [Server thread/INFO] [com.brass_amber.ba_bt.BABTMain/]: Spawners Destroyed: 19
+[02Jul2025 04:26:52.039] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [weecbx: Applied effect Strength to weecbx]
+[02Jul2025 04:27:08.034] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [weecbx: Set own game mode to Creative Mode]
+[02Jul2025 04:27:18.388] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [weecbx: Set own game mode to Survival Mode]
+[02Jul2025 04:28:38.794] [Server thread/INFO] [com.brass_amber.ba_bt.BABTMain/]: Setting obelisk data
+[02Jul2025 04:33:38.788] [Server thread/INFO] [com.brass_amber.ba_bt.BABTMain/]: Setting obelisk data
