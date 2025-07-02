@@ -3847,6 +3847,12 @@
     },
     "done": true
   },
+  "valhelsia_structures:recipes/decorations/soul_brazier": {
+    "criteria": {
+      "has_iron_bars": "2025-07-02 00:09:06 +0000"
+    },
+    "done": true
+  },
   "aether:recipes/decorations/skyroot_loom": {
     "criteria": {
       "has_string": "2025-07-01 23:20:11 +0000"
@@ -3910,6 +3916,12 @@
   "minecraft:recipes/tools/golden_shovel": {
     "criteria": {
       "has_gold_ingot": "2025-07-01 23:28:30 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/red_warped_table": {
+    "criteria": {
+      "has_red_carpet": "2025-07-02 00:07:14 +0000"
     },
     "done": true
   },
@@ -3998,9 +4010,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_stairs_from_mossy_cobblestone_stonecutting": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-07-01 23:59:13 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/purple_birch_table": {
+    "criteria": {
+      "has_purple_carpet": "2025-07-02 00:07:14 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/lectern": {
     "criteria": {
       "has_book": "2025-07-01 23:39:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/mossy_stone_brick_wall": {
+    "criteria": {
+      "has_mossy_stone_bricks": "2025-07-02 00:10:54 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/purple_oak_table": {
+    "criteria": {
+      "has_purple_carpet": "2025-07-02 00:07:14 +0000"
     },
     "done": true
   },
@@ -4028,6 +4064,12 @@
     },
     "done": true
   },
+  "valhelsia_furniture:recipes/decorations/purple_warped_table": {
+    "criteria": {
+      "has_purple_carpet": "2025-07-02 00:07:14 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/tripwire_hook": {
     "criteria": {
       "has_string": "2025-07-01 23:20:11 +0000"
@@ -4045,6 +4087,12 @@
       "has_ingots/iron": "2025-07-01 23:15:02 +0000"
     },
     "done": true
+  },
+  "enigmaticlegacy:recipes/generic/avarice_scroll": {
+    "criteria": {
+      "has_parent_recipe": "2025-07-01 23:57:34 +0000"
+    },
+    "done": false
   },
   "minecraft:recipes/misc/netherite_ingot": {
     "criteria": {
@@ -4088,9 +4136,21 @@
     },
     "done": true
   },
+  "enigmaticlegacy:recipes/generic/thicc_scroll": {
+    "criteria": {
+      "has_items": "2025-07-01 23:57:34 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/diamond_hoe": {
     "criteria": {
       "has_diamond": "2025-07-01 23:44:12 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/mossy_stone_from_blasting_mossy_cobblestone": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-07-01 23:59:13 +0000"
     },
     "done": true
   },
@@ -4100,9 +4160,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_slab": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-07-01 23:59:13 +0000"
+    },
+    "done": true
+  },
   "tconstruct:recipes/decorations/common/iron_platform": {
     "criteria": {
       "has_bars": "2025-07-01 23:15:02 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/black_cherry_table": {
+    "criteria": {
+      "has_black_carpet": "2025-07-02 00:10:47 +0000"
     },
     "done": true
   },
@@ -4115,6 +4187,12 @@
   "aether:recipes/combat/iron_chestplate_repairing": {
     "criteria": {
       "has_iron_chestplate": "2025-07-01 23:19:34 +0000"
+    },
+    "done": true
+  },
+  "enigmaticlegacy:book/accessories/insignia": {
+    "criteria": {
+      "has_the_recipe": "2025-07-02 00:08:03 +0000"
     },
     "done": true
   },
@@ -4139,6 +4217,12 @@
   "aether:recipes/combat/golden_ring": {
     "criteria": {
       "has_gold_ingot": "2025-07-01 23:28:30 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/red_acacia_table": {
+    "criteria": {
+      "has_red_carpet": "2025-07-02 00:07:14 +0000"
     },
     "done": true
   },
@@ -4184,9 +4268,21 @@
     },
     "done": true
   },
+  "enigmaticlegacy:recipes/generic/heaven_scroll": {
+    "criteria": {
+      "has_parent_recipe": "2025-07-01 23:57:34 +0000"
+    },
+    "done": false
+  },
   "storagedrawers:recipes/storagedrawers/warped_drawers": {
     "criteria": {
       "has_chest": "2025-07-01 23:27:38 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/red_spruce_table": {
+    "criteria": {
+      "has_red_carpet": "2025-07-02 00:07:14 +0000"
     },
     "done": true
   },
@@ -4213,6 +4309,12 @@
       "has_gold_ingot": "2025-07-01 23:28:30 +0000"
     },
     "done": true
+  },
+  "enigmaticlegacy:recipes/generic/escape_scroll": {
+    "criteria": {
+      "has_parent_recipe": "2025-07-01 23:57:34 +0000"
+    },
+    "done": false
   },
   "minecraft:recipes/building_blocks/chiseled_stone_bricks_from_stone_bricks_stonecutting": {
     "criteria": {
@@ -4286,6 +4388,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/armor_stand": {
+    "criteria": {
+      "has_stone_slab": "2025-07-02 00:09:29 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/iron_trapdoor": {
     "criteria": {
       "has_iron_ingot": "2025-07-01 23:15:02 +0000"
@@ -4310,9 +4418,21 @@
     },
     "done": true
   },
+  "valhelsia_furniture:recipes/decorations/purple_acacia_table": {
+    "criteria": {
+      "has_purple_carpet": "2025-07-02 00:07:14 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/leather_boots": {
     "criteria": {
       "has_leather": "2025-07-01 23:23:21 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/decorations/skyroot_cartography_table": {
+    "criteria": {
+      "has_paper": "2025-07-01 23:57:34 +0000"
     },
     "done": true
   },
@@ -4352,6 +4472,12 @@
     },
     "done": true
   },
+  "valhelsia_furniture:recipes/decorations/red_dark_oak_table": {
+    "criteria": {
+      "has_red_carpet": "2025-07-02 00:07:14 +0000"
+    },
+    "done": true
+  },
   "miningmaster:recipes/forging/haste_peridot_axe": {
     "criteria": {
       "has_diamond_axe": "2025-07-01 23:44:22 +0000"
@@ -4363,6 +4489,12 @@
       "has_parent_recipe": "2025-07-01 23:44:12 +0000"
     },
     "done": false
+  },
+  "valhelsia_furniture:recipes/decorations/purple_dark_oak_table": {
+    "criteria": {
+      "has_purple_carpet": "2025-07-02 00:07:14 +0000"
+    },
+    "done": true
   },
   "valhelsia_structures:recipes/building_blocks/lime_metal_framed_glass": {
     "criteria": {
@@ -4379,6 +4511,18 @@
   "aether:recipes/combat/golden_helmet_repairing": {
     "criteria": {
       "has_golden_helmet": "2025-07-01 23:16:01 +0000"
+    },
+    "done": true
+  },
+  "enigmaticlegacy:recipes/generic/berserk_charm": {
+    "criteria": {
+      "has_parent_recipe": "2025-07-01 23:57:34 +0000"
+    },
+    "done": false
+  },
+  "regions_unexplored:recipes/building_blocks/mossy_stone_from_smelting_mossy_cobblestone": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-07-01 23:59:13 +0000"
     },
     "done": true
   },
@@ -4415,6 +4559,12 @@
   "minecraft:recipes/misc/iron_nugget_from_smelting": {
     "criteria": {
       "has_iron_pickaxe": "2025-07-01 23:15:12 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/diamond_helmet_repairing": {
+    "criteria": {
+      "has_diamond_helmet": "2025-07-02 00:06:38 +0000"
     },
     "done": true
   },
@@ -4534,7 +4684,9 @@
   },
   "morevillagers:all_workstations_get": {
     "criteria": {
-      "smoker": "2025-07-01 23:23:54 +0000"
+      "smoker": "2025-07-01 23:23:54 +0000",
+      "loom": "2025-07-02 00:01:40 +0000",
+      "lectern": "2025-07-01 23:59:51 +0000"
     },
     "done": false
   },
@@ -4574,6 +4726,18 @@
     },
     "done": true
   },
+  "valhelsia_furniture:recipes/decorations/black_spruce_table": {
+    "criteria": {
+      "has_black_carpet": "2025-07-02 00:10:47 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/red_crimson_table": {
+    "criteria": {
+      "has_red_carpet": "2025-07-02 00:07:14 +0000"
+    },
+    "done": true
+  },
   "ad_astra:recipes/misc/coal_generator": {
     "criteria": {
       "has_coal_generator": "2025-07-01 23:15:02 +0000"
@@ -4583,6 +4747,12 @@
   "minecraft:recipes/building_blocks/emerald_block": {
     "criteria": {
       "has_emerald": "2025-07-01 23:36:30 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/schematics/empty_schematic": {
+    "criteria": {
+      "has_item": "2025-07-01 23:57:34 +0000"
     },
     "done": true
   },
@@ -4607,6 +4777,12 @@
   "minecraft:recipes/misc/bone_meal": {
     "criteria": {
       "has_bone": "2025-07-01 23:31:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/prismarine_bricks": {
+    "criteria": {
+      "has_prismarine_shard": "2025-07-02 00:04:57 +0000"
     },
     "done": true
   },
@@ -4664,6 +4840,12 @@
     },
     "done": true
   },
+  "valhelsia_furniture:recipes/decorations/black_crimson_table": {
+    "criteria": {
+      "has_black_carpet": "2025-07-02 00:10:47 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/paper": {
     "criteria": {
       "has_reeds": "2025-07-01 23:34:49 +0000"
@@ -4679,6 +4861,12 @@
   "aether:recipes/combat/iron_leggings_repairing": {
     "criteria": {
       "has_iron_leggings": "2025-07-01 23:17:37 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/red_birch_table": {
+    "criteria": {
+      "has_red_carpet": "2025-07-02 00:07:14 +0000"
     },
     "done": true
   },
@@ -4784,6 +4972,12 @@
     },
     "done": true
   },
+  "aether:recipes/combat/diamond_boots_repairing": {
+    "criteria": {
+      "has_diamond_boots": "2025-07-02 00:06:38 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/flint_and_steel": {
     "criteria": {
       "has_obsidian": "2025-07-01 23:12:48 +0000"
@@ -4799,6 +4993,18 @@
   "valhelsia_structures:recipes/building_blocks/red_metal_framed_glass": {
     "criteria": {
       "has_ingots/iron": "2025-07-01 23:15:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/mossy_cobblestone_wall": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-07-01 23:59:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_stone_brick_stairs": {
+    "criteria": {
+      "has_mossy_stone_bricks": "2025-07-02 00:10:54 +0000"
     },
     "done": true
   },
@@ -4838,9 +5044,27 @@
     },
     "done": true
   },
+  "valhelsia_furniture:recipes/decorations/purple_spruce_table": {
+    "criteria": {
+      "has_purple_carpet": "2025-07-02 00:07:14 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/black_jungle_table": {
+    "criteria": {
+      "has_black_carpet": "2025-07-02 00:10:47 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_mutton_from_campfire_cooking": {
     "criteria": {
       "has_mutton": "2025-07-01 23:30:09 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/purple_jungle_table": {
+    "criteria": {
+      "has_purple_carpet": "2025-07-02 00:07:14 +0000"
     },
     "done": true
   },
@@ -4862,9 +5086,21 @@
     },
     "done": true
   },
+  "valhelsia_furniture:recipes/decorations/purple_mangrove_table": {
+    "criteria": {
+      "has_purple_carpet": "2025-07-02 00:07:14 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/iron_axe": {
     "criteria": {
       "has_iron_ingot": "2025-07-01 23:15:02 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/diamond_hippogryph_armor": {
+    "criteria": {
+      "has_item": "2025-07-02 00:06:50 +0000"
     },
     "done": true
   },
@@ -4922,6 +5158,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/mossy_cobblestone_wall_from_mossy_cobblestone_stonecutting": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-07-01 23:59:13 +0000"
+    },
+    "done": true
+  },
   "aether:recipes/combat/golden_boots_repairing": {
     "criteria": {
       "has_golden_boots": "2025-07-01 23:16:56 +0000"
@@ -4945,6 +5187,12 @@
       "has_iron_block": "2025-07-01 23:14:56 +0000"
     },
     "done": true
+  },
+  "enigmaticlegacy:recipes/generic/xp_scroll": {
+    "criteria": {
+      "has_parent_recipe": "2025-07-01 23:57:34 +0000"
+    },
+    "done": false
   },
   "aether:recipes/combat/golden_pendant": {
     "criteria": {
@@ -5081,6 +5329,18 @@
   "minecraft:recipes/building_blocks/quartz_bricks": {
     "criteria": {
       "has_quartz_block": "2025-07-01 23:40:42 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/black_warped_table": {
+    "criteria": {
+      "has_black_carpet": "2025-07-02 00:10:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/prismarine": {
+    "criteria": {
+      "has_prismarine_shard": "2025-07-02 00:04:57 +0000"
     },
     "done": true
   },
@@ -5236,6 +5496,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/mossy_stone_brick_slab": {
+    "criteria": {
+      "has_mossy_stone_bricks": "2025-07-02 00:10:54 +0000"
+    },
+    "done": true
+  },
   "miningmaster:recipes/forging/ice_sapphire_sword": {
     "criteria": {
       "has_diamond_sword": "2025-07-01 23:42:25 +0000"
@@ -5284,6 +5550,12 @@
     },
     "done": true
   },
+  "valhelsia_furniture:recipes/decorations/purple_crimson_table": {
+    "criteria": {
+      "has_purple_carpet": "2025-07-02 00:07:14 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/diamond_shovel": {
     "criteria": {
       "has_diamond": "2025-07-01 23:44:12 +0000"
@@ -5320,6 +5592,12 @@
     },
     "done": true
   },
+  "valhelsia_furniture:recipes/decorations/purple_cherry_table": {
+    "criteria": {
+      "has_purple_carpet": "2025-07-02 00:07:14 +0000"
+    },
+    "done": true
+  },
   "enigmaticlegacy:recipes/generic/tome_uncrafting/withered_tome": {
     "criteria": {
       "has_items": "2025-07-01 23:12:49 +0000"
@@ -5329,6 +5607,12 @@
   "soulsweapons:recipes/combat/kirkhammer": {
     "criteria": {
       "has_item": "2025-07-01 23:15:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_stairs": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-07-01 23:59:13 +0000"
     },
     "done": true
   },
@@ -5347,6 +5631,12 @@
   "sophisticatedbackpacks:recipes/misc/backpack": {
     "criteria": {
       "has_leather": "2025-07-01 23:23:21 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/black_mangrove_table": {
+    "criteria": {
+      "has_black_carpet": "2025-07-02 00:10:47 +0000"
     },
     "done": true
   },
@@ -5471,6 +5761,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_slab_from_mossy_cobblestone_stonecutting": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-07-01 23:59:13 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stripped_crimson_hyphae": {
     "criteria": {
       "has_log": "2025-07-01 23:24:36 +0000"
@@ -5531,6 +5827,12 @@
     },
     "done": true
   },
+  "valhelsia_furniture:recipes/decorations/red_cherry_table": {
+    "criteria": {
+      "has_red_carpet": "2025-07-02 00:07:14 +0000"
+    },
+    "done": true
+  },
   "biomeswevegone:biomeswevegone/adventure/root": {
     "criteria": {
       "biomeswevegone:prairie": "2025-07-01 23:11:53 +0000"
@@ -5555,9 +5857,21 @@
     },
     "done": true
   },
+  "valhelsia_furniture:recipes/decorations/black_acacia_table": {
+    "criteria": {
+      "has_black_carpet": "2025-07-02 00:10:47 +0000"
+    },
+    "done": true
+  },
   "valhelsia_structures:recipes/building_blocks/orange_metal_framed_glass": {
     "criteria": {
       "has_ingots/iron": "2025-07-01 23:15:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_stone_brick_stairs_from_mossy_stone_brick_stonecutting": {
+    "criteria": {
+      "has_mossy_stone_bricks": "2025-07-02 00:10:54 +0000"
     },
     "done": true
   },
@@ -5570,6 +5884,12 @@
   "valhelsia_furniture:recipes/decorations/hay_mangrove_chair": {
     "criteria": {
       "has_hay_block": "2025-07-01 23:32:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_stone_brick_slab_from_mossy_stone_brick_stonecutting": {
+    "criteria": {
+      "has_mossy_stone_bricks": "2025-07-02 00:10:54 +0000"
     },
     "done": true
   },
@@ -5615,6 +5935,12 @@
     },
     "done": true
   },
+  "twilightforest:recipes/decorations/iron_ladder": {
+    "criteria": {
+      "has_iron_bars": "2025-07-02 00:09:06 +0000"
+    },
+    "done": true
+  },
   "forbidden_arcanus:recipes/transportation/edelwood_chest_boat": {
     "criteria": {
       "has_chest": "2025-07-01 23:27:38 +0000"
@@ -5639,6 +5965,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/book": {
+    "criteria": {
+      "has_paper": "2025-07-01 23:57:34 +0000"
+    },
+    "done": true
+  },
   "forbidden_arcanus:recipes/misc/clibano_combustion/diamond_from_clibano_combusting": {
     "criteria": {
       "has_item": "2025-07-01 23:41:51 +0000"
@@ -5660,6 +5992,12 @@
   "minecraft:recipes/building_blocks/cracked_stone_bricks": {
     "criteria": {
       "has_stone_bricks": "2025-07-01 23:11:56 +0000"
+    },
+    "done": true
+  },
+  "miningmaster:recipes/forging/paragon_boots": {
+    "criteria": {
+      "has_diamond_boots": "2025-07-02 00:06:38 +0000"
     },
     "done": true
   },
@@ -5705,9 +6043,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/arrow": {
+    "criteria": {
+      "has_feather": "2025-07-01 23:57:25 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_salmon": {
     "criteria": {
       "has_salmon": "2025-07-01 23:30:10 +0000"
+    },
+    "done": true
+  },
+  "enigmaticlegacy:recipes/generic/insignia": {
+    "criteria": {
+      "has_iron_ingot": "2025-07-02 00:08:03 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/golden_dart": {
+    "criteria": {
+      "has_feather": "2025-07-01 23:57:25 +0000"
     },
     "done": true
   },
@@ -5750,6 +6106,12 @@
   "blue_skies:recipes/building_blocks/comet_bookshelf": {
     "criteria": {
       "has_item": "2025-07-01 23:39:36 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/schematics/schematic_and_quill": {
+    "criteria": {
+      "has_item": "2025-07-01 23:57:34 +0000"
     },
     "done": true
   },
@@ -5798,6 +6160,12 @@
   "minecraft:recipes/decorations/smithing_table": {
     "criteria": {
       "has_iron_ingot": "2025-07-01 23:15:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_prismarine": {
+    "criteria": {
+      "has_prismarine_shard": "2025-07-02 00:04:57 +0000"
     },
     "done": true
   },
@@ -5861,6 +6229,12 @@
     },
     "done": true
   },
+  "create:recipes/misc/crafting/materials/sand_paper": {
+    "criteria": {
+      "has_item": "2025-07-01 23:57:34 +0000"
+    },
+    "done": true
+  },
   "valhelsia_structures:recipes/building_blocks/gray_metal_framed_glass": {
     "criteria": {
       "has_ingots/iron": "2025-07-01 23:15:02 +0000"
@@ -5885,9 +6259,21 @@
     },
     "done": true
   },
+  "valhelsia_furniture:recipes/decorations/black_oak_table": {
+    "criteria": {
+      "has_black_carpet": "2025-07-02 00:10:47 +0000"
+    },
+    "done": true
+  },
   "aether:recipes/tools/wooden_axe_repairing": {
     "criteria": {
       "has_wooden_axe": "2025-07-01 23:16:58 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/materials/red_sand_paper": {
+    "criteria": {
+      "has_item": "2025-07-01 23:57:34 +0000"
     },
     "done": true
   },
@@ -5897,9 +6283,21 @@
     },
     "done": false
   },
+  "valhelsia_furniture:recipes/decorations/red_mangrove_table": {
+    "criteria": {
+      "has_red_carpet": "2025-07-02 00:07:14 +0000"
+    },
+    "done": true
+  },
   "enigmaticlegacy:book/relics/enigmatic_eye": {
     "criteria": {
       "impossible": "2025-07-01 23:12:34 +0000"
+    },
+    "done": true
+  },
+  "miningmaster:recipes/forging/paragon_helmet": {
+    "criteria": {
+      "has_diamond_helmet": "2025-07-02 00:06:38 +0000"
     },
     "done": true
   },
@@ -5912,6 +6310,18 @@
   "minecraft:recipes/building_blocks/smooth_quartz": {
     "criteria": {
       "has_quartz_block": "2025-07-01 23:40:42 +0000"
+    },
+    "done": true
+  },
+  "morevillagers:recipes/blueprint_table": {
+    "criteria": {
+      "has_paper": "2025-07-01 23:57:34 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/red_jungle_table": {
+    "criteria": {
+      "has_red_carpet": "2025-07-02 00:07:14 +0000"
     },
     "done": true
   },
@@ -5933,9 +6343,27 @@
     },
     "done": true
   },
+  "valhelsia_furniture:recipes/decorations/black_dark_oak_table": {
+    "criteria": {
+      "has_black_carpet": "2025-07-02 00:10:47 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/diamond_from_smelting_diamond_ore": {
     "criteria": {
       "has_diamond_ore": "2025-07-01 23:41:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/lapis_lazuli": {
+    "criteria": {
+      "has_lapis_block": "2025-07-01 23:58:47 +0000"
+    },
+    "done": true
+  },
+  "enigmaticlegacy:recipes/generic/lore_fragment": {
+    "criteria": {
+      "has_items": "2025-07-01 23:57:34 +0000"
     },
     "done": true
   },
@@ -5948,6 +6376,18 @@
   "aether:recipes/combat/golden_gloves": {
     "criteria": {
       "has_gold": "2025-07-01 23:28:30 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/red_oak_table": {
+    "criteria": {
+      "has_red_carpet": "2025-07-02 00:07:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/carrot_on_a_stick": {
+    "criteria": {
+      "has_carrot": "2025-07-02 00:01:33 +0000"
     },
     "done": true
   },
@@ -5999,6 +6439,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/cartography_table": {
+    "criteria": {
+      "has_paper": "2025-07-01 23:57:34 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/iron_nugget_from_blasting": {
     "criteria": {
       "has_iron_pickaxe": "2025-07-01 23:15:12 +0000"
@@ -6035,9 +6481,21 @@
     },
     "done": true
   },
+  "enigmaticlegacy:book/accessories/arcane_scrolls": {
+    "criteria": {
+      "has_the_recipe": "2025-07-01 23:57:34 +0000"
+    },
+    "done": true
+  },
   "aether:recipes/combat/wooden_sword_repairing": {
     "criteria": {
       "has_wooden_sword": "2025-07-01 23:16:59 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/black_birch_table": {
+    "criteria": {
+      "has_black_carpet": "2025-07-02 00:10:47 +0000"
     },
     "done": true
   },
@@ -6059,6 +6517,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/mossy_stone_brick_wall_from_mossy_stone_brick_stonecutting": {
+    "criteria": {
+      "has_mossy_stone_bricks": "2025-07-02 00:10:54 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/loom": {
     "criteria": {
       "has_string": "2025-07-01 23:20:11 +0000"
@@ -6076,6 +6540,12 @@
       "has_diamond_sword": "2025-07-01 23:42:25 +0000"
     },
     "done": true
+  },
+  "enigmaticlegacy:recipes/generic/cursed_scroll": {
+    "criteria": {
+      "has_parent_recipe": "2025-07-01 23:57:34 +0000"
+    },
+    "done": false
   },
   "minecraft:recipes/combat/golden_leggings": {
     "criteria": {
