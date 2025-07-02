@@ -3798,6 +3798,7 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "honey_bottle": "2025-07-02 03:42:33 +0000",
       "bread": "2025-07-01 23:31:21 +0000",
       "golden_apple": "2025-07-02 01:01:56 +0000",
       "cooked_salmon": "2025-07-01 23:54:15 +0000",
@@ -3829,6 +3830,8 @@
   },
   "biomeswevegone:biomeswevegone/adventure/oh_the_biomes_weve_gone": {
     "criteria": {
+      "biomeswevegone:ironwood_gour": "2025-07-02 03:37:04 +0000",
+      "biomeswevegone:amaranth_grassland": "2025-07-02 03:40:43 +0000",
       "biomeswevegone:prairie": "2025-07-01 23:11:53 +0000"
     },
     "done": false
@@ -3965,6 +3968,7 @@
       "minecraft:skeleton": "2025-07-01 23:30:00 +0000",
       "minecraft:vindicator": "2025-07-02 00:45:58 +0000",
       "minecraft:spider": "2025-07-01 23:20:19 +0000",
+      "minecraft:enderman": "2025-07-02 03:40:04 +0000",
       "minecraft:zombie": "2025-07-01 23:13:37 +0000"
     },
     "done": false
@@ -5024,6 +5028,7 @@
   "morevillagers:all_workstations_get": {
     "criteria": {
       "smoker": "2025-07-01 23:23:54 +0000",
+      "smithingtable": "2025-07-02 04:02:02 +0000",
       "loom": "2025-07-02 00:01:40 +0000",
       "lectern": "2025-07-01 23:59:51 +0000"
     },
@@ -7637,9 +7642,21 @@
     },
     "done": true
   },
-  "iceandfire:recipes/combat/armor_black_leggings": {
+  "regions_unexplored:recipes/misc/light_gray_dye_from_daisy": {
     "criteria": {
-      "has_item": "2025-07-02 03:35:41 +0000"
+      "has_daisy": "2025-07-02 03:30:31 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/misc/purple_dye_from_hyssop": {
+    "criteria": {
+      "has_hyssop": "2025-07-02 03:31:41 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/misc/magenta_dye_from_fireweed": {
+    "criteria": {
+      "has_fireweed": "2025-07-02 03:31:41 +0000"
     },
     "done": true
   },
@@ -7649,27 +7666,9 @@
     },
     "done": true
   },
-  "iceandfire:recipes/combat/armor_black_boots": {
-    "criteria": {
-      "has_item": "2025-07-02 03:35:41 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/building_blocks/dragonscales_black_to_dragonscale_black": {
-    "criteria": {
-      "has_dragonscales_black": "2025-07-02 03:35:41 +0000"
-    },
-    "done": true
-  },
   "iceandfire:recipes/combat/armor_gray_boots": {
     "criteria": {
       "has_item": "2025-07-02 03:34:09 +0000"
-    },
-    "done": true
-  },
-  "regions_unexplored:recipes/misc/purple_dye_from_hyssop": {
-    "criteria": {
-      "has_hyssop": "2025-07-02 03:31:41 +0000"
     },
     "done": true
   },
@@ -7685,12 +7684,6 @@
     },
     "done": true
   },
-  "regions_unexplored:recipes/misc/light_gray_dye_from_daisy": {
-    "criteria": {
-      "has_daisy": "2025-07-02 03:30:31 +0000"
-    },
-    "done": true
-  },
   "iceandfire:recipes/combat/armor_gray_leggings": {
     "criteria": {
       "has_item": "2025-07-02 03:34:09 +0000"
@@ -7703,21 +7696,106 @@
     },
     "done": true
   },
+  "iceandfire:recipes/combat/armor_black_leggings": {
+    "criteria": {
+      "has_item": "2025-07-02 03:35:41 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_black_boots": {
+    "criteria": {
+      "has_item": "2025-07-02 03:35:41 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/dragonscales_black_to_dragonscale_black": {
+    "criteria": {
+      "has_dragonscales_black": "2025-07-02 03:35:41 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/combat/armor_black_chestplate": {
     "criteria": {
       "has_item": "2025-07-02 03:35:41 +0000"
     },
     "done": true
   },
-  "regions_unexplored:recipes/misc/magenta_dye_from_fireweed": {
-    "criteria": {
-      "has_fireweed": "2025-07-02 03:31:41 +0000"
-    },
-    "done": true
-  },
   "iceandfire:recipes/combat/armor_black_helmet": {
     "criteria": {
       "has_item": "2025-07-02 03:35:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/pumpkin_pie": {
+    "criteria": {
+      "has_pumpkin": "2025-07-02 03:38:23 +0000"
+    },
+    "done": true
+  },
+  "autumnity:recipes/building_blocks/large_pumpkin_slice": {
+    "criteria": {
+      "has_pumpkin": "2025-07-02 03:38:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/pumpkin_seeds": {
+    "criteria": {
+      "has_pumpkin": "2025-07-02 03:38:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/pumpkin_seeds": {
+    "criteria": {
+      "has_pumpkin": "2025-07-02 03:38:23 +0000",
+      "has_the_recipe": "2025-07-02 03:38:23 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/food/moa_egg_pumpkin_pie": {
+    "criteria": {
+      "has_pumpkin": "2025-07-02 03:38:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/yellow_dye_from_dandelion": {
+    "criteria": {
+      "has_dandelion": "2025-07-02 03:39:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/sugar_from_honey_bottle": {
+    "criteria": {
+      "has_honey_bottle": "2025-07-02 03:42:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/honey_block": {
+    "criteria": {
+      "has_honey_bottle": "2025-07-02 03:42:27 +0000"
+    },
+    "done": true
+  },
+  "ba_bt:battletowers/land_tower_found": {
+    "criteria": {
+      "Find Land Tower": "2025-07-02 03:48:49 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/bow_repairing": {
+    "criteria": {
+      "has_bow": "2025-07-02 04:02:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dispenser": {
+    "criteria": {
+      "has_bow": "2025-07-02 04:02:40 +0000"
+    },
+    "done": true
+  },
+  "miningmaster:recipes/forging/air_malachite_bow": {
+    "criteria": {
+      "has_bow": "2025-07-02 04:02:40 +0000"
     },
     "done": true
   },
