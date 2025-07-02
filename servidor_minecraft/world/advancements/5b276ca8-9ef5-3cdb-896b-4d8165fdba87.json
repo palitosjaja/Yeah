@@ -2303,8 +2303,10 @@
   },
   "regions_unexplored:regions_explored": {
     "criteria": {
+      "mauve_hills": "2025-07-02 01:24:16 +0000",
       "shrubland": "2025-06-29 23:44:16 +0000",
       "autumnal_maple_forest": "2025-06-29 23:40:27 +0000",
+      "rocky_meadow": "2025-07-02 03:27:46 +0000",
       "ochard": "2025-07-01 23:05:46 +0000",
       "cold_river": "2025-07-01 23:04:55 +0000",
       "pumpkin_fields": "2025-06-29 23:34:40 +0000"
@@ -2313,8 +2315,10 @@
   },
   "regions_unexplored:pioneer": {
     "criteria": {
+      "mauve_hills": "2025-07-02 01:24:16 +0000",
       "shrubland": "2025-06-29 23:44:16 +0000",
       "autumnal_maple_forest": "2025-06-29 23:40:27 +0000",
+      "rocky_meadow": "2025-07-02 03:27:46 +0000",
       "ochard": "2025-07-01 23:05:46 +0000",
       "cold_river": "2025-07-01 23:04:55 +0000",
       "pumpkin_fields": "2025-06-29 23:34:40 +0000"
@@ -3798,7 +3802,9 @@
       "golden_apple": "2025-07-02 01:01:56 +0000",
       "cooked_salmon": "2025-07-01 23:54:15 +0000",
       "cooked_porkchop": "2025-06-29 23:48:13 +0000",
+      "cooked_beef": "2025-07-02 03:30:00 +0000",
       "glow_berries": "2025-07-01 23:30:25 +0000",
+      "cooked_mutton": "2025-07-02 01:24:08 +0000",
       "golden_carrot": "2025-07-01 23:44:40 +0000"
     },
     "done": false
@@ -7204,21 +7210,9 @@
     },
     "done": true
   },
-  "alexscaves:alexscaves/resistor_shield": {
+  "tetra:spelunking/root": {
     "criteria": {
-      "resistor_shield": "2025-07-02 01:21:10 +0000"
-    },
-    "done": true
-  },
-  "alexscaves:alexscaves/defeat_magnetron": {
-    "criteria": {
-      "killed": "2025-07-02 01:20:14 +0000"
-    },
-    "done": true
-  },
-  "alexscaves:alexscaves/neodymium_ingot": {
-    "criteria": {
-      "azure": "2025-07-02 01:15:56 +0000"
+      "spelunking": "2025-07-02 01:12:14 +0000"
     },
     "done": true
   },
@@ -7229,9 +7223,15 @@
     },
     "done": true
   },
-  "tetra:spelunking/root": {
+  "alexscaves:alexscaves/telecore": {
     "criteria": {
-      "spelunking": "2025-07-02 01:12:14 +0000"
+      "limestone": "2025-07-02 01:14:38 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/neodymium_ingot": {
+    "criteria": {
+      "azure": "2025-07-02 01:15:56 +0000"
     },
     "done": true
   },
@@ -7241,9 +7241,483 @@
     },
     "done": true
   },
-  "alexscaves:alexscaves/telecore": {
+  "alexscaves:alexscaves/defeat_magnetron": {
     "criteria": {
-      "limestone": "2025-07-02 01:14:38 +0000"
+      "killed": "2025-07-02 01:20:14 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/resistor_shield": {
+    "criteria": {
+      "resistor_shield": "2025-07-02 01:21:10 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/white_upholstered_warped_stool": {
+    "criteria": {
+      "has_white_wool": "2025-07-02 01:23:40 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/kinetics/blue_seat": {
+    "criteria": {
+      "has_wool": "2025-07-02 01:23:40 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/white_upholstered_cherry_chair": {
+    "criteria": {
+      "has_white_wool": "2025-07-02 01:23:40 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/white_upholstered_mangrove_stool": {
+    "criteria": {
+      "has_white_wool": "2025-07-02 01:23:40 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/kinetics/light_blue_seat": {
+    "criteria": {
+      "has_wool": "2025-07-02 01:23:40 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_structures:recipes/decorations/white_sleeping_bag": {
+    "criteria": {
+      "has_white_wool": "2025-07-02 01:23:40 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/white_upholstered_acacia_stool": {
+    "criteria": {
+      "has_white_wool": "2025-07-02 01:23:40 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/white_upholstered_spruce_stool": {
+    "criteria": {
+      "has_white_wool": "2025-07-02 01:23:40 +0000"
+    },
+    "done": true
+  },
+  "comforts:sleeping_bag_white": {
+    "criteria": {
+      "has_white_wool": "2025-07-02 01:23:40 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/white_curtain": {
+    "criteria": {
+      "has_item": "2025-07-02 01:23:40 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/white_upholstered_oak_stool": {
+    "criteria": {
+      "has_white_wool": "2025-07-02 01:23:40 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/white_cape": {
+    "criteria": {
+      "has_white_wool": "2025-07-02 01:23:40 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/white_upholstered_dark_oak_stool": {
+    "criteria": {
+      "has_white_wool": "2025-07-02 01:23:40 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/white_warped_chair": {
+    "criteria": {
+      "has_white_wool": "2025-07-02 01:23:40 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/kinetics/red_seat": {
+    "criteria": {
+      "has_wool": "2025-07-02 01:23:40 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/kinetics/light_gray_seat": {
+    "criteria": {
+      "has_wool": "2025-07-02 01:23:40 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/white_upholstered_birch_stool": {
+    "criteria": {
+      "has_white_wool": "2025-07-02 01:23:40 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/white_upholstered_crimson_stool": {
+    "criteria": {
+      "has_white_wool": "2025-07-02 01:23:40 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/kinetics/cyan_seat": {
+    "criteria": {
+      "has_wool": "2025-07-02 01:23:40 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/white_acacia_chair": {
+    "criteria": {
+      "has_white_wool": "2025-07-02 01:23:40 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/kinetics/pink_seat": {
+    "criteria": {
+      "has_wool": "2025-07-02 01:23:40 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/white_crimson_chair": {
+    "criteria": {
+      "has_white_wool": "2025-07-02 01:23:40 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/white_upholstered_acacia_chair": {
+    "criteria": {
+      "has_white_wool": "2025-07-02 01:23:40 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/white_upholstered_jungle_stool": {
+    "criteria": {
+      "has_white_wool": "2025-07-02 01:23:40 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/white_spruce_chair": {
+    "criteria": {
+      "has_white_wool": "2025-07-02 01:23:40 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/white_cherry_chair": {
+    "criteria": {
+      "has_white_wool": "2025-07-02 01:23:40 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/decorations/skyroot_bed": {
+    "criteria": {
+      "has_wool": "2025-07-02 01:23:40 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/white_mangrove_chair": {
+    "criteria": {
+      "has_white_wool": "2025-07-02 01:23:40 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/kinetics/magenta_seat": {
+    "criteria": {
+      "has_wool": "2025-07-02 01:23:40 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/white_upholstered_dark_oak_chair": {
+    "criteria": {
+      "has_white_wool": "2025-07-02 01:23:40 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/white_upholstered_warped_chair": {
+    "criteria": {
+      "has_white_wool": "2025-07-02 01:23:40 +0000"
+    },
+    "done": true
+  },
+  "enigmaticlegacy:recipes/generic/bonus_wool_recipes": {
+    "criteria": {
+      "has_white_wool": "2025-07-02 01:23:40 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/white_upholstered_mangrove_chair": {
+    "criteria": {
+      "has_white_wool": "2025-07-02 01:23:40 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/white_dark_oak_chair": {
+    "criteria": {
+      "has_white_wool": "2025-07-02 01:23:40 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/white_upholstered_spruce_chair": {
+    "criteria": {
+      "has_white_wool": "2025-07-02 01:23:40 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/white_jungle_chair": {
+    "criteria": {
+      "has_white_wool": "2025-07-02 01:23:40 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/kinetics/green_seat": {
+    "criteria": {
+      "has_wool": "2025-07-02 01:23:40 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/kinetics/purple_seat": {
+    "criteria": {
+      "has_wool": "2025-07-02 01:23:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/white_bed": {
+    "criteria": {
+      "has_white_wool": "2025-07-02 01:23:40 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/white_upholstered_cherry_stool": {
+    "criteria": {
+      "has_white_wool": "2025-07-02 01:23:40 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/white_birch_chair": {
+    "criteria": {
+      "has_white_wool": "2025-07-02 01:23:40 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/kinetics/brown_seat": {
+    "criteria": {
+      "has_wool": "2025-07-02 01:23:40 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/kinetics/gray_seat": {
+    "criteria": {
+      "has_wool": "2025-07-02 01:23:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/painting": {
+    "criteria": {
+      "has_wool": "2025-07-02 01:23:40 +0000"
+    },
+    "done": true
+  },
+  "ad_astra:recipes/misc/white_flag": {
+    "criteria": {
+      "has_white_flag": "2025-07-02 01:23:40 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/kinetics/orange_seat": {
+    "criteria": {
+      "has_wool": "2025-07-02 01:23:40 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/white_fabric_desk_lamp": {
+    "criteria": {
+      "has_white_wool": "2025-07-02 01:23:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/white_carpet": {
+    "criteria": {
+      "has_white_wool": "2025-07-02 01:23:40 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/white_upholstered_crimson_chair": {
+    "criteria": {
+      "has_white_wool": "2025-07-02 01:23:40 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/white_upholstered_jungle_chair": {
+    "criteria": {
+      "has_white_wool": "2025-07-02 01:23:40 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/kinetics/black_seat": {
+    "criteria": {
+      "has_wool": "2025-07-02 01:23:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/white_banner": {
+    "criteria": {
+      "has_white_wool": "2025-07-02 01:23:40 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/white_upholstered_birch_chair": {
+    "criteria": {
+      "has_white_wool": "2025-07-02 01:23:40 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/kinetics/white_seat": {
+    "criteria": {
+      "has_wool": "2025-07-02 01:23:40 +0000"
+    },
+    "done": true
+  },
+  "comforts:hammock_white": {
+    "criteria": {
+      "has_white_wool": "2025-07-02 01:23:40 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/kinetics/lime_seat": {
+    "criteria": {
+      "has_wool": "2025-07-02 01:23:40 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/kinetics/yellow_seat": {
+    "criteria": {
+      "has_wool": "2025-07-02 01:23:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_red_rock_bricks_from_moss_block": {
+    "criteria": {
+      "has_moss_block": "2025-07-02 01:25:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_stone_from_moss_block": {
+    "criteria": {
+      "has_moss_block": "2025-07-02 01:25:58 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/building_blocks/mossy_black_sand": {
+    "criteria": {
+      "has_moss_block": "2025-07-02 01:25:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_stone_bricks_from_moss_block": {
+    "criteria": {
+      "has_moss_block": "2025-07-02 01:25:58 +0000"
+    },
+    "done": true
+  },
+  "ecologics:recipes/ecologics/surface_moss": {
+    "criteria": {
+      "has_moss_block": "2025-07-02 01:25:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_from_moss_block": {
+    "criteria": {
+      "has_moss_block": "2025-07-02 01:25:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/moss_carpet": {
+    "criteria": {
+      "has_moss_block": "2025-07-02 01:25:58 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_black_leggings": {
+    "criteria": {
+      "has_item": "2025-07-02 03:35:41 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/kill_if_dragon": {
+    "criteria": {
+      "killed_fire_dragon": "2025-07-02 03:33:37 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_black_boots": {
+    "criteria": {
+      "has_item": "2025-07-02 03:35:41 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/dragonscales_black_to_dragonscale_black": {
+    "criteria": {
+      "has_dragonscales_black": "2025-07-02 03:35:41 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_gray_boots": {
+    "criteria": {
+      "has_item": "2025-07-02 03:34:09 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/misc/purple_dye_from_hyssop": {
+    "criteria": {
+      "has_hyssop": "2025-07-02 03:31:41 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_gray_helmet": {
+    "criteria": {
+      "has_item": "2025-07-02 03:34:09 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_gray_chestplate": {
+    "criteria": {
+      "has_item": "2025-07-02 03:34:09 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/misc/light_gray_dye_from_daisy": {
+    "criteria": {
+      "has_daisy": "2025-07-02 03:30:31 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_gray_leggings": {
+    "criteria": {
+      "has_item": "2025-07-02 03:34:09 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/dragonscales_gray_to_dragonscale_gray": {
+    "criteria": {
+      "has_dragonscales_gray": "2025-07-02 03:34:09 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_black_chestplate": {
+    "criteria": {
+      "has_item": "2025-07-02 03:35:41 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/misc/magenta_dye_from_fireweed": {
+    "criteria": {
+      "has_fireweed": "2025-07-02 03:31:41 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_black_helmet": {
+    "criteria": {
+      "has_item": "2025-07-02 03:35:41 +0000"
     },
     "done": true
   },
