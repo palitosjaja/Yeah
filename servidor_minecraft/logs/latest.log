@@ -12777,3 +12777,15 @@ com.google.gson.JsonSyntaxException: Expected itemGroup.minecells.minecells to b
 [01Jul2025 23:44:12.741] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: weecbx has made the advancement [Diamonds!]
 [01Jul2025 23:46:24.793] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: weecbx has made the advancement [Take Aim]
 [01Jul2025 23:47:11.204] [Server thread/INFO] [com.brass_amber.ba_bt.BABTMain/]: Setting obelisk data
+[01Jul2025 23:48:09.139] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: weecbx has made the advancement [Cover Me with Diamonds]
+[01Jul2025 23:52:02.735] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [weecbx: Set own game mode to Spectator Mode]
+[01Jul2025 23:52:11.199] [Server thread/INFO] [com.brass_amber.ba_bt.BABTMain/]: Setting obelisk data
+[01Jul2025 23:52:48.851] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [weecbx: Set own game mode to Survival Mode]
+[01Jul2025 23:52:51.626] [Server thread/INFO] [com.brass_amber.ba_bt.BABTMain/]: Spawners Destroyed: 11
+[01Jul2025 23:52:53.739] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [weecbx: Set own game mode to Spectator Mode]
+[01Jul2025 23:53:01.553] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [weecbx: Set own game mode to Survival Mode]
+[01Jul2025 23:53:05.625] [Server thread/INFO] [com.brass_amber.ba_bt.BABTMain/]: Spawners Destroyed: 12
+[01Jul2025 23:53:06.935] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [weecbx: Set own game mode to Spectator Mode]
+[01Jul2025 23:53:50.235] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [weecbx: Set own game mode to Survival Mode]
+[01Jul2025 23:55:56.931] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3811ms or 76 ticks behind
+[01Jul2025 23:57:15.015] [Server thread/INFO] [com.brass_amber.ba_bt.BABTMain/]: Setting obelisk data

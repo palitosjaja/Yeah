@@ -3792,6 +3792,7 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "bread": "2025-07-01 23:31:21 +0000",
+      "cooked_salmon": "2025-07-01 23:54:15 +0000",
       "cooked_porkchop": "2025-06-29 23:48:13 +0000",
       "glow_berries": "2025-07-01 23:30:25 +0000",
       "golden_carrot": "2025-07-01 23:44:40 +0000"
@@ -3988,6 +3989,12 @@
   "ironchest:recipes/decorations/chests/copper_iron_chest": {
     "criteria": {
       "has_iron_ingot": "2025-07-01 23:15:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/shiny_gear": {
+    "criteria": {
+      "diamond_leggings": "2025-07-01 23:48:09 +0000"
     },
     "done": true
   },
@@ -4531,6 +4538,12 @@
     },
     "done": false
   },
+  "sophisticatedbackpacks:recipes/misc/diamond_backpack": {
+    "criteria": {
+      "has_gold_backpack": "2025-07-01 23:55:40 +0000"
+    },
+    "done": true
+  },
   "blue_skies:recipes/building_blocks/dusk_bookshelf": {
     "criteria": {
       "has_item": "2025-07-01 23:39:36 +0000"
@@ -5002,6 +5015,12 @@
   "minecraft:recipes/food/cooked_mutton_from_smoking": {
     "criteria": {
       "has_mutton": "2025-07-01 23:30:09 +0000"
+    },
+    "done": true
+  },
+  "miningmaster:recipes/forging/paragon_leggings": {
+    "criteria": {
+      "has_diamond_leggings": "2025-07-01 23:48:09 +0000"
     },
     "done": true
   },
@@ -5629,6 +5648,12 @@
   "minecraft:recipes/food/cooked_chicken": {
     "criteria": {
       "has_chicken": "2025-07-01 23:30:07 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/diamond_leggings_repairing": {
+    "criteria": {
+      "has_diamond_leggings": "2025-07-01 23:48:09 +0000"
     },
     "done": true
   },
