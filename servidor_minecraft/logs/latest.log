@@ -153,3 +153,59 @@
 [02Jul2025 01:04:50.424] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: weecbx has reached the goal [Opposites Attract]
 [02Jul2025 01:04:53.790] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [weecbx: Set own game mode to Survival Mode]
 [02Jul2025 01:05:14.511] [Server thread/INFO] [com.brass_amber.ba_bt.BABTMain/]: Setting obelisk data
+[02Jul2025 01:05:28.862] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: weecbx has reached the goal [Arachnophobe's Nightmare]
+[02Jul2025 01:06:34.386] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: weecbx lost connection: Timed out
+[02Jul2025 01:06:34.387] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: weecbx left the game
+[02Jul2025 01:06:59.072] [Server thread/INFO] [owo/]: [Handshake] Sending channel query
+[02Jul2025 01:06:59.300] [Netty Epoll Server IO #7/INFO] [owo/]: [Handshake] Receiving client channels
+[02Jul2025 01:06:59.300] [Netty Epoll Server IO #7/INFO] [owo/]: [Handshake] Handshake completed successfully
+[02Jul2025 01:06:59.353] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: weecbx[/127.176.3.170:60149] logged in with entity id 37495 at (-27.513810679276983, 21.176759275064235, -1130.2514967491995)
+[02Jul2025 01:06:59.354] [Server thread/INFO] [owo/]: Sending server config values to client
+[02Jul2025 01:06:59.355] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to weecbx
+[02Jul2025 01:06:59.356] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to weecbx
+[02Jul2025 01:06:59.356] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to weecbx
+[02Jul2025 01:06:59.356] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to weecbx
+[02Jul2025 01:06:59.358] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to weecbx
+[02Jul2025 01:06:59.361] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to weecbx
+[02Jul2025 01:06:59.361] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to weecbx
+[02Jul2025 01:06:59.413] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: weecbx joined the game
+[02Jul2025 01:06:59.481] [Server thread/INFO] [se.mickelus.tetra.data.DataManager/]: Sending data to client: weecbx
+[02Jul2025 01:06:59.493] [Server thread/INFO] [Enigmatic Legacy/INFO]: Synchronizing omniconfig files to weecbx...
+[02Jul2025 01:06:59.494] [Server thread/INFO] [Enigmatic Legacy/INFO]: Sending data for enigmaticlegacy-common.omniconf
+[02Jul2025 01:06:59.494] [Server thread/INFO] [Enigmatic Legacy/INFO]: Granting starter gear to weecbx
+[02Jul2025 01:06:59.808] [Netty Epoll Server IO #7/INFO] [owo/]: Receiving client config
+[02Jul2025 01:07:18.530] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: weecbx was slain by Zombie
+[02Jul2025 01:09:20.319] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [weecbx: Set own game mode to Creative Mode]
+[02Jul2025 01:10:31.396] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [weecbx: Teleported weecbx to -27.500000, 21.000000, -1130.500000]
+[02Jul2025 01:10:44.501] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [weecbx: Set 35 experience levels on weecbx]
+[02Jul2025 01:10:49.343] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [weecbx: Set own game mode to Survival Mode]
+[02Jul2025 01:11:40.919] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [weecbx: Set own game mode to Creative Mode]
+[02Jul2025 01:11:42.304] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [weecbx: Set own game mode to Adventure Mode]
+[02Jul2025 01:11:43.490] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [weecbx: Set own game mode to Creative Mode]
+[02Jul2025 01:11:44.637] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [weecbx: Set own game mode to Spectator Mode]
+[02Jul2025 01:11:45.799] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [weecbx: Set own game mode to Creative Mode]
+[02Jul2025 01:11:46.945] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [weecbx: Set own game mode to Spectator Mode]
+[02Jul2025 01:12:01.687] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [weecbx: Set own game mode to Creative Mode]
+[02Jul2025 01:12:03.207] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [weecbx: Set own game mode to Survival Mode]
+[02Jul2025 01:12:13.409] [Server thread/INFO] [com.brass_amber.ba_bt.BABTMain/]: Setting obelisk data
+[02Jul2025 01:12:36.504] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [weecbx: Set own game mode to Spectator Mode]
+[02Jul2025 01:12:59.324] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [weecbx: Set own game mode to Survival Mode]
+[02Jul2025 01:13:01.624] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [weecbx: Set own game mode to Spectator Mode]
+[02Jul2025 01:13:08.295] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [weecbx: Set own game mode to Survival Mode]
+[02Jul2025 01:14:37.053] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: weecbx has made the advancement [Push and Pull]
+[02Jul2025 01:14:38.409] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: weecbx has made the advancement [Teletor's Telecore]
+[02Jul2025 01:15:56.853] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: weecbx has made the advancement [Magnets, How Do They Work?]
+[02Jul2025 01:15:56.904] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: weecbx has made the advancement [An Alloy To Remember]
+[02Jul2025 01:18:23.719] [Server thread/INFO] [com.brass_amber.ba_bt.BABTMain/]: Setting obelisk data
+[02Jul2025 01:19:54.215] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [weecbx: Set own game mode to Creative Mode]
+[02Jul2025 01:20:14.551] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: weecbx has reached the goal [Magnetron No More]
+[02Jul2025 01:20:31.965] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [weecbx: Set own game mode to Survival Mode]
+[02Jul2025 01:21:10.657] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: weecbx has made the advancement [Come on and Slam]
+[02Jul2025 01:22:03.016] [Server thread/INFO] [com.brass_amber.ba_bt.BABTMain/]: Setting obelisk data
+[02Jul2025 01:22:08.955] [Server thread/INFO] [com.brass_amber.ba_bt.BABTMain/]: Setting obelisk data
+[02Jul2025 01:22:13.457] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [weecbx: Set own game mode to Creative Mode]
+[02Jul2025 01:22:21.312] [Server thread/INFO] [com.brass_amber.ba_bt.BABTMain/]: Setting obelisk data
+[02Jul2025 01:22:29.752] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [weecbx: Set own game mode to Spectator Mode]
+[02Jul2025 01:22:39.551] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [weecbx: Set own game mode to Creative Mode]
+[02Jul2025 01:22:51.412] [Server thread/INFO] [com.brass_amber.ba_bt.BABTMain/]: Setting obelisk data
+[02Jul2025 01:22:57.511] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [weecbx: Set own game mode to Survival Mode]

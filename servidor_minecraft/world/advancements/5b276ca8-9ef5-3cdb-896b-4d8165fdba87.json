@@ -2355,7 +2355,9 @@
     "criteria": {
       "minecraft:sunflower_plains": "2025-07-02 00:43:08 +0000",
       "minecraft:river": "2025-07-01 23:05:51 +0000",
+      "minecraft:dripstone_caves": "2025-07-02 01:04:21 +0000",
       "minecraft:flower_forest": "2025-07-01 23:07:45 +0000",
+      "minecraft:savanna": "2025-07-02 01:04:00 +0000",
       "minecraft:plains": "2025-06-29 23:42:36 +0000",
       "autumnity:autumnity:pumpkin_fields": "2025-06-29 23:39:58 +0000"
     },
@@ -6798,75 +6800,21 @@
     },
     "done": true
   },
-  "netherexp:recipes/smooth_netherrack/smooth_netherrack": {
+  "dungeons_arise:find_illager_campsite": {
     "criteria": {
-      "has_item": "2025-07-02 00:52:01 +0000"
+      "location0": "2025-07-02 00:44:35 +0000"
     },
     "done": true
   },
-  "aether:recipes/building_blocks/packed_ice_freezing": {
+  "minecraft:adventure/whos_the_pillager_now": {
     "criteria": {
-      "has_water_bucket": "2025-07-02 00:52:11 +0000"
+      "kill_pillager": "2025-07-02 00:45:00 +0000"
     },
     "done": true
   },
-  "aether:recipes/misc/aether_gold_nugget_from_smelting": {
+  "galosphere:recipes/misc/silver_ingot_from_nuggets": {
     "criteria": {
-      "has_golden_gloves": "2025-07-02 00:48:28 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/misc/dragon_bone_wall": {
-    "criteria": {
-      "has_item": "2025-07-02 00:54:34 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/sentry_armor_trim_smithing_template": {
-    "criteria": {
-      "has_sentry_armor_trim_smithing_template": "2025-07-02 00:55:44 +0000"
-    },
-    "done": true
-  },
-  "aether:recipes/misc/aether_iron_nugget_from_smelting": {
-    "criteria": {
-      "has_iron_gloves": "2025-07-02 00:49:57 +0000"
-    },
-    "done": true
-  },
-  "galosphere:recipes/decorations/amethyst_lamp": {
-    "criteria": {
-      "has_amethyst_shard": "2025-07-02 01:01:11 +0000"
-    },
-    "done": true
-  },
-  "bosses_of_mass_destruction:recipes/void_lily": {
-    "criteria": {
-      "has_amethyst_shard": "2025-07-02 01:01:11 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/misc/skull_to_bone_meal": {
-    "criteria": {
-      "has_item": "2025-07-02 00:54:47 +0000"
-    },
-    "done": true
-  },
-  "soulsweapons:recipes/combat/featherlight": {
-    "criteria": {
-      "has_item": "2025-07-02 01:01:11 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/calibrated_sculk_sensor": {
-    "criteria": {
-      "has_amethyst_shard": "2025-07-02 01:01:11 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/tinted_glass": {
-    "criteria": {
-      "has_amethyst_shard": "2025-07-02 01:01:11 +0000"
+      "has_silver_nugget": "2025-07-02 00:45:23 +0000"
     },
     "done": true
   },
@@ -6876,45 +6824,21 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/emerald_from_blasting_emerald_ore": {
-    "criteria": {
-      "has_emerald_ore": "2025-07-02 00:53:06 +0000"
-    },
-    "done": true
-  },
   "miningmaster:recipes/crafting/shaped/gem_forge": {
     "criteria": {
       "has_lava_bucket": "2025-07-02 00:46:59 +0000"
     },
     "done": true
   },
-  "iceandfire:recipes/building_blocks/dragon_bone_block": {
+  "aether:recipes/building_blocks/obsidian_from_bucket_freezing": {
     "criteria": {
-      "has_dragonbone": "2025-07-02 00:54:34 +0000"
+      "has_lava_bucket": "2025-07-02 00:46:59 +0000"
     },
     "done": true
   },
-  "forbidden_arcanus:recipes/misc/clibano_combustion/emerald_from_clibano_combusting": {
+  "aether:recipes/misc/aether_gold_nugget_from_smelting": {
     "criteria": {
-      "has_item": "2025-07-02 00:53:06 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/nether_brick": {
-    "criteria": {
-      "has_netherrack": "2025-07-02 00:52:01 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/baked_potato_from_campfire_cooking": {
-    "criteria": {
-      "has_potato": "2025-07-02 00:55:22 +0000"
-    },
-    "done": true
-  },
-  "celestisynth:recipes/misc/celestial_core": {
-    "criteria": {
-      "has_item": "2025-07-02 01:01:11 +0000"
+      "has_golden_gloves": "2025-07-02 00:48:28 +0000"
     },
     "done": true
   },
@@ -6924,9 +6848,149 @@
     },
     "done": true
   },
+  "aether:recipes/misc/aether_gold_nugget_from_blasting": {
+    "criteria": {
+      "has_golden_gloves": "2025-07-02 00:48:28 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:tools/tinker_tool": {
+    "criteria": {
+      "crafted_tool": "2025-07-02 00:48:48 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:tools/material_master": {
+    "criteria": {
+      "necrotic_bone": "2025-07-02 00:48:48 +0000",
+      "vine": "2025-07-02 00:48:48 +0000",
+      "queens_slime": "2025-07-02 00:48:48 +0000"
+    },
+    "done": false
+  },
+  "tconstruct:world/ancient_tools": {
+    "criteria": {
+      "war_pick": "2025-07-02 00:48:48 +0000"
+    },
+    "done": false
+  },
+  "tconstruct:tools/netherite_tier": {
+    "criteria": {
+      "harvest_level": "2025-07-02 00:48:48 +0000"
+    },
+    "done": true
+  },
+  "enigmaticlegacy:main/magnet_ring": {
+    "criteria": {
+      "spellstone": "2025-07-02 00:49:12 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/misc/aether_iron_nugget_from_smelting": {
+    "criteria": {
+      "has_iron_gloves": "2025-07-02 00:49:57 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/misc/aether_iron_nugget_from_blasting": {
+    "criteria": {
+      "has_iron_gloves": "2025-07-02 00:49:57 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/iron_gloves_repairing": {
+    "criteria": {
+      "has_iron_gloves": "2025-07-02 00:49:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/blue_glazed_terracotta": {
+    "criteria": {
+      "has_blue_terracotta": "2025-07-02 00:51:14 +0000"
+    },
+    "done": true
+  },
+  "ecologics:recipes/ecologics/pot": {
+    "criteria": {
+      "has_terracotta": "2025-07-02 00:51:14 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_structures:recipes/decorations/big_blue_glazed_jar": {
+    "criteria": {
+      "has_blue_terracotta": "2025-07-02 00:51:14 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_structures:recipes/decorations/blue_glazed_jar": {
+    "criteria": {
+      "has_blue_terracotta": "2025-07-02 00:51:14 +0000"
+    },
+    "done": true
+  },
+  "netherexp:recipes/smooth_netherrack/smooth_netherrack": {
+    "criteria": {
+      "has_item": "2025-07-02 00:52:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/nether_brick": {
+    "criteria": {
+      "has_netherrack": "2025-07-02 00:52:01 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/building_blocks/packed_ice_freezing": {
+    "criteria": {
+      "has_water_bucket": "2025-07-02 00:52:11 +0000"
+    },
+    "done": true
+  },
   "aether:recipes/building_blocks/blue_ice_freezing": {
     "criteria": {
       "has_water_bucket": "2025-07-02 00:52:11 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/building_blocks/ice_from_bucket_freezing": {
+    "criteria": {
+      "has_water_bucket": "2025-07-02 00:52:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/cauldron": {
+    "criteria": {
+      "has_water_bucket": "2025-07-02 00:52:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/emerald_from_blasting_emerald_ore": {
+    "criteria": {
+      "has_emerald_ore": "2025-07-02 00:53:06 +0000"
+    },
+    "done": true
+  },
+  "forbidden_arcanus:recipes/misc/clibano_combustion/emerald_from_clibano_combusting": {
+    "criteria": {
+      "has_item": "2025-07-02 00:53:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/emerald_from_smelting_emerald_ore": {
+    "criteria": {
+      "has_emerald_ore": "2025-07-02 00:53:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/emerald_from_smelting_deepslate_emerald_ore": {
+    "criteria": {
+      "has_deepslate_emerald_ore": "2025-07-02 00:53:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/emerald_from_blasting_deepslate_emerald_ore": {
+    "criteria": {
+      "has_deepslate_emerald_ore": "2025-07-02 00:53:13 +0000"
     },
     "done": true
   },
@@ -6948,71 +7012,27 @@
     },
     "done": true
   },
-  "aether:recipes/building_blocks/ice_from_bucket_freezing": {
+  "iceandfire:recipes/combat/armor_bronze_helmet": {
     "criteria": {
-      "has_water_bucket": "2025-07-02 00:52:11 +0000"
+      "has_item": "2025-07-02 00:54:31 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/decorations/blue_glazed_terracotta": {
+  "iceandfire:recipes/combat/armor_bronze_chestplate": {
     "criteria": {
-      "has_blue_terracotta": "2025-07-02 00:51:14 +0000"
+      "has_item": "2025-07-02 00:54:31 +0000"
     },
     "done": true
   },
-  "ecologics:recipes/ecologics/pot": {
+  "iceandfire:recipes/misc/dragon_bone_wall": {
     "criteria": {
-      "has_terracotta": "2025-07-02 00:51:14 +0000"
+      "has_item": "2025-07-02 00:54:34 +0000"
     },
     "done": true
   },
-  "tconstruct:tools/tinker_tool": {
+  "iceandfire:recipes/building_blocks/dragon_bone_block": {
     "criteria": {
-      "crafted_tool": "2025-07-02 00:48:48 +0000"
-    },
-    "done": true
-  },
-  "tconstruct:tools/material_master": {
-    "criteria": {
-      "necrotic_bone": "2025-07-02 00:48:48 +0000",
-      "vine": "2025-07-02 00:48:48 +0000",
-      "queens_slime": "2025-07-02 00:48:48 +0000"
-    },
-    "done": false
-  },
-  "dungeons_arise:find_illager_campsite": {
-    "criteria": {
-      "location0": "2025-07-02 00:44:35 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/baked_potato_from_smoking": {
-    "criteria": {
-      "has_potato": "2025-07-02 00:55:22 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/sentry_armor_trim_smithing_template_smithing_trim": {
-    "criteria": {
-      "has_smithing_trim_template": "2025-07-02 00:55:44 +0000"
-    },
-    "done": true
-  },
-  "enigmaticlegacy:main/magnet_ring": {
-    "criteria": {
-      "spellstone": "2025-07-02 00:49:12 +0000"
-    },
-    "done": true
-  },
-  "minecraft:husbandry/obtain_sniffer_egg": {
-    "criteria": {
-      "obtain_sniffer_egg": "2025-07-02 00:59:35 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/amethyst_block": {
-    "criteria": {
-      "has_amethyst_shard": "2025-07-02 01:01:11 +0000"
+      "has_dragonbone": "2025-07-02 00:54:34 +0000"
     },
     "done": true
   },
@@ -7022,51 +7042,9 @@
     },
     "done": true
   },
-  "iceandfire:recipes/misc/dragon_stick": {
-    "criteria": {
-      "has_item": "2025-07-02 00:54:47 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/combat/armor_bronze_helmet": {
-    "criteria": {
-      "has_item": "2025-07-02 00:54:31 +0000"
-    },
-    "done": true
-  },
-  "valhelsia_structures:recipes/decorations/big_blue_glazed_jar": {
-    "criteria": {
-      "has_blue_terracotta": "2025-07-02 00:51:14 +0000"
-    },
-    "done": true
-  },
-  "valhelsia_structures:recipes/decorations/blue_glazed_jar": {
-    "criteria": {
-      "has_blue_terracotta": "2025-07-02 00:51:14 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/tools/spyglass": {
-    "criteria": {
-      "has_amethyst_shard": "2025-07-02 01:01:11 +0000"
-    },
-    "done": true
-  },
   "iceandfire:recipes/misc/dragon_flute": {
     "criteria": {
       "has_item": "2025-07-02 00:54:34 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/emerald_from_smelting_deepslate_emerald_ore": {
-    "criteria": {
-      "has_deepslate_emerald_ore": "2025-07-02 00:53:13 +0000"
-    },
-    "done": true
-  },
-  "aether:recipes/building_blocks/obsidian_from_bucket_freezing": {
-    "criteria": {
-      "has_lava_bucket": "2025-07-02 00:46:59 +0000"
     },
     "done": true
   },
@@ -7082,27 +7060,9 @@
     },
     "done": true
   },
-  "tconstruct:world/ancient_tools": {
-    "criteria": {
-      "war_pick": "2025-07-02 00:48:48 +0000"
-    },
-    "done": false
-  },
-  "minecraft:recipes/brewing/cauldron": {
-    "criteria": {
-      "has_water_bucket": "2025-07-02 00:52:11 +0000"
-    },
-    "done": true
-  },
   "iceandfire:recipes/tools/dragonbone_hoe": {
     "criteria": {
       "has_item": "2025-07-02 00:54:34 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/emerald_from_smelting_emerald_ore": {
-    "criteria": {
-      "has_emerald_ore": "2025-07-02 00:53:06 +0000"
     },
     "done": true
   },
@@ -7112,27 +7072,9 @@
     },
     "done": true
   },
-  "minecraft:adventure/whos_the_pillager_now": {
-    "criteria": {
-      "kill_pillager": "2025-07-02 00:45:00 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/baked_potato": {
-    "criteria": {
-      "has_potato": "2025-07-02 00:55:22 +0000"
-    },
-    "done": true
-  },
   "iceandfire:recipes/tools/dragonbone_axe": {
     "criteria": {
       "has_item": "2025-07-02 00:54:34 +0000"
-    },
-    "done": true
-  },
-  "aether:recipes/misc/aether_iron_nugget_from_blasting": {
-    "criteria": {
-      "has_iron_gloves": "2025-07-02 00:49:57 +0000"
     },
     "done": true
   },
@@ -7142,45 +7084,166 @@
     },
     "done": true
   },
-  "aether:recipes/combat/iron_gloves_repairing": {
-    "criteria": {
-      "has_iron_gloves": "2025-07-02 00:49:57 +0000"
-    },
-    "done": true
-  },
   "iceandfire:recipes/tools/dragonbone_sword": {
     "criteria": {
       "has_item": "2025-07-02 00:54:34 +0000"
     },
     "done": true
   },
-  "aether:recipes/misc/aether_gold_nugget_from_blasting": {
+  "iceandfire:recipes/misc/skull_to_bone_meal": {
     "criteria": {
-      "has_golden_gloves": "2025-07-02 00:48:28 +0000"
+      "has_item": "2025-07-02 00:54:47 +0000"
     },
     "done": true
   },
-  "tconstruct:tools/netherite_tier": {
+  "iceandfire:recipes/misc/dragon_stick": {
     "criteria": {
-      "harvest_level": "2025-07-02 00:48:48 +0000"
+      "has_item": "2025-07-02 00:54:47 +0000"
     },
     "done": true
   },
-  "iceandfire:recipes/combat/armor_bronze_chestplate": {
+  "minecraft:recipes/food/baked_potato_from_campfire_cooking": {
     "criteria": {
-      "has_item": "2025-07-02 00:54:31 +0000"
+      "has_potato": "2025-07-02 00:55:22 +0000"
     },
     "done": true
   },
-  "galosphere:recipes/misc/silver_ingot_from_nuggets": {
+  "minecraft:recipes/food/baked_potato_from_smoking": {
     "criteria": {
-      "has_silver_nugget": "2025-07-02 00:45:23 +0000"
+      "has_potato": "2025-07-02 00:55:22 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/misc/emerald_from_blasting_deepslate_emerald_ore": {
+  "minecraft:recipes/food/baked_potato": {
     "criteria": {
-      "has_deepslate_emerald_ore": "2025-07-02 00:53:13 +0000"
+      "has_potato": "2025-07-02 00:55:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/sentry_armor_trim_smithing_template": {
+    "criteria": {
+      "has_sentry_armor_trim_smithing_template": "2025-07-02 00:55:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/sentry_armor_trim_smithing_template_smithing_trim": {
+    "criteria": {
+      "has_smithing_trim_template": "2025-07-02 00:55:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/obtain_sniffer_egg": {
+    "criteria": {
+      "obtain_sniffer_egg": "2025-07-02 00:59:35 +0000"
+    },
+    "done": true
+  },
+  "galosphere:recipes/decorations/amethyst_lamp": {
+    "criteria": {
+      "has_amethyst_shard": "2025-07-02 01:01:11 +0000"
+    },
+    "done": true
+  },
+  "bosses_of_mass_destruction:recipes/void_lily": {
+    "criteria": {
+      "has_amethyst_shard": "2025-07-02 01:01:11 +0000"
+    },
+    "done": true
+  },
+  "soulsweapons:recipes/combat/featherlight": {
+    "criteria": {
+      "has_item": "2025-07-02 01:01:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/calibrated_sculk_sensor": {
+    "criteria": {
+      "has_amethyst_shard": "2025-07-02 01:01:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/tinted_glass": {
+    "criteria": {
+      "has_amethyst_shard": "2025-07-02 01:01:11 +0000"
+    },
+    "done": true
+  },
+  "celestisynth:recipes/misc/celestial_core": {
+    "criteria": {
+      "has_item": "2025-07-02 01:01:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/amethyst_block": {
+    "criteria": {
+      "has_amethyst_shard": "2025-07-02 01:01:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/spyglass": {
+    "criteria": {
+      "has_amethyst_shard": "2025-07-02 01:01:11 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/discover_magnetic_caves": {
+    "criteria": {
+      "discover": "2025-07-02 01:04:50 +0000"
+    },
+    "done": true
+  },
+  "mythicmetals:root": {
+    "criteria": {
+      "pick_up_mythic_metal": "2025-07-02 01:05:15 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:arachnophobes_nightmare": {
+    "criteria": {
+      "arachnophobes_nightmare_0": "2025-07-02 01:05:28 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/resistor_shield": {
+    "criteria": {
+      "resistor_shield": "2025-07-02 01:21:10 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/defeat_magnetron": {
+    "criteria": {
+      "killed": "2025-07-02 01:20:14 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/neodymium_ingot": {
+    "criteria": {
+      "azure": "2025-07-02 01:15:56 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/neodymium": {
+    "criteria": {
+      "scarlet": "2025-07-02 01:14:37 +0000",
+      "azure": "2025-07-02 01:13:29 +0000"
+    },
+    "done": true
+  },
+  "tetra:spelunking/root": {
+    "criteria": {
+      "spelunking": "2025-07-02 01:12:14 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/magnet": {
+    "criteria": {
+      "scarlet": "2025-07-02 01:15:56 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/telecore": {
+    "criteria": {
+      "limestone": "2025-07-02 01:14:38 +0000"
     },
     "done": true
   },
