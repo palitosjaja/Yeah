@@ -4034,6 +4034,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/sleep_in_bed": {
+    "criteria": {
+      "slept_in_bed": "2025-07-02 00:21:36 +0000"
+    },
+    "done": true
+  },
   "valhelsia_furniture:recipes/decorations/purple_oak_table": {
     "criteria": {
       "has_purple_carpet": "2025-07-02 00:07:14 +0000"
@@ -5598,6 +5604,12 @@
     },
     "done": true
   },
+  "ba_bt:battletowers/kill_land_golem": {
+    "criteria": {
+      "Kill Golem": "2025-07-02 00:18:26 +0000"
+    },
+    "done": true
+  },
   "enigmaticlegacy:recipes/generic/tome_uncrafting/withered_tome": {
     "criteria": {
       "has_items": "2025-07-01 23:12:49 +0000"
@@ -6382,6 +6394,12 @@
   "valhelsia_furniture:recipes/decorations/red_oak_table": {
     "criteria": {
       "has_red_carpet": "2025-07-02 00:07:14 +0000"
+    },
+    "done": true
+  },
+  "netherexp:nether/overkill": {
+    "criteria": {
+      "overkill": "2025-07-02 00:18:15 +0000"
     },
     "done": true
   },
