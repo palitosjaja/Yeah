@@ -12823,3 +12823,20 @@ com.google.gson.JsonSyntaxException: Expected itemGroup.minecells.minecells to b
 [02Jul2025 04:52:23.068] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [weecbx: Set 100 experience levels on weecbx]
 [02Jul2025 04:52:23.990] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [weecbx: Set own game mode to Survival Mode]
 [02Jul2025 04:53:38.796] [Server thread/INFO] [com.brass_amber.ba_bt.BABTMain/]: Setting obelisk data
+[02Jul2025 04:56:35.887] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [weecbx: Set own game mode to Creative Mode]
+[02Jul2025 04:56:46.919] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [weecbx: Set own game mode to Survival Mode]
+[02Jul2025 04:58:33.666] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [weecbx: Set 200 experience levels on weecbx]
+[02Jul2025 04:58:38.789] [Server thread/INFO] [com.brass_amber.ba_bt.BABTMain/]: Setting obelisk data
+[02Jul2025 05:00:21.799] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/16948, l='ServerLevel[world]', x=-820.50, y=71.00, z=-1948.50]
+[02Jul2025 05:01:06.516] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [weecbx: Set own game mode to Creative Mode]
+[02Jul2025 05:01:17.181] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [weecbx: Set own game mode to Survival Mode]
+[02Jul2025 05:01:37.816] [Server thread/ERROR] [sophisticatedbackpacks/]: Error getting backpack wrapper - Unable to find backpack at slot index 2 in "main" inventory handler
+[02Jul2025 05:03:36.115] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [weecbx: Set own game mode to Creative Mode]
+[02Jul2025 05:03:38.787] [Server thread/INFO] [com.brass_amber.ba_bt.BABTMain/]: Setting obelisk data
+[02Jul2025 05:04:00.465] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [weecbx: Set own game mode to Survival Mode]
+[02Jul2025 05:04:38.640] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [weecbx: Set own game mode to Creative Mode]
+[02Jul2025 05:04:42.616] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [weecbx: Set own game mode to Survival Mode]
+[02Jul2025 05:04:53.689] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [weecbx: Set own game mode to Creative Mode]
+[02Jul2025 05:04:59.064] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [weecbx: Set own game mode to Survival Mode]
+[02Jul2025 05:05:10.412] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [weecbx: Set own game mode to Creative Mode]
+[02Jul2025 05:05:15.037] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [weecbx: Set own game mode to Survival Mode]
