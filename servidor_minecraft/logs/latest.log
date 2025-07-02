@@ -83,3 +83,56 @@
 [02Jul2025 00:33:23.702] [Server thread/INFO] [com.brass_amber.ba_bt.BABTMain/]: Setting obelisk data
 [02Jul2025 00:33:31.888] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [weecbx: Set own game mode to Creative Mode]
 [02Jul2025 00:33:39.697] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [weecbx: Set own game mode to Survival Mode]
+[02Jul2025 00:35:12.045] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [weecbx: Set own game mode to Creative Mode]
+[02Jul2025 00:35:17.995] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [weecbx: Set own game mode to Survival Mode]
+[02Jul2025 00:35:44.138] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [weecbx: Set own game mode to Creative Mode]
+[02Jul2025 00:35:48.145] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [weecbx: Set own game mode to Survival Mode]
+[02Jul2025 00:36:58.454] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [weecbx: Set own game mode to Creative Mode]
+[02Jul2025 00:37:12.645] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [weecbx: Applied effect Strength to weecbx]
+[02Jul2025 00:37:13.741] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [weecbx: Set own game mode to Survival Mode]
+[02Jul2025 00:37:40.934] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: weecbx moved too quickly! 0.28922563539465784,-11.06576491203981,-0.8306276806788446
+[02Jul2025 00:37:42.990] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: weecbx was kicked for floating too long!
+[02Jul2025 00:37:42.990] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: weecbx lost connection: Disconnected
+[02Jul2025 00:37:42.991] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: weecbx left the game
+[02Jul2025 00:37:43.076] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[02Jul2025 00:37:43.124] [Server thread/INFO] [com.brass_amber.ba_bt.BABTMain/]: Setting obelisk data
+[02Jul2025 00:38:01.023] [Server thread/INFO] [owo/]: [Handshake] Sending channel query
+[02Jul2025 00:38:01.344] [Netty Epoll Server IO #7/INFO] [owo/]: [Handshake] Receiving client channels
+[02Jul2025 00:38:01.344] [Netty Epoll Server IO #7/INFO] [owo/]: [Handshake] Handshake completed successfully
+[02Jul2025 00:38:01.419] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: weecbx[/127.176.3.170:57849] logged in with entity id 27651 at (78.5426505826738, 172.99410050190616, -830.4873572569672)
+[02Jul2025 00:38:01.420] [Server thread/INFO] [owo/]: Sending server config values to client
+[02Jul2025 00:38:01.422] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to weecbx
+[02Jul2025 00:38:01.422] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to weecbx
+[02Jul2025 00:38:01.423] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to weecbx
+[02Jul2025 00:38:01.423] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to weecbx
+[02Jul2025 00:38:01.425] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to weecbx
+[02Jul2025 00:38:01.427] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to weecbx
+[02Jul2025 00:38:01.428] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to weecbx
+[02Jul2025 00:38:01.499] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: weecbx joined the game
+[02Jul2025 00:38:01.565] [Server thread/INFO] [se.mickelus.tetra.data.DataManager/]: Sending data to client: weecbx
+[02Jul2025 00:38:01.581] [Server thread/INFO] [Enigmatic Legacy/INFO]: Synchronizing omniconfig files to weecbx...
+[02Jul2025 00:38:01.582] [Server thread/INFO] [Enigmatic Legacy/INFO]: Sending data for enigmaticlegacy-common.omniconf
+[02Jul2025 00:38:01.582] [Server thread/INFO] [Enigmatic Legacy/INFO]: Granting starter gear to weecbx
+[02Jul2025 00:38:02.062] [Netty Epoll Server IO #7/INFO] [owo/]: Receiving client config
+[02Jul2025 00:38:05.011] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Set weecbx's game mode to Creative Mode
+[02Jul2025 00:38:23.712] [Server thread/INFO] [com.brass_amber.ba_bt.BABTMain/]: Setting obelisk data
+[02Jul2025 00:39:12.649] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: weecbx moved too quickly! 0.0,-11.798174230684253,0.0
+[02Jul2025 00:41:44.845] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [weecbx: Set own game mode to Survival Mode]
+[02Jul2025 00:42:09.162] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [weecbx: Removed every effect from weecbx]
+[02Jul2025 00:43:02.959] [Server thread/INFO] [com.brass_amber.ba_bt.BABTMain/]: Setting obelisk data
+[02Jul2025 00:43:17.756] [Server thread/INFO] [com.brass_amber.ba_bt.BABTMain/]: Setting obelisk data
+[02Jul2025 00:43:29.368] [Worker-Main-6/INFO] [com.brass_amber.ba_bt.BABTMain/]: Spawned Monolith at BlockPos{x=185, y=155, z=-1128}
+[02Jul2025 00:44:35.392] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: weecbx has made the advancement [People Are Strange]
+[02Jul2025 00:45:00.790] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: weecbx has made the advancement [Who's the Pillager Now?]
+[02Jul2025 00:45:28.611] [Server thread/INFO] [com.brass_amber.ba_bt.BABTMain/]: Setting obelisk data
+[02Jul2025 00:46:59.197] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: weecbx has made the advancement [Hot Stuff]
+[02Jul2025 00:48:48.210] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: weecbx has reached the goal [Netherite Tier]
+[02Jul2025 00:49:12.043] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: weecbx has made the advancement [Magnificence]
+[02Jul2025 00:49:51.996] [Server thread/WARN] [net.minecraft.world.level.storage.loot.LootTable/]: Tried to over-fill a container
+[02Jul2025 00:50:14.249] [Server thread/INFO] [com.brass_amber.ba_bt.BABTMain/]: Setting obelisk data
+[02Jul2025 00:50:32.643] [Server thread/INFO] [com.brass_amber.ba_bt.BABTMain/]: Setting obelisk data
+[02Jul2025 00:52:44.801] [Server thread/ERROR] [sophisticatedbackpacks/]: Error getting backpack wrapper - Unable to find backpack at slot index 2 in "main" inventory handler
+[02Jul2025 00:53:14.795] [Server thread/ERROR] [sophisticatedbackpacks/]: Error getting backpack wrapper - Unable to find backpack at slot index 2 in "main" inventory handler
+[02Jul2025 00:53:32.036] [Server thread/ERROR] [sophisticatedbackpacks/]: Error getting backpack wrapper - Unable to find backpack at slot index 2 in "main" inventory handler
+[02Jul2025 00:54:12.356] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [weecbx: Set own game mode to Creative Mode]
+[02Jul2025 00:54:16.702] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [weecbx: Set own game mode to Survival Mode]
