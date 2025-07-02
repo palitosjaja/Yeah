@@ -136,3 +136,20 @@
 [02Jul2025 00:53:32.036] [Server thread/ERROR] [sophisticatedbackpacks/]: Error getting backpack wrapper - Unable to find backpack at slot index 2 in "main" inventory handler
 [02Jul2025 00:54:12.356] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [weecbx: Set own game mode to Creative Mode]
 [02Jul2025 00:54:16.702] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [weecbx: Set own game mode to Survival Mode]
+[02Jul2025 00:55:42.943] [Server thread/WARN] [net.minecraft.world.level.storage.loot.LootTable/]: Tried to over-fill a container
+[02Jul2025 00:56:28.109] [Server thread/INFO] [com.brass_amber.ba_bt.BABTMain/]: Setting obelisk data
+[02Jul2025 00:58:23.712] [Server thread/INFO] [com.brass_amber.ba_bt.BABTMain/]: Setting obelisk data
+[02Jul2025 00:59:35.571] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: weecbx has made the advancement [Smells Interesting]
+[02Jul2025 00:59:42.906] [Server thread/ERROR] [sophisticatedbackpacks/]: Error getting backpack wrapper - Unable to find backpack at slot index 2 in "main" inventory handler
+[02Jul2025 01:01:47.108] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [weecbx: Set own game mode to Creative Mode]
+[02Jul2025 01:01:59.296] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [weecbx: Set own game mode to Survival Mode]
+[02Jul2025 01:03:22.613] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [weecbx: Set own game mode to Creative Mode]
+[02Jul2025 01:03:23.711] [Server thread/INFO] [com.brass_amber.ba_bt.BABTMain/]: Setting obelisk data
+[02Jul2025 01:04:03.597] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [weecbx: Set own game mode to Survival Mode]
+[02Jul2025 01:04:12.513] [Server thread/INFO] [com.brass_amber.ba_bt.BABTMain/]: Setting obelisk data
+[02Jul2025 01:04:26.420] [Worker-Main-31/INFO] [com.brass_amber.ba_bt.BABTMain/]: land_tower Tower at BlockPos{x=-424, y=63, z=-1400} [-26, -89]
+[02Jul2025 01:04:26.421] [Worker-Main-31/INFO] [com.brass_amber.ba_bt.worldGen.structures.TowerPieces/]: Tower name: land_tower Variant: normal
+[02Jul2025 01:04:44.551] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [weecbx: Set own game mode to Creative Mode]
+[02Jul2025 01:04:50.424] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: weecbx has reached the goal [Opposites Attract]
+[02Jul2025 01:04:53.790] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [weecbx: Set own game mode to Survival Mode]
+[02Jul2025 01:05:14.511] [Server thread/INFO] [com.brass_amber.ba_bt.BABTMain/]: Setting obelisk data
