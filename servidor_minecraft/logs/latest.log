@@ -62,3 +62,24 @@
 [02Jul2025 00:23:23.721] [Server thread/INFO] [com.brass_amber.ba_bt.BABTMain/]: Setting obelisk data
 [02Jul2025 00:23:28.162] [Worker-Main-15/INFO] [com.brass_amber.ba_bt.BABTMain/]: land_tower Tower at BlockPos{x=184, y=62, z=-1128} [12, -70]
 [02Jul2025 00:23:28.164] [Worker-Main-15/INFO] [com.brass_amber.ba_bt.worldGen.structures.TowerPieces/]: Tower name: land_tower Variant: normal
+[02Jul2025 00:24:58.418] [Worker-Main-7/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[02Jul2025 00:26:54.952] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <weecbx> a
+[02Jul2025 00:27:36.697] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: weecbx has made the advancement [Who You Gonna Call?]
+[02Jul2025 00:28:11.152] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [weecbx: Set own game mode to Creative Mode]
+[02Jul2025 00:28:23.706] [Server thread/INFO] [com.brass_amber.ba_bt.BABTMain/]: Setting obelisk data
+[02Jul2025 00:28:35.953] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [weecbx: Set own game mode to Survival Mode]
+[02Jul2025 00:29:24.812] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [weecbx: Set own game mode to Spectator Mode]
+[02Jul2025 00:29:29.192] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [weecbx: Set own game mode to Survival Mode]
+[02Jul2025 00:29:59.806] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [weecbx: Gave 1 [Diamond] to weecbx]
+[02Jul2025 00:30:03.491] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [weecbx: Set own game mode to Creative Mode]
+[02Jul2025 00:30:08.949] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [weecbx: Set own game mode to Survival Mode]
+[02Jul2025 00:30:23.698] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: The Air seal has been destroyed!
+[02Jul2025 00:30:23.698] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Air elementals have been released into this world
+[02Jul2025 00:30:35.197] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: weecbx died because of Air Elemental
+[02Jul2025 00:30:36.276] [Server thread/INFO] [com.brass_amber.ba_bt.BABTMain/]: Setting obelisk data
+[02Jul2025 00:30:49.206] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [weecbx: Set own game mode to Creative Mode]
+[02Jul2025 00:31:41.642] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: weecbx moved too quickly! -3.123004330870394,3.7499660797817,-9.735054202901601
+[02Jul2025 00:32:36.297] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [weecbx: Set own game mode to Survival Mode]
+[02Jul2025 00:33:23.702] [Server thread/INFO] [com.brass_amber.ba_bt.BABTMain/]: Setting obelisk data
+[02Jul2025 00:33:31.888] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [weecbx: Set own game mode to Creative Mode]
+[02Jul2025 00:33:39.697] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [weecbx: Set own game mode to Survival Mode]

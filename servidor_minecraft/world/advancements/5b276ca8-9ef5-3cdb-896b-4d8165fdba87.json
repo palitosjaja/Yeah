@@ -3865,6 +3865,12 @@
     },
     "done": true
   },
+  "biomesoplenty:recipes/redstone/tnt_from_bop_sand": {
+    "criteria": {
+      "has_gunpowder": "2025-07-02 00:28:50 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/raw_iron_block": {
     "criteria": {
       "has_raw_iron": "2025-07-01 23:16:01 +0000"
@@ -3955,6 +3961,12 @@
     },
     "done": true
   },
+  "netherexp:recipes/misc/skeleton_skull_candle": {
+    "criteria": {
+      "has_item": "2025-07-02 00:27:32 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/leather_chestplate": {
     "criteria": {
       "has_leather": "2025-07-01 23:23:21 +0000"
@@ -4007,6 +4019,12 @@
   "minecraft:story/shiny_gear": {
     "criteria": {
       "diamond_leggings": "2025-07-01 23:48:09 +0000"
+    },
+    "done": true
+  },
+  "galosphere:recipes/decorations/combustion_table": {
+    "criteria": {
+      "has_silver_ingot": "2025-07-02 00:27:29 +0000"
     },
     "done": true
   },
@@ -4115,6 +4133,12 @@
   "create:recipes/misc/crafting/materials/andesite_alloy": {
     "criteria": {
       "has_item": "2025-07-01 23:15:02 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/ash": {
+    "criteria": {
+      "has_item": "2025-07-02 00:25:13 +0000"
     },
     "done": true
   },
@@ -4424,6 +4448,12 @@
     },
     "done": true
   },
+  "miningmaster:recipes/forging/unbreaking_iolite_pickaxe": {
+    "criteria": {
+      "has_diamond_pickaxe": "2025-07-02 00:30:18 +0000"
+    },
+    "done": true
+  },
   "valhelsia_furniture:recipes/decorations/purple_acacia_table": {
     "criteria": {
       "has_purple_carpet": "2025-07-02 00:07:14 +0000"
@@ -4454,11 +4484,23 @@
     },
     "done": true
   },
+  "tconstruct:recipes/decorations/gadgets/frame/gold": {
+    "criteria": {
+      "has_item": "2025-07-02 00:25:43 +0000"
+    },
+    "done": true
+  },
   "enigmaticlegacy:recipes/generic/infernal_shield": {
     "criteria": {
       "has_parent_recipe": "2025-07-01 23:15:02 +0000"
     },
     "done": false
+  },
+  "minecraft:recipes/misc/firework_rocket_simple": {
+    "criteria": {
+      "has_gunpowder": "2025-07-02 00:28:50 +0000"
+    },
+    "done": true
   },
   "aquaculture:recipes/tools/gold_fillet_knife": {
     "criteria": {
@@ -4481,6 +4523,18 @@
   "valhelsia_furniture:recipes/decorations/red_dark_oak_table": {
     "criteria": {
       "has_red_carpet": "2025-07-02 00:07:14 +0000"
+    },
+    "done": true
+  },
+  "netherexp:recipes/sanctum/skull_on_a_stick": {
+    "criteria": {
+      "item": "2025-07-02 00:27:32 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/tools/diamond_pickaxe_repairing": {
+    "criteria": {
+      "has_diamond_pickaxe": "2025-07-02 00:30:18 +0000"
     },
     "done": true
   },
@@ -4517,6 +4571,12 @@
   "aether:recipes/combat/golden_helmet_repairing": {
     "criteria": {
       "has_golden_helmet": "2025-07-01 23:16:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_nuggets": {
+    "criteria": {
+      "has_iron_nugget": "2025-07-02 00:28:50 +0000"
     },
     "done": true
   },
@@ -4562,6 +4622,12 @@
     },
     "done": true
   },
+  "valhelsia_structures:recipes/building_blocks/paper_wall": {
+    "criteria": {
+      "has_bamboo": "2025-07-02 00:23:51 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/iron_nugget_from_smelting": {
     "criteria": {
       "has_iron_pickaxe": "2025-07-01 23:15:12 +0000"
@@ -4571,6 +4637,12 @@
   "aether:recipes/combat/diamond_helmet_repairing": {
     "criteria": {
       "has_diamond_helmet": "2025-07-02 00:06:38 +0000"
+    },
+    "done": true
+  },
+  "miningmaster:recipes/forging/lucky_citrine_pickaxe": {
+    "criteria": {
+      "has_diamond_pickaxe": "2025-07-02 00:30:18 +0000"
     },
     "done": true
   },
@@ -4619,6 +4691,12 @@
   "soulsweapons:recipes/combat/holy_greatsword": {
     "criteria": {
       "has_item": "2025-07-01 23:15:02 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/misc/silver_ingot_to_silver_nugget": {
+    "criteria": {
+      "has_silver_ingot": "2025-07-02 00:27:29 +0000"
     },
     "done": true
   },
@@ -4819,6 +4897,12 @@
   "forbidden_arcanus:recipes/tools/obsidian_skull": {
     "criteria": {
       "has_obsidian": "2025-07-01 23:12:48 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/misc/bestiary": {
+    "criteria": {
+      "has_item": "2025-07-02 00:25:26 +0000"
     },
     "done": true
   },
@@ -5128,6 +5212,12 @@
     },
     "done": true
   },
+  "iceandfire:iceandfire/kill_ghost": {
+    "criteria": {
+      "killed_fire_dragon": "2025-07-02 00:27:36 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/raw_iron": {
     "criteria": {
       "has_raw_iron_block": "2025-07-01 23:35:48 +0000"
@@ -5137,6 +5227,12 @@
   "aether:recipes/tools/flint_and_steel_repairing": {
     "criteria": {
       "has_flint_and_steel": "2025-07-01 23:12:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/stick_from_bamboo_item": {
+    "criteria": {
+      "has_bamboo": "2025-07-02 00:23:51 +0000"
     },
     "done": true
   },
@@ -5161,6 +5257,12 @@
   "minecraft:recipes/food/mushroom_stew": {
     "criteria": {
       "has_bowl": "2025-07-01 23:16:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bamboo_block": {
+    "criteria": {
+      "has_bamboo": "2025-07-02 00:23:51 +0000"
     },
     "done": true
   },
@@ -5239,6 +5341,12 @@
   "minecraft:recipes/redstone/piston": {
     "criteria": {
       "has_redstone": "2025-07-01 23:19:02 +0000"
+    },
+    "done": true
+  },
+  "miningmaster:recipes/forging/haste_peridot_pickaxe": {
+    "criteria": {
+      "has_diamond_pickaxe": "2025-07-02 00:30:18 +0000"
     },
     "done": true
   },
@@ -5452,6 +5560,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/brewing/golden_carrot": {
+    "criteria": {
+      "has_gold_nugget": "2025-07-02 00:25:43 +0000"
+    },
+    "done": true
+  },
   "valhelsia_structures:recipes/building_blocks/white_metal_framed_glass": {
     "criteria": {
       "has_ingots/iron": "2025-07-01 23:15:02 +0000"
@@ -5529,6 +5643,12 @@
   "minecraft:recipes/building_blocks/exposed_cut_copper_stairs_from_exposed_copper_stonecutting": {
     "criteria": {
       "has_exposed_copper": "2025-07-01 23:40:44 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/ash": {
+    "criteria": {
+      "has_gunpowder": "2025-07-02 00:28:50 +0000"
     },
     "done": true
   },
@@ -5706,6 +5826,12 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/ornate_iron_window": {
+    "criteria": {
+      "has_ingredient": "2025-07-02 00:28:50 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stone_brick_slab": {
     "criteria": {
       "has_stone_bricks": "2025-07-01 23:11:56 +0000"
@@ -5758,6 +5884,12 @@
   "forbidden_arcanus:recipes/transportation/aurum_chest_boat": {
     "criteria": {
       "has_chest": "2025-07-01 23:27:38 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/food/gold_pile": {
+    "criteria": {
+      "has_item": "2025-07-02 00:25:43 +0000"
     },
     "done": true
   },
@@ -5869,6 +6001,12 @@
     },
     "done": true
   },
+  "galosphere:recipes/tools/spectre_flare": {
+    "criteria": {
+      "has_silver_ingot": "2025-07-02 00:27:29 +0000"
+    },
+    "done": true
+  },
   "valhelsia_furniture:recipes/decorations/black_acacia_table": {
     "criteria": {
       "has_black_carpet": "2025-07-02 00:10:47 +0000"
@@ -5899,6 +6037,12 @@
     },
     "done": true
   },
+  "tconstruct:recipes/decorations/gadgets/punji": {
+    "criteria": {
+      "has_item": "2025-07-02 00:23:51 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/mossy_stone_brick_slab_from_mossy_stone_brick_stonecutting": {
     "criteria": {
       "has_mossy_stone_bricks": "2025-07-02 00:10:54 +0000"
@@ -5920,6 +6064,12 @@
   "morevillagers:first_workstation_get": {
     "criteria": {
       "smoker": "2025-07-01 23:23:54 +0000"
+    },
+    "done": true
+  },
+  "galosphere:recipes/combat/silver_bomb": {
+    "criteria": {
+      "has_gunpowder": "2025-07-02 00:28:50 +0000"
     },
     "done": true
   },
@@ -6055,6 +6205,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gold_ingot_from_nuggets": {
+    "criteria": {
+      "has_gold_nugget": "2025-07-02 00:25:43 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/arrow": {
     "criteria": {
       "has_feather": "2025-07-01 23:57:25 +0000"
@@ -6124,6 +6280,12 @@
   "create:recipes/misc/crafting/schematics/schematic_and_quill": {
     "criteria": {
       "has_item": "2025-07-01 23:57:34 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/silver_ingot_to_silver_block": {
+    "criteria": {
+      "has_silver_ingot": "2025-07-02 00:27:29 +0000"
     },
     "done": true
   },
@@ -6301,6 +6463,12 @@
     },
     "done": true
   },
+  "dungeonnowloading:recipes/combat/explosive_barrel": {
+    "criteria": {
+      "has_gunpowder": "2025-07-02 00:28:50 +0000"
+    },
+    "done": true
+  },
   "enigmaticlegacy:book/relics/enigmatic_eye": {
     "criteria": {
       "impossible": "2025-07-01 23:12:34 +0000"
@@ -6352,6 +6520,12 @@
   "minecraft:recipes/food/cooked_mutton": {
     "criteria": {
       "has_mutton": "2025-07-01 23:30:09 +0000"
+    },
+    "done": true
+  },
+  "miningmaster:recipes/forging/ultima_pickaxe_1": {
+    "criteria": {
+      "has_diamond_pickaxe": "2025-07-02 00:30:18 +0000"
     },
     "done": true
   },
@@ -6511,6 +6685,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/tnt": {
+    "criteria": {
+      "has_gunpowder": "2025-07-02 00:28:50 +0000"
+    },
+    "done": true
+  },
   "valhelsia_furniture:recipes/decorations/black_birch_table": {
     "criteria": {
       "has_black_carpet": "2025-07-02 00:10:47 +0000"
@@ -6550,6 +6730,12 @@
   "minecraft:recipes/tools/diamond_axe": {
     "criteria": {
       "has_diamond": "2025-07-01 23:44:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/scaffolding": {
+    "criteria": {
+      "has_bamboo": "2025-07-02 00:23:51 +0000"
     },
     "done": true
   },
