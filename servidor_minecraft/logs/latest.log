@@ -12801,3 +12801,66 @@ com.google.gson.JsonSyntaxException: Expected itemGroup.minecells.minecells to b
 [05Jul2025 03:22:09.630] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:air} but failed at location BlockPos{x=147, y=126, z=-362}
 [05Jul2025 03:22:11.480] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-197, y=68, z=-696} but found not block entity block Block{minecraft:air} at location
 [05Jul2025 03:22:11.480] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:air} but failed at location BlockPos{x=-197, y=68, z=-696}
+[05Jul2025 03:22:28.706] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [weecbx: Set own game mode to Creative Mode]
+[05Jul2025 03:22:46.522] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [weecbx: Applied effect Speed to weecbx]
+[05Jul2025 03:22:47.384] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [weecbx: Set own game mode to Survival Mode]
+[05Jul2025 03:23:04.176] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [weecbx: Set own game mode to Spectator Mode]
+[05Jul2025 03:23:07.276] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=603, y=173, z=-440} but found not block entity block Block{minecraft:air} at location
+[05Jul2025 03:23:07.276] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:air} but failed at location BlockPos{x=603, y=173, z=-440}
+[05Jul2025 03:23:08.836] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=611, y=126, z=-442} but found not block entity block Block{minecraft:air} at location
+[05Jul2025 03:23:08.836] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:air} but failed at location BlockPos{x=611, y=126, z=-442}
+[05Jul2025 03:23:20.428] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=339, y=16, z=-778} but found not block entity block Block{minecraft:air} at location
+[05Jul2025 03:23:20.428] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:air} but failed at location BlockPos{x=339, y=16, z=-778}
+[05Jul2025 03:23:22.356] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [weecbx: Set own game mode to Survival Mode]
+[05Jul2025 03:23:24.033] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: weecbx moved too quickly! 0.598975436874241,0.0,-22.835655395098456
+[05Jul2025 03:23:24.984] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: weecbx moved too quickly! 0.7971429382748738,0.0,-24.336882841582224
+[05Jul2025 03:23:43.929] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=584, y=174, z=-1148} but found not block entity block Block{minecraft:air} at location
+[05Jul2025 03:23:43.929] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:air} but failed at location BlockPos{x=584, y=174, z=-1148}
+[05Jul2025 03:23:44.305] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=582, y=127, z=-1188} but found not block entity block Block{minecraft:air} at location
+[05Jul2025 03:23:44.305] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:air} but failed at location BlockPos{x=582, y=127, z=-1188}
+[05Jul2025 03:24:04.222] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [weecbx: Set own game mode to Spectator Mode]
+[05Jul2025 03:24:04.867] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [weecbx: Set own game mode to Creative Mode]
+[05Jul2025 03:24:17.377] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=356, y=173, z=-1513} but found not block entity block Block{minecraft:air} at location
+[05Jul2025 03:24:17.378] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:air} but failed at location BlockPos{x=356, y=173, z=-1513}
+[05Jul2025 03:24:18.172] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [weecbx: Set own game mode to Survival Mode]
+[05Jul2025 03:24:19.361] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: weecbx moved too quickly! -18.1747630379013,-0.5372633943370033,-0.6167176740214018
+[05Jul2025 03:24:20.578] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: weecbx moved too quickly! -22.850593618138078,0.0,-0.6004099634224076
+[05Jul2025 03:24:21.530] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: weecbx moved too quickly! -24.349504515245258,0.0,-0.12592197560843488
+[05Jul2025 03:24:22.237] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: weecbx moved too quickly! -25.75924729652138,0.0,0.3327609060775103
+[05Jul2025 03:24:23.205] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: weecbx moved too quickly! -23.45619463042999,0.0,3.1415492840333172
+[05Jul2025 03:24:23.900] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: weecbx moved too quickly! -19.72753467742973,0.0,-3.7336286661898157
+[05Jul2025 03:24:31.293] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=148, y=142, z=-1513} but found not block entity block Block{minecraft:air} at location
+[05Jul2025 03:24:31.293] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:air} but failed at location BlockPos{x=148, y=142, z=-1513}
+[05Jul2025 03:24:31.294] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=148, y=173, z=-1513} but found not block entity block Block{minecraft:air} at location
+[05Jul2025 03:24:31.294] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:air} but failed at location BlockPos{x=148, y=173, z=-1513}
+[05Jul2025 03:25:14.270] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [weecbx: Set own game mode to Creative Mode]
+[05Jul2025 03:25:16.035] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [weecbx: Set own game mode to Survival Mode]
+[05Jul2025 03:25:22.495] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-588, y=173, z=-1369} but found not block entity block Block{minecraft:air} at location
+[05Jul2025 03:25:22.495] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:air} but failed at location BlockPos{x=-588, y=173, z=-1369}
+[05Jul2025 03:25:22.495] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-588, y=142, z=-1369} but found not block entity block Block{minecraft:air} at location
+[05Jul2025 03:25:22.495] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:air} but failed at location BlockPos{x=-588, y=142, z=-1369}
+[05Jul2025 03:25:24.308] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: weecbx moved too quickly! -0.8932875918962964,1.2522033402537147,13.329380510091141
+[05Jul2025 03:25:26.207] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: weecbx moved too quickly! -1.6159994126307993,0.0,22.35959245950221
+[05Jul2025 03:25:28.619] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: weecbx moved too quickly! 0.0,0.0,17.708980055915845
+[05Jul2025 03:25:29.569] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: weecbx moved too quickly! 1.3893379112927846,0.0,21.64599943908479
+[05Jul2025 03:25:32.494] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: weecbx moved too quickly! 0.0,0.0,24.290348835398618
+[05Jul2025 03:25:42.938] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-621, y=125, z=-1322} but found not block entity block Block{minecraft:air} at location
+[05Jul2025 03:25:42.939] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:air} but failed at location BlockPos{x=-621, y=125, z=-1322}
+[05Jul2025 03:25:48.593] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: weecbx moved too quickly! 0.8334343045589776,0.41999998688697815,22.749577500969053
+[05Jul2025 03:26:00.472] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-453, y=69, z=-728} but found not block entity block Block{minecraft:air} at location
+[05Jul2025 03:26:00.472] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:air} but failed at location BlockPos{x=-453, y=69, z=-728}
+[05Jul2025 03:26:20.839] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-356, y=127, z=-471} but found not block entity block Block{minecraft:air} at location
+[05Jul2025 03:26:20.839] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:air} but failed at location BlockPos{x=-356, y=127, z=-471}
+[05Jul2025 03:26:23.943] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: weecbx moved wrongly!
+[05Jul2025 03:26:26.299] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: weecbx moved too quickly! 10.47960083458264,0.7567592881772498,-0.21240139096801158
+[05Jul2025 03:26:26.892] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: weecbx moved too quickly! 17.839662378960952,-0.018571334211230806,-0.36746972370815456
+[05Jul2025 03:26:27.854] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-376, y=176, z=-396} but found not block entity block Block{minecraft:air} at location
+[05Jul2025 03:26:27.854] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:air} but failed at location BlockPos{x=-376, y=176, z=-396}
+[05Jul2025 03:26:27.896] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: weecbx moved too quickly! 18.68240789830844,0.41999998688697815,0.46077654336704654
+[05Jul2025 03:26:28.827] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: weecbx moved too quickly! 10.760113976114837,-1.0,-0.2256132684218528
+[05Jul2025 03:26:32.383] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-453, y=174, z=-344} but found not block entity block Block{minecraft:air} at location
+[05Jul2025 03:26:32.383] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:air} but failed at location BlockPos{x=-453, y=174, z=-344}
+[05Jul2025 03:27:09.503] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: weecbx moved too quickly! 4.074402234362367,-0.16840001795291926,-10.827952446503673
+[05Jul2025 03:27:14.926] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: weecbx moved too quickly! 7.690131776629329,0.7491326388584127,-7.063353979432691
+[05Jul2025 03:28:05.774] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: weecbx lost connection: Disconnected
+[05Jul2025 03:28:05.774] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: weecbx left the game
