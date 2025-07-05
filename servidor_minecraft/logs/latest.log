@@ -12758,3 +12758,46 @@ com.google.gson.JsonSyntaxException: Expected itemGroup.minecells.minecells to b
 [05Jul2025 03:08:25.562] [Server thread/INFO] [com.brass_amber.ba_bt.BABTMain/]: Setting obelisk data
 [05Jul2025 03:08:35.523] [Server thread/INFO] [mixin/]: Mixing MixinPiglinTasks from enigmaticlegacy.mixins.json into net.minecraft.world.entity.monster.piglin.PiglinAi
 [05Jul2025 03:08:35.523] [Server thread/INFO] [mixin/]: Renaming synthetic method lambda$onPiglinBarter$0(Ljava/util/List;Lnet/minecraft/world/item/ItemStack;)V to md853e31$lambda$onPiglinBarter$0$2 in enigmaticlegacy.mixins.json:MixinPiglinTasks from mod (unknown)
+[05Jul2025 03:13:14.329] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [weecbx: Set own game mode to Spectator Mode]
+[05Jul2025 03:13:39.918] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [weecbx: Set own game mode to Survival Mode]
+[05Jul2025 03:13:57.918] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [weecbx: Set own game mode to Spectator Mode]
+[05Jul2025 03:14:16.840] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [weecbx: Set own game mode to Survival Mode]
+[05Jul2025 03:14:18.534] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [weecbx: Set own game mode to Creative Mode]
+[05Jul2025 03:14:46.519] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [weecbx: Set own game mode to Survival Mode]
+[05Jul2025 03:14:47.519] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: weecbx has made the advancement [advancements.minecells.vine_rune]
+[05Jul2025 03:14:55.785] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: weecbx has made the advancement [advancements.minecells.insufferable_crypt]
+[05Jul2025 03:14:56.102] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: weecbx moved too quickly! -0.9270476447924025,-6.5,-79.86250001192093
+[05Jul2025 03:15:16.968] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [weecbx: Set own game mode to Spectator Mode]
+[05Jul2025 03:15:27.117] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [weecbx: Set own game mode to Survival Mode]
+[05Jul2025 03:15:33.778] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [weecbx: Set own game mode to Creative Mode]
+[05Jul2025 03:15:51.184] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [weecbx: Set own game mode to Survival Mode]
+[05Jul2025 03:17:35.875] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: weecbx has made the advancement [advancements.minecells.conjunctivius]
+[05Jul2025 03:18:07.140] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [weecbx: Set own game mode to Spectator Mode]
+[05Jul2025 03:18:21.618] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [weecbx: Set own game mode to Survival Mode]
+[05Jul2025 03:18:23.000] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: weecbx moved too quickly! 1.0105210605734136,8.5,82.13749998807907
+[05Jul2025 03:18:33.337] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [weecbx: Set own game mode to Spectator Mode]
+[05Jul2025 03:19:07.088] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [weecbx: Set own game mode to Survival Mode]
+[05Jul2025 03:19:09.778] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: weecbx has made the advancement [advancements.minecells.promenade]
+[05Jul2025 03:19:10.349] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: weecbx moved too quickly! -5.368199836241606,41.5,9.862500011920929
+[05Jul2025 03:19:17.655] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=91, y=61, z=-952} but found not block entity block Block{minecraft:air} at location
+[05Jul2025 03:19:17.655] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:air} but failed at location BlockPos{x=91, y=61, z=-952}
+[05Jul2025 03:19:17.655] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=91, y=30, z=-952} but found not block entity block Block{minecraft:air} at location
+[05Jul2025 03:19:17.655] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:air} but failed at location BlockPos{x=91, y=30, z=-952}
+[05Jul2025 03:19:34.284] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=203, y=174, z=-1080} but found not block entity block Block{minecraft:air} at location
+[05Jul2025 03:19:34.284] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:air} but failed at location BlockPos{x=203, y=174, z=-1080}
+[05Jul2025 03:19:47.631] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-92, y=63, z=-713} but found not block entity block Block{minecraft:air} at location
+[05Jul2025 03:19:47.632] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:air} but failed at location BlockPos{x=-92, y=63, z=-713}
+[05Jul2025 03:19:47.788] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-116, y=16, z=-711} but found not block entity block Block{minecraft:air} at location
+[05Jul2025 03:19:47.788] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:air} but failed at location BlockPos{x=-116, y=16, z=-711}
+[05Jul2025 03:20:18.880] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [weecbx: Set own game mode to Creative Mode]
+[05Jul2025 03:20:51.643] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [weecbx: Set own game mode to Spectator Mode]
+[05Jul2025 03:21:25.234] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [weecbx: Set own game mode to Creative Mode]
+[05Jul2025 03:21:26.522] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [weecbx: Set own game mode to Survival Mode]
+[05Jul2025 03:22:05.021] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [weecbx: Set own game mode to Spectator Mode]
+[05Jul2025 03:22:09.533] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: weecbx moved too quickly! -3.3126253861769968,6.37500025331974,7.140926633594972
+[05Jul2025 03:22:09.533] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=123, y=173, z=-360} but found not block entity block Block{minecraft:air} at location
+[05Jul2025 03:22:09.534] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:air} but failed at location BlockPos{x=123, y=173, z=-360}
+[05Jul2025 03:22:09.630] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=147, y=126, z=-362} but found not block entity block Block{minecraft:air} at location
+[05Jul2025 03:22:09.630] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:air} but failed at location BlockPos{x=147, y=126, z=-362}
+[05Jul2025 03:22:11.480] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-197, y=68, z=-696} but found not block entity block Block{minecraft:air} at location
+[05Jul2025 03:22:11.480] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:air} but failed at location BlockPos{x=-197, y=68, z=-696}
