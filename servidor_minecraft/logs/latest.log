@@ -12732,3 +12732,14 @@ com.google.gson.JsonSyntaxException: Expected itemGroup.minecells.minecells to b
 [05Jul2025 02:39:25.558] [Netty Epoll Server IO #5/INFO] [owo/]: Receiving client config
 [05Jul2025 02:39:27.487] [Server thread/INFO] [Enigmatic Legacy/INFO]: Blue Skies detected: true
 [05Jul2025 02:39:27.554] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3091ms or 61 ticks behind
+[05Jul2025 02:43:32.481] [Server thread/INFO] [com.brass_amber.ba_bt.BABTMain/]: Setting obelisk data
+[05Jul2025 02:48:32.421] [Server thread/INFO] [com.brass_amber.ba_bt.BABTMain/]: Setting obelisk data
+[05Jul2025 02:48:58.146] [Server thread/INFO] [com.brass_amber.ba_bt.BABTMain/]: Setting obelisk data
+[05Jul2025 02:49:08.204] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [weecbx: Set own game mode to Creative Mode]
+[05Jul2025 02:49:09.181] [Server thread/INFO] [com.brass_amber.ba_bt.BABTMain/]: Setting obelisk data
+[05Jul2025 02:49:12.397] [Server thread/INFO] [com.brass_amber.ba_bt.BABTMain/]: Setting obelisk data
+[05Jul2025 02:49:14.297] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [weecbx: Set own game mode to Survival Mode]
+[05Jul2025 02:49:16.241] [Server thread/INFO] [com.brass_amber.ba_bt.BABTMain/]: Setting obelisk data
+[05Jul2025 02:49:19.083] [Server thread/INFO] [com.brass_amber.ba_bt.BABTMain/]: Setting obelisk data
+[05Jul2025 02:49:43.016] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/1839, l='ServerLevel[world]', x=-1639.50, y=77.00, z=-1977.50]
+[05Jul2025 02:51:21.916] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/2047, l='ServerLevel[world]', x=-1646.50, y=77.00, z=-1971.50]
