@@ -12743,3 +12743,18 @@ com.google.gson.JsonSyntaxException: Expected itemGroup.minecells.minecells to b
 [05Jul2025 02:49:19.083] [Server thread/INFO] [com.brass_amber.ba_bt.BABTMain/]: Setting obelisk data
 [05Jul2025 02:49:43.016] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/1839, l='ServerLevel[world]', x=-1639.50, y=77.00, z=-1977.50]
 [05Jul2025 02:51:21.916] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/2047, l='ServerLevel[world]', x=-1646.50, y=77.00, z=-1971.50]
+[05Jul2025 02:52:31.402] [Server thread/INFO] [com.brass_amber.ba_bt.BABTMain/]: Setting obelisk data
+[05Jul2025 02:52:35.235] [Server thread/INFO] [com.brass_amber.ba_bt.BABTMain/]: Setting obelisk data
+[05Jul2025 02:52:35.944] [Server thread/INFO] [com.brass_amber.ba_bt.BABTMain/]: Setting obelisk data
+[05Jul2025 02:52:55.335] [Server thread/INFO] [com.brass_amber.ba_bt.BABTMain/]: Setting obelisk data
+[05Jul2025 02:53:32.405] [Server thread/INFO] [com.brass_amber.ba_bt.BABTMain/]: Setting obelisk data
+[05Jul2025 02:54:56.895] [Server thread/INFO] [com.brass_amber.ba_bt.BABTMain/]: Setting obelisk data
+[05Jul2025 02:55:45.073] [Worker-Main-19/INFO] [com.brass_amber.ba_bt.BABTMain/]: land_tower Tower at BlockPos{x=-712, y=68, z=-2424} [-44, -151]
+[05Jul2025 02:55:45.075] [Worker-Main-19/INFO] [com.brass_amber.ba_bt.worldGen.structures.TowerPieces/]: Tower name: land_tower Variant: normal
+[05Jul2025 03:01:23.654] [Server thread/INFO] [com.brass_amber.ba_bt.BABTMain/]: Setting obelisk data
+[05Jul2025 03:06:47.096] [Server thread/INFO] [com.brass_amber.ba_bt.BABTMain/]: Setting obelisk data
+[05Jul2025 03:08:24.081] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: weecbx has made the advancement [advancements.minecells.prison]
+[05Jul2025 03:08:25.483] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: weecbx moved too quickly! -48.86250001192093,-29.5,-391.7644368883365
+[05Jul2025 03:08:25.562] [Server thread/INFO] [com.brass_amber.ba_bt.BABTMain/]: Setting obelisk data
+[05Jul2025 03:08:35.523] [Server thread/INFO] [mixin/]: Mixing MixinPiglinTasks from enigmaticlegacy.mixins.json into net.minecraft.world.entity.monster.piglin.PiglinAi
+[05Jul2025 03:08:35.523] [Server thread/INFO] [mixin/]: Renaming synthetic method lambda$onPiglinBarter$0(Ljava/util/List;Lnet/minecraft/world/item/ItemStack;)V to md853e31$lambda$onPiglinBarter$0$2 in enigmaticlegacy.mixins.json:MixinPiglinTasks from mod (unknown)
