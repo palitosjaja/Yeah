@@ -1395,3 +1395,17 @@ com.google.gson.JsonSyntaxException: Unknown item 'soulsweapons:frenzied_shade_d
 [19Jul2025 03:05:42.359] [Server thread/INFO] [net.bettercombat.logic.WeaponRegistry/]: Encoded Weapon Attribute registry size (with package overhead): 218028 bytes (in 22 string chunks with the size of 10000)
 [19Jul2025 03:05:42.360] [Server thread/INFO] [patchouli/]: Sending reload packet to clients
 [19Jul2025 03:05:47.682] [Server thread/INFO] [com.github.alexthe666.alexsmobs.AlexsMobs/]: Found Pupfish chunk at 447 ~ -592 after 64 tries
+[19Jul2025 04:45:08.303] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: dweecbx[/127.176.3.170:52873] logged in with entity id 379 at (-26.5, 73.0, -4.5)
+[19Jul2025 04:45:08.337] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: dweecbx joined the game
+[19Jul2025 04:45:08.703] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: dweecbx has made the advancement [Ice and Fire]
+[19Jul2025 04:45:08.709] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: dweecbx has made the advancement [Terramity]
+[19Jul2025 04:45:09.575] [Worker-Main-69/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[19Jul2025 04:45:14.692] [Worker-Main-71/INFO] [com.brass_amber.ba_bt.BABTMain/]: land_tower Tower at BlockPos{x=-376, y=96, z=184} [-24, 11]
+[19Jul2025 04:45:15.915] [Worker-Main-69/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[19Jul2025 04:45:15.917] [Worker-Main-69/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[19Jul2025 04:45:15.918] [Worker-Main-69/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[19Jul2025 04:45:15.919] [Worker-Main-69/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[19Jul2025 04:45:16.011] [Worker-Main-69/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[19Jul2025 04:45:16.011] [Worker-Main-69/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[19Jul2025 04:45:16.015] [Worker-Main-69/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[19Jul2025 04:45:16.016] [Worker-Main-69/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
